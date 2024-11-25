@@ -1,17 +1,17 @@
 Braille_Text_Up::
-	.braille "UP$"
+	.braille "HAUT$"
 
 Braille_Text_Down::
-	.braille "DOWN$"
+	.braille "BAS$"
 
 Braille_Text_Right::
-	.braille "RIGHT$"
+	.braille "DROITE$"
 
 Braille_Text_Left::
-	.braille "LEFT$"
+	.braille "GAUCHE$"
 
 Braille_Text_Cut::
-	.braille "CUT$"
+	.braille "COUPE$"
 
 Braille_Text_ABC::
 	.braille "ABC$"
@@ -44,73 +44,73 @@ Braille_Text_Comma::
 	.braille ",$"
 
 Braille_Text_Everything::
-	.braille "EVERYTHING$"
+	.braille "TOUT$"
 
 Braille_Text_HasMeaning1::
-	.braille "HAS MEANING$"
+	.braille "A UN SENS$"
 
 Braille_Text_Existence::
 	.braille "EXISTENCE$"
 
 Braille_Text_HasMeaning2::
-	.braille "HAS MEANING$"
+	.braille "A UN SENS$"
 
 Braille_Text_BeingAlive::
-	.braille "BEING ALIVE$"
+	.braille "ETRE EN VIE$"
 
 Braille_Text_HasMeaning3::
-	.braille "HAS MEANING$"
+	.braille "A UN SENS$"
 
 Braille_Text_HaveDreams::
-	.braille "HAVE DREAMS$"
+	.braille "AVOIR DES REVES$"
 
 Braille_Text_UsePower::
-	.braille "USE POWER.$"
+	.braille "UTILISER SA PUISSANCE.$"
 
 Braille_Text_LetTheTwo::
-	.braille "LET THE TWO$"
+	.braille "LAISSE LES DEUX$"
 
 Braille_Text_Glittering::
-	.braille "GLITTERING$"
+	.braille "SCINTILLANT$"
 
 Braille_Text_Stones::
-	.braille "STONES$"
+	.braille "PIERRES$"
 
 Braille_Text_OneInRed::
-	.braille "ONE IN RED$"
+	.braille "UN EN ROUGE$"
 
 Braille_Text_OneInBlue::
-	.braille "ONE IN BLUE$"
+	.braille "UN EN BLEU$"
 
 Braille_Text_ConnectThe::
-	.braille "CONNECT THE$"
+	.braille "CONNECTE LES$"
 
 Braille_Text_Past::
-	.braille "PAST.$"
+	.braille "PASSE.$"
 
 Braille_Text_TwoFriends::
-	.braille "TWO FRIENDS$"
+	.braille "DEUX AMIS$"
 
 Braille_Text_Sharing::
-	.braille "SHARING$"
+	.braille "PARTAGER$"
 
 Braille_Text_PowerOpen::
-	.braille "POWER OPEN$"
+	.braille "POUVOIR EVEIL$"
 
 Braille_Text_AWindowTo::
-	.braille "A WINDOW TO$"
+	.braille "UNE FENETRE VERS$"
 
 Braille_Text_ANewWorld::
-	.braille "A NEW WORLD$"
+	.braille "LE NOUVEAU MONDE$"
 
 Braille_Text_ThatGlows::
-	.braille "THAT GLOWS.$"
+	.braille "CA BRILLE.$"
 
 Braille_Text_TheNext::
-	.braille "THE NEXT$"
+	.braille "LE NOUVEAU$"
 
 Braille_Text_WorldWaits::
-	.braille "WORLD WAITS$"
+	.braille "MONDE ATTEND$"
 
 Braille_Text_ForYou::
-	.braille "FOR YOU.$"
+	.braille "SON HERO.$"
