@@ -66,7 +66,7 @@ Text_Telephone::
 	.string "ne pas l'utiliser.$"
 
 Text_Computer::
-	.string "C'est reù^mo de ùpts et de chiffres\n"
+	.string "C'est rempli de mots et de chiffres\n"
 	.string "incompréhensibles…$"
 
 Text_AdvertisingPoster::
