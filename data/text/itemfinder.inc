@@ -1,3 +1,3 @@
 Text_DugUpItemFromGround::
-	.string "{PLAYER} dug up one {STR_VAR_2}\n"
-	.string "from deep in the ground.$"
+	.string "{PLAYER} a trouvé un objet : {STR_VAR_2}\n"
+	.string "en creusant dans le sol.$"
