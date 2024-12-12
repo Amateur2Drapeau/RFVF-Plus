@@ -1,63 +1,60 @@
 @ The 5 texts below are supposed to be in FourIsland_House1
 Text_BodySlamTeach::
-    .string "Ready?\n"
-    .string "Boing!\p"
-    .string "We're having a BODY SLAM match\n"
-    .string "to see who wimps out first.\p"
-    .string "If you were to join us, you'd be\n"
-    .string "squashed like a bug, though…\p"
-    .string "How about I teach BODY SLAM to\n"
-    .string "a POKéMON of yours instead?$"
+    .string "Prêts?\n"
+    .string "Go!\p"
+    .string "On fait un concours de PLAQUAGE.\p"
+    .string "Si tu veux essayer, tu vas te faire\n"
+    .string "écraser comme un insecte!\p"
+    .string "Et si j'apprenais plutôt cette\n"
+    .string "capacité à un de tes POKéMON?$"
 
 Text_BodySlamDeclined::
-    .string "Come again!\n"
-    .string "Boing!$"
+    .string "Whoua!$"
 
 Text_BodySlamWhichMon::
-    .string "Which POKéMON wants to learn how\n"
-    .string "to BODY SLAM?$"
+    .string "A quel POKéMON vais-je\n"
+    .string "enseigner PLAQUAGE?$"
 
 Text_BodySlamTaught::
-    .string "Boioing!$"
+    .string "Allez!\n"
+    .string "Go!$"
 
 Text_BodySlamReteach::
-    .string "Ready for more?\n"
-    .string "Boing!\p"
-    .string "We're still seeing whose BODY SLAM\n"
-    .string "is stronger.\p"
-    .string "Hmm… And we'd still squash you\n"
-    .string "if you tried to join in.\p"
-    .string "How about I teach POKéMON\n"
-    .string "BODY SLAM instead for ¥5000?$"
+    .string "T'en veux encore?\n"
+    .string "Paf!\p"
+    .string "On fait encore un concours de\n"
+    .string "PLAQUAGE.\p"
+    .string "Tu veux que j'apprenne PLAQUAGE\n"
+    .string "à ton POKéMON pour ¥5000?$"
 
 Text_BodySlamReteach2::
-    .string "Do you want me to teach your\n"
-    .string "POKéMON BODY SLAM?$"
+    .string "Tu veux que j'apprenne\n"
+    .string "PLAQUAGE à un POKéMON?$"
 
 Text_BodySlamNotEnoughMoney::
-    .string "Boing? What's this?\n"
-    .string "You don't have ¥5000?\p"
-    .string "Well, you definitely can't join\n"
-    .string "our match, it's unsafe!\p"
-    .string "Come back later with the money,\n"
-    .string "and I'll teach your POKéMON instead.$"
+    .string "Paf? Pardon?\n"
+    .string "Tu n'as pas ¥5000?\p"
+    .string "Décidemment tu ne peux pas\n"
+    .string "rejoindre notre concours!\p"
+    .string "Reviens plus tard avec de\n"
+    .string "l'argent et je t'apprendais PLAQUAGE.$"
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
-    .string "There's a rare kind of ICE POKéMON\n"
-    .string "that lives in the cave.\p"
-    .string "We get a lot of visitors hoping to\n"
-    .string "see that POKéMON.$"
+    .string "Il y a un POKéMON GLACE très\n"
+    .string "rare qui vit dans cette grotte.\p"
+    .string "Y'a plein de monde qui vient ici\n"
+    .string "en espérant le voir.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-    .string "Oh? A POKéMON EGG?\n"
-    .string "…I have no idea.\p"
-    .string "…Oh, wait. The DAY-CARE people\n"
-    .string "in town were saying something.\p"
-    .string "They said that they'd found EGGS\n"
-    .string "before on their property.$"
+    .string "Oh? Un OEUF POKéMON?\n"
+    .string "…Aucune idée.\p"
+    .string "Oh, attends, il me semble que les\n"
+    .string "gens de la PENSION en parlaient.\p"
+    .string "Ils disaient en avoir déjà eu\n"
+    .string "chez eux.$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
-    .string "What's this?\p"
-    .string "The new POKéMON JOURNAL hasn't\n"
-    .string "arrived on this island?$"
+    .string "Quoi?\p"
+    .string "Le nouveau JOURNAL POKéMON\n"
+    .string "n'est pas encore arrivé sur l'île?$"
 

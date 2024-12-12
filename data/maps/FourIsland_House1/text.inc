@@ -2,6 +2,6 @@
 @ Theres also an unused JP version of that text in this file instead
 
 FourIsland_House1_Text_YoureAwfullyHeavy::
-    .string "There! Boing!\n"
-    .string "You're awfully heavy!$"
+    .string "Allez! Paf!\n"
+    .string "Pfiuu, pas mal.$"
 
