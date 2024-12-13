@@ -1502,7 +1502,7 @@ void CheckEventTickets(void)
         }
         if(haveOldSeaMap && shownOldSeaMap)
         {
-            multichoiceCase |= 1 << 0; //setting Old Sea Map bit
+            multichoiceCase |= 1 << 0; //setting VIEILLE CARTE bit
         }
         gSpecialVar_Result = multichoiceCase;
         return;

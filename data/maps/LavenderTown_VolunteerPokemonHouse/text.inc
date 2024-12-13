@@ -1,113 +1,112 @@
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
-    .string "I recently moved to this town.\p"
-    .string "I hear that MR. FUJI's not from\n"
-    .string "these parts originally, either.$"
+    .string "Je viens d'emménager ici.\p"
+    .string "Il paraît que MR. FUJI n'est\n"
+    .string "pas non plus du coin.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-    .string "That's odd, MR. FUJI isn't here.\n"
-    .string "Where'd he go?$"
+    .string "Ce sacré MR. FUJI n'est pas là.\n"
+    .string "Où est-il?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
-    .string "MR. FUJI had been praying alone\n"
-    .string "for CUBONE's mother.$"
+    .string "MR. FUJI a prié pour le repos de\n"
+    .string "la mère d'OSSELAIT.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
-    .string "This is really MR. FUJI's house.\p"
-    .string "He's really kind.\p"
-    .string "He looks after abandoned and\n"
-    .string "orphaned POKéMON.$"
+    .string "Voici la maison de MR. FUJI.\p"
+    .string "C'est vraiment un chic type!\p"
+    .string "Il est à la recherche des POKéMON\n"
+    .string "orphelins et abandonnés!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-    .string "It's so warm!\n"
-    .string "POKéMON are so nice to hug.$"
+    .string "C'est si doux! Faire un câlin à un\n"
+    .string "POKéMON, c'est chou!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
-    .string "NIDORINO: Gaoo!$"
+    .string "NIDORINO: Nido!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
-    .string "PSYDUCK: Gwappa!$"
+    .string "PSYKOKWAK: Kwak!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-    .string "MR. FUJI: {PLAYER}…\p"
-    .string "Your POKéDEX quest is one that\n"
-    .string "requires strong dedication.\p"
-    .string "Without deep love for POKéMON,\n"
-    .string "your quest may fail.\p"
-    .string "I'm not sure if this will help you,\n"
-    .string "but I'd like you to have it.$"
+    .string "MR. FUJI: {PLAYER}.\p"
+    .string "Ta quête pour compléter ton\n"
+    .string "POKéDEX échouera si tu n'aimes pas\l"
+    .string "tes POKéMON.\p"
+    .string "Je crois que ceci te sera utile.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} received a POKé FLUTE\n"
-    .string "from MR. FUJI.$"
+    .string "{PLAYER} obtient la\n"
+    .string "POKéFLUTE!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Upon hearing the POKé FLUTE,\n"
-    .string "sleeping POKéMON will spring awake.\p"
-    .string "Try using it on POKéMON that are\n"
-    .string "sleeping obstacles.$"
+    .string "En jouant de la POKéFLUTE, les\n"
+    .string "POKéMON endormis se réveilleront.\p"
+    .string "Elle marche sur tous les POKéMON.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-    .string "You must make room for this!$"
+    .string "Ton inventaire est plein!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-    .string "MR. FUJI: Has my POKé FLUTE\n"
-    .string "helped you?$"
+    .string "MR. FUJI: Ma FLUTE t'a été utile?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-    .string "POKéMON FAN MAGAZINE\n"
-    .string "Monthly Grand Prize Drawing!\p"
-    .string "The application form is…\p"
-    .string "Gone! It's been clipped out.\n"
-    .string "Someone must have applied already.$"
+    .string "Grand concours de dessin du\n"
+    .string "magazine des fans de POKéMON!\p"
+    .string "Le formulaire d'inscription est…\p"
+    .string "Il a disparu! Quelqu'un a déjà dû\n"
+    .string "l'utiliser.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-    .string "POKéMON magazines line the shelf.\p"
-    .string "POKéMON INSIDER…\p"
-    .string "POKéMON FAN…$"
+    .string "Des magazines POKéMON!\p"
+    .string "Des cahiers POKéMON!\p"
+    .string "Des dessins POKéMON!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_FindFarawayIsland::
-    .string "MR. FUJI: Have you found the\n"
-    .string "island on my OLD SEA MAP?$"
+    .string "MR. FUJI: As-tu trouvé l'ILE\n"
+    .string "indiquée sur ma VIEILLE CARTE?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_FoundMew::
     .string "MR. FUJI: {PLAYER}!\p"
-    .string "Did my OLD SEA MAP help you?\n"
-    .string "Did you find that POKéMON?$"
+    .string "Est-ce que ma VIEILLE CARTE\n"
+    .string "a été utile?\p"
+    .string "As-tu trouvé le POKéMON?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_DefeatedMew::
-    .string "Ah, so the poor thing fled\n"
-    .string "the moment it saw you.\p"
-    .string "Perhaps some wrongs can never\n"
-    .string "be righted…\p"
-    .string "I must thank you for your kind\n"
-    .string "concern anyway, {PLAYER}.\p"
-    .string "Maybe that POKéMON will return\n"
-    .string "someday…$"
+    .string "Ah, ce pauvre POKéMON s'est\n"
+    .string "enfuit lorsqu'il t'as vu?\p"
+    .string "Peut-être que certaines erreurs\n"
+    .string "ne peuvent être réparées…\p"
+    .string "Je dois quand même vous remercier\n"
+    .string "pour votre aide, {PLAYER}.\p"
+    .string "Peut-être que ce POKéMON\n"
+    .string "réapparaîtra un jour…$"
 
 LavenderTown_VolunteerPokemonHouse_Text_CaughtMew::
-    .string "You were able to befriend it?\n"
-    .string "Even after all it's been through?\p"
-    .string "Thank you, {PLAYER}!\p"
-    .string "You have eased my mind and\n"
-    .string "calmed that POKéMON's spirit.\p"
-    .string "I'm sure the both of you will\n"
-    .string "become even closer with time.$"
+    .string "Vous avez pu vous lier\n"
+    .strign "d'amitié avec lui? Même\p"
+    .string "après tout ce qu'il a enduré?\p"
+    .string "Merci, {PLAYER}!\p"
+    .string "Tu as apaisé ma conscience et\n"
+    .string "calmé ce pauvre POKéMON.\p"
+    .string "Je suis certains que vous\n"
+    .string "deviendrez encore plus proches\p"
+    .string "avec le temps.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_AnsweredNo::
-    .string "The OLD SEA MAP can show you\n"
-    .string "how to get to the island.\p"
-    .string "A sailor should be able to\n"
-    .string "read it and take you there.\p"
-    .string "You know someone with a boat,\n"
-    .string "Don't you, {PLAYER}?$"
+    .string "La VIEILLE CARTE indique\n"
+    .string "comment se rendre sur cette ILE.\p"
+    .string "Un marin devrait être capable de\n"
+    .string "la lire et de t'y emmener.\p"
+    .string "Tu connais quelqu'un avec un\n"
+    .string "bateau {PLAYER}?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_NotEncounteredMew::
-    .string "Ah, so you haven't found the\n"
-    .string "POKéMON there yet.\p"
-    .string "If I remember correctly, it\n"
-    .string "enjoys playing in the long grass.$"
+    .string "Tu n'as donc pas encore\n"
+    .string "trouvé le POKéMON.\p"
+    .string "Si je me souviens bien, il adore\n"
+    .string "jouer dans les hautes herbes.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HowAreYouAndMew::
-    .string "MR. FUJI: {PLAYER}! Welcome!\n"
-    .string "How are you and MEW doing?$"
+    .string "MR. FUJI: {PLAYER}! Bienvenue!\n"
+    .string "Comment allez-vous, mew et toi?$"
 

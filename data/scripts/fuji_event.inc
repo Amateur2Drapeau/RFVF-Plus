@@ -67,7 +67,7 @@ EventScript_FujiOutside_Text_2:
 	.string "MR. FUJI: Thank you, {PLAYER}.\pI have an old map to the island.\nI'm sure you've befriended a sailor\lor two during your quest.\pThey will be able to read this\nmap and take you there.$"
 
 EventScript_FujiOutside_Text_3:
-	.string "{PLAYER} received an OLD SEA MAP\nfrom MR. FUJI.$"
+	.string "{PLAYER} received an VIEILLE CARTE\nfrom MR. FUJI.$"
 
 EventScript_FujiOutside_Text_4:
 	.string "MR. FUJI: I know you will treat that\nPOKéMON with love and kindness.\pThank you, {PLAYER}.$"
