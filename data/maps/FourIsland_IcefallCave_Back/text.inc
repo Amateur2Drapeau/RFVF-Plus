@@ -1,8 +1,8 @@
 FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
-    .string "OLGA: Ne pozez pas vos mains zur\n"
-    .string "les POKéMON de zette grotte.\p"
-    .string "Faites ze que ze dis, ou vous\n"
-    .string "zallez avoir affaire à moi!$"
+    .string "OLGA: Ne posez pas vos mains sur\n"
+    .string "les POKéMON de cette grotte.\p"
+    .string "Faites ce que je dis, ou vous\n"
+    .string "allez avoir affaire à moi!$"
 
 FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
     .string "Pour qui tu te prends?\p"
@@ -11,15 +11,15 @@ FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
 
 FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
     .string "OLGA: {PLAYER}?!\n"
-    .string "Qu'est-ze que tu fais là?\p"
-    .string "Non, on verra za plus tard.\n"
+    .string "Qu'est-ce que tu fais là?\p"
+    .string "Non, on verra ça plus tard.\n"
     .string "J'ai bezoin de toi maintenant.\p"
-    .string "Aide-moi à me débarazzer de\n"
-    .string "zes voleurs.\p"
-    .string "Ils zattrapent les POKéMON\n"
+    .string "Aide-moi à me débarasser de\n"
+    .string "ces voleurs.\p"
+    .string "Ils attrapent les POKéMON\n"
     .string "et les revendent après!\p"
-    .string "A mon zignal!\n"
-    .string "Tu prends zelui-là, ya?$"
+    .string "A mon signal!\n"
+    .string "Tu prends celui-là, ya?$"
 
 FourIsland_IcefallCave_Back_Text_GruntIntro::
     .string "Qu-Quoi??\p"
@@ -31,24 +31,24 @@ FourIsland_IcefallCave_Back_Text_GruntDefeat::
 
 FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
     .string "OLGA: Humph.\n"
-    .string "Espèze de mizérable.\p"
+    .string "Espèce de misérable.\p"
     .string "Toi!\n"
     .string "Dis-moi!\p"
-    .string "Où avez-vous zemporté les\n"
+    .string "Où avez-vous emporté les\n"
     .string "POKéMON capturés?\p"
-    .string "Dites-moi tout zou bien…$"
+    .string "Dites-moi tout ou bien…$"
 
 FourIsland_IcefallCave_Back_Text_NotTellingYouThat::
     .string "Ja-jamais!\n"
     .string "Je ne dirai rien!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
-    .string "OLGA: Zi vous ne parlez pas,\n"
-    .string "nous zallons vous congeler.\p"
+    .string "OLGA: Si vous ne parlez pas,\n"
+    .string "nous allons vous congeler.\p"
     .string "Mon LOKHLASS est furieux de\n"
-    .string "ze que vous zavez fait.\p"
+    .string "ce que vous avez fait.\p"
     .string "Go, LOKHLASS!\n"
-    .string "LAZER GLACE…$"
+    .string "LASER GLACE…$"
 
 FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
     .string "OK, OK, je vais parler!\p"
@@ -61,10 +61,10 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
     .string "Hehehehehe!$"
 
 FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
-    .string "{PLAYER}, merzi beaucoup.\n"
-    .string "Mais z'est vraiment affreux…\p"
-    .string "Je zuis née et j'ai grandi sur\n"
-    .string "zes ILES.\p"
-    .string "Je ne me doutais pas que zes\n"
-    .string "bandits étaient izi…$"
+    .string "{PLAYER}, merci beaucoup.\n"
+    .string "Mais c'est vraiment affreux…\p"
+    .string "Je suis née et j'ai grandi sur\n"
+    .string "ces ILES.\p"
+    .string "Je ne me doutais pas que ces\n"
+    .string "bandits étaient ici…$"
 
