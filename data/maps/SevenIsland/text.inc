@@ -1,98 +1,99 @@
 Text_SwordsDanceTeach::
-    .string "Not many people come out here.\p"
-    .string "If I train here, I'm convinced that\n"
-    .string "I'll get stronger and stronger.\p"
-    .string "Yep, stronger and stronger…\p"
-    .string "How would you like to learn a move\n"
-    .string "like that? It's SWORDS DANCE.$"
+    .string "Y'a pas beaucoup de monde qui\n"
+    .string "passe dans le coin.\p"
+    .string "Si je m'entraîne là, je deviendrai\n"
+    .string "de plus en plus fort, c'est sûr!\p"
+    .string "Ouais, de plus en plus fort…\p"
+    .string "Ça te dirait d'apprendre cette\n"
+    .string "capacité? C'est DANSE-LAMES.$"
 
 Text_SwordsDanceDeclined::
-    .string "Well, that's fine, too.$"
+    .string Ben, tant pis.$"
 
 Text_SwordsDanceWhichMon::
-    .string "All right, pick which POKéMON\n"
-    .string "I should teach it to.$"
+    .string "Cool, choisis le POKéMON qui\n"
+    .string "doit l'apprendre.$"
 
 Text_SwordsDanceReteach::
-    .string "I'm still trying to get stronger\n"
-    .string "and stronger…\p"
-    .string "I've heard that vitamins strengthen\n"
-    .string "POKéMON, but they're so expensive!\p"
-    .string "So, I started charging ¥5000 to\n"
-    .string "teach other POKéMON SWORDS DANCE.$"
+    .string "J'essaye de devenir de plus\n"
+    .string "en plus fort…\p"
+    .string "J'ai entendu que des objets pour\n"
+    .string "renforcer les POKéMON existent mais\p"
+    .string "ils sont très cher!\p"
+    .string "Donc maintenant je fais payer\n"
+    .string "¥5000 pour apprendre DANSE-LAMES.$"
 
 Text_SwordsDanceReteach2::
-    .string "Would you like me to teach your\n"
-    .string "POKéMON the move SWORDS DANCE?$"
+    .string "Tu veux apprendre DANSE-LAMES à\n"
+    .string "un de tes POKéMON?$"
 
 Text_SwordsDanceNotEnoughMoney::
-    .string "You don't have ¥5000?\p"
-    .string "I'm sorry, but I need the money\n"
-    .string "to make my POKéMON strong.\p"
-    .string "I'll teach SWORDS DANCE to you\n"
-    .string "when you come back with enough.$"
+    .string "Tu n'as pas ¥5000?\p"
+    .string "Je suis désolé mais j'ai besoin\n"
+    .string "d'argent pour améliorer mes POKéMON.\p"
+    .string "Je t'apprendrais DANSE-LAMES quand\n"
+    .string "tu auras assez d'argent.$"
 
 Text_SwordsDanceTaught::
-    .string "If only we could keep getting\n"
-    .string "stronger and stronger, eh?$"
+    .string "Si seulement on pouvait toujours\n"
+    .string "progresser, ça serait mortel!$"
 
 SevenIsland_Text_IslandSign::
-    .string "SEVEN ISLAND\n"
-    .string "Quest Island of Infinity$"
+    .string "ILE 7\n"
+    .string "L'île de l'infinité$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-    .string "These islands are called the SEVII\n"
-    .string "ISLANDS because there are seven.\p"
-    .string "…Or at least that's what the young\n"
-    .string "people believe.\p"
-    .string "The truth is, these islands are so\n"
-    .string "named because they are said to\l"
-    .string "have been made in seven days.$"
+    .string "On appelle ces 7 îles les ILES\n"
+    .string "SEVII, mais je sais pas pourquoi.\p"
+    .string "… En tout cas c'est plein\n"
+    .string "de jeunes ici.\p"
+    .string "A ce qu'on raconte, elles auraient\n"
+    .string "été créées en 7 jours.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-    .string "This island has been left virtually\n"
-    .string "untouched in its natural state.\p"
-    .string "It could be a little difficult to\n"
-    .string "hike around because of that.$"
+    .string "Ces îles ont été conservées dans\n"
+    .string "leur état naturel.\p"
+    .string "Ça rend les excursions un peu\n"
+    .string "plus difficiles que la normale.$"
 
 SevenIsland_Text_FadedWriting::
-    .string "The writing is too faded to read…$"
+    .string "Le texte s'est effacé avec le temps…$"
 
 SevenIsland_Text_BattleHouseWithNoVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "…The sign-in sheet is empty.$"
+    .string "MAISON DE COMBAT\n"
+    .string "…Il n'y a personne d'inscrit.$"
 
 SevenIsland_Text_BattleHouseOneVisitor::
-    .string "BATTLE HOUSE\n"
-    .string "There is one person signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a une personne d'inscrite:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseTwoVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "There are two people signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a deux personnes d'inscrites:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseThreeVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "There are three people signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a trois personnes d'inscrites:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseFourVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "There are four people signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a quatre personnes d'inscrites:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseFiveVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "There are five people signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a cinq personnes d'inscrites:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseSixVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "There are six people signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a six personnes d'inscrites:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseSevenVisitors::
-    .string "BATTLE HOUSE\n"
-    .string "There are seven people signed in:\p"
+    .string "MAISON DE COMBAT\n"
+    .string "Il y a sept personnes d'inscrites:\p"
     .string "{STR_VAR_1}.$"

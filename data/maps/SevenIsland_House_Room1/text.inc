@@ -1,170 +1,171 @@
 SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
-    .string "I may not look like much now,\n"
-    .string "but when I was younger…\p"
-    .string "I flew everywhere, challenging\n"
-    .string "TRAINERS wherever I found them.\p"
-    .string "Now, my only source of enjoyment\n"
-    .string "is reminiscing about the past while\l"
-    .string "watching tough TRAINERS battle.\p"
-    .string "Wait, those BADGES…\n"
-    .string "You've beaten the GYMS of KANTO?\l"
-    .string "Funny, you don't look like much.\p"
-    .string "But, then, you must know many\n"
-    .string "tough TRAINERS from your travels.\p"
-    .string "Can you stay a while and tell\n"
-    .string "a bored old woman about them?$"
+    .string "Je sais que c'est dur à croire,\n"
+    .string "mais quand j'étais plus jeune,\p"
+    .string "j'adorais être sur les routes pour\n"
+    .string "affronter tous les DRESSEURS\p"
+    .string "que je pouvais rencontrer.\p"
+    .string "Maintenant, ma seule source de\n"
+    .string "distraction est de me rappeler\p"
+    .string "du passé en regardant des\n"
+    .string "combats.$"
+    .string "Attends, ces BADGES…\n"
+    .string "Tu as battu les CHAMPION de KANTO?\l"
+    .string "Tu es si fort que ça ?\p"
+    .string "Tu as du rencontrer beaucoup\n"
+    .string "de DRESSEURS redoutables.\p"
+    .string "Peux tu rester un peu avec moi\n"
+    .string "pour me raconter ton périple?$"
 
 SevenIsland_House_Room1_Text_ShowFameChecker::
-    .string "Show her the FAME CHECKER?$"
+    .string "Lui montrer le MEMORYDEX?$"
 
 SevenIsland_House_Room1_Text_NoShowFameChecker::
-    .string "I see…\n"
-    .string "Well, go on with your travels then…$"
+    .string "Je vois…\n"
+    .string "Je te souhaite bon voyage…$"
 
 SevenIsland_House_Room1_Text_ManyTrainersWhich::
-    .string "There are many TRAINERS in here.\n"
-    .string "Who do you want to tell me about?$"
+    .string "Il y a beaucoup de DRESSEURS là dedans.\n"
+    .string "De qui veux tu me parler?$"
 
 SevenIsland_House_Room1_Text_NotFullFamecheckerForPerson::
     .string "Hmm… {STR_VAR_1}…?\p"
-    .string "There's not enough information on\n"
-    .string "{STR_VAR_1} for me to be able to\l"
-    .string "truly tell how {STR_VAR_2} battles.\p"
-    .string "Maybe once you've gathered more\n"
-    .string "knowledge, you can show me again.$"
+    .string "Il n'y a pas assez d'informations sur\n"
+    .string "{STR_VAR_1} pour savoir comment\l"
+    .string "{STR_VAR_2} combat.\p"
+    .string "Reviens me voir quand tu auras\n"
+    .string "plus d'informations à son sujet.$"
 
 SevenIsland_House_Room1_Text_FullFamecheckerForPerson::
     .string "…!\p"
-    .string "Yes, {STR_VAR_1} seems like exactly\n"
-    .string "the type of battler I like to watch.$"
+    .string "Oui, {STR_VAR_1} est vraiment le\n"
+    .string "genre de DRESSEUR que j'aime voir!$"
 
 SevenIsland_House_Room1_Text_FirstFullFamecheckerPerson::
-    .string "Let me tell you something. There's\n"
-    .string "a hidden room in the basement.\p"
-    .string "I once trained my POKéMON there and\n"
-    .string "invited others down to battle too.\p"
-    .string "I think I'm going to reopen the\n"
-    .string "basement room and invite {STR_VAR_1}\l"
-    .string "here to train.$"
+    .string "Je vais t'avouer une chose, il\n"
+    .string "y a une salle cachée dans la cave.\p"
+    .string "Je me suis entraînée à l'époque\n"
+    .string "à l'intérieur avec d'autres DRESSEURS\p"
+    .string "Je vais inviter {STR_VAR_1} et\n"
+    .string "réouvrir la salle.\p"
+    .string "Comme ça tu pourras t'entraîner!$"
 
 SevenIsland_House_Room1_Text_CallSpearow::
-    .string "SPEAROW!\n"
-    .string "Come here please!$"
+    .string "PIAFABEC!\n"
+    .string "Viens ici s'il te plait!$"
 
 SevenIsland_House_Room1_Text_DeliverToLeader::
-    .string "Take this invitation to {STR_VAR_1}\n"
-    .string "in the {STR_VAR_3} GYM!$"
+    .string "Envoie cette invitation à {STR_VAR_1}.\n"
+    .string "Il se trouve à {STR_VAR_3}!$"
 
 SevenIsland_House_Room1_Text_FirstTakeTime::
-    .string "It'll take time for SPEAROW\n"
-    .string "to return with a reply.\p"
-    .string "You don't have to wait here\n"
-    .string "with me. Come back later.\p"
-    .string "In the mean time, I'll start\n"
-    .string "renovating the basement.$"
+    .string "Il va se passer du temps avant\n"
+    .string "le retour de PIAFABEC.\p"
+    .string "Tu n'as pas besoin d'attendre\n"
+    .string "ici. Reviens plus tard.\p"
+    .string "Pendant ce temps je vais\n"
+    .string "rénover la cave.$"
 
 SevenIsland_House_Room1_Text_TakeTime::
-    .string "It'll take time for SPEAROW\n"
-    .string "to return with a reply.\p"
-    .string "You don't have to wait here\n"
-    .string "with me. Come back later.$"
+    .string "Il va se passer du temps avant\n"
+    .string "le retour de PIAFABEC.\p"
+    .string "Tu n'as pas besoin d'attendre\n"
+    .string "ici. Reviens plus tard.\p$"
 
 SevenIsland_House_Room1_Text_AlreadyShownPerson::
     .string "{STR_VAR_1}?\p"
-    .string "We've already invited {STR_VAR_1}\n"
-    .string "to train here with us.$"
+    .string "J'ai déjà envoyé une invitation à\n"
+    .string "{STR_VAR_1}.$"
 
 SevenIsland_House_Room1_Text_SpearowNotBackYet::
-    .string "SPEAROW hasn't come back yet.\n"
-    .string "We'll have to wait a little longer\l"
-    .string "for the reply to our invitation.$"
+    .string "PIAFABEC n'est pas encore rentré.\n"
+    .string "Nous allons devoir attendre encore\l"
+    .string "un peu pour avoir une réponse.$"
 
 SevenIsland_House_Room1_Text_InviteBasementOpen::
-    .string "I'm going to pen an invitation to\n"
-    .string "{STR_VAR_1} and send it right now!$"
+    .string "Je vais écrire une lettre à\n"
+    .string "{STR_VAR_1} et l'envoyer de suite!$"
 
 SevenIsland_House_Room1_Text_HeString::
-    .string "he$"
+    .string "il$"
 
 SevenIsland_House_Room1_Text_SheString::
-    .string "she$"
+    .string "elle$"
 
 SevenIsland_House_Room1_Text_Spearow::
-    .string "SPEAROW: Tetweet!$"
+    .string "PIAFABEC: Piaf!$"
 
 SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
-    .string "There is a slight breeze blowing\n"
-    .string "around the box.$"
+    .string "Il y a un courant d'air derrière\n"
+    .string "les cartons.$"
 
 SevenIsland_House_Room1_Text_OldWomanNoVisitors::
-    .string "Hello, {PLAYER}.\n"
-    .string "Have you come to train?\p"
-    .string "Right now no one is visiting\n"
-    .string "in the basement, but if you've\l"
-    .string "learned about more tough TRAINERS,\l"
-    .string "I'd like to hear about them!$"
+    .string "Bonjour, {PLAYER}.\n"
+    .string "Tu viens pour t'entraîner?\p"
+    .string "Pour le moment personne n'est\n"
+    .string "arrivé, mais si tu connais d'autres\l"
+    .string "DRESSEURS costauds alors j'aimerai\l"
+    .string "bien en entendre parler!$"
 
 SevenIsland_House_Room1_Text_OldWomanOneVisitor::
-    .string "Hello, {PLAYER}.\n"
-    .string "Have you come to train?\p"
-    .string "Right now {STR_VAR_1} is visiting\n"
-    .string "in the basement.\p"
-    .string "Or have you learned about\n"
-    .string "more tough TRAINERS?$"
+    .string "Bonjour, {PLAYER}.\n"
+    .string "Tu viens pour t'entraîner?\p"
+    .string "{STR_VAR_1} est arrivé, il se\n"
+    .string "trouve dans la cave.\p"
+    .string "Ou alors tu connais des DRESSEURS\n"
+    .string "encore plus forts?$"
 
 SevenIsland_House_Room1_Text_OldWomanMultiVisitors::
-    .string "Hello, {PLAYER}.\n"
-    .string "Have you come to train?\p"
-    .string "Right now {STR_VAR_2} TRAINERS are\n"
-    .string "visiting in the basement.\p"
-    .string "Or have you learned about\n"
-    .string "more tough TRAINERS?$"
+    .string "Bonjour, {PLAYER}.\n"
+    .string "Tu viens pour t'entraîner?\p"
+    .string "{STR_VAR_2} DRESSEURS se trouvent\n"
+    .string "dans la cave.\p"
+    .string "Ou alors tu connais des DRESSEURS\n"
+    .string "encore plus forts?$"
 
 SevenIsland_House_Room1_Text_OldWomanToldAllNoVisitors::
-    .string "Hello, {PLAYER}.\n"
-    .string "Have you come to train?\p"
-    .string "Right now no one is visiting\n"
-    .string "in the basement.\p"
-    .string "Despite that, my heart is filled\n"
-    .string "with joy at the battles I've\l"
-    .string "watched thanks to you.$"
+    .string "Bonjour, {PLAYER}.\n"
+    .string "Tu viens pour t'entraîner?\p"
+    .string "Pour le moment personne n'est\n"
+    .string "arrivé. Mais malgré cela\p"
+    .string "je suis comblée de joie avec\n"
+    .string "les combats que j'ai vu!$"
 
 SevenIsland_House_Room1_Text_OldWomanToldAllOneVisitor::
-    .string "Hello, {PLAYER}.\n"
-    .string "Have you come to train?\p"
-    .string "Right now {STR_VAR_1} is visiting\n"
-    .string "in the basement.\p"
-    .string "I can't thank you enough for\n"
-    .string "filling my life with the joy of\l"
-    .string "watching great battles again.$"
+    .string "Bonjour, {PLAYER}.\n"
+    .string "Tu viens pour t'entraîner?\p"
+    .string "{STR_VAR_1} est arrivé, il se\n"
+    .string "trouve dans la cave.\p"
+    .string "Je ne pourrais jamais te\n"
+    .string "remercier assez pour tout le\l"
+    .string "bonheur que tu apportes dans ma vie.$"
 
 SevenIsland_House_Room1_Text_OldWomanToldAllMultiVisitors::
-    .string "Hello, {PLAYER}.\n"
-    .string "Have you come to train?\p"
-    .string "Right now {STR_VAR_2} TRAINERS are\n"
-    .string "visiting in the basement.\p"
-    .string "I can't thank you enough for\n"
-    .string "filling my life with the joy of\l"
-    .string "watching great battles again.$"
+    .string "Bonjour, {PLAYER}.\n"
+    .string "Tu viens pour t'entraîner?\p"
+    .string "{STR_VAR_2} DRESSEURS se trouvent\n"
+    .string "dans la cave.\p"
+    .string "Je ne pourrais jamais te\n"
+    .string "remercier assez pour tout le\l"
+    .string "bonheur que tu apportes dans ma vie.$"
 
 SevenIsland_House_Room1_Text_NoShowFameChecker2::
-    .string "Okay, {PLAYER}, let me know\n"
-    .string "when you've learned more.$"
+    .string "Ok, {PLAYER}, dis moi quand\n"
+    .string "tu auras appris de nouvelles choses.$"
 
 SevenIsland_House_Room1_Text_Two::
-    .string "two$"
+    .string "Deux$"
 
 SevenIsland_House_Room1_Text_Three::
-    .string "three$"
+    .string "Trois$"
 
 SevenIsland_House_Room1_Text_Four::
-    .string "four$"
+    .string "Quatre$"
 
 SevenIsland_House_Room1_Text_Five::
-    .string "five$"
+    .string "Cinq$"
 
 SevenIsland_House_Room1_Text_Six::
-    .string "six$"
+    .string "Six$"
 
 SevenIsland_House_Room1_Text_Seven::
-    .string "seven$"
+    .string "Sept$"
