@@ -1,47 +1,46 @@
 Text_RockSlideTeach::
-    .string "When you're up on a rocky mountain\n"
-    .string "like this, rockslides are a threat.\p"
-    .string "Can you imagine?\n"
-    .string "Boulders tumbling down on you?\p"
-    .string "That'd be, like, waaaaaaaaaaah!\n"
-    .string "Total terror!\p"
-    .string "You don't seem to be scared.\n"
-    .string "Want to try using ROCK SLIDE?$"
+    .string "A la montagne, il faut faire\n"
+    .string "attention aux chutes de pierres.\p"
+    .string "Tu imagines? Des rochers en train\n"
+    .string "de tomber sur toi?\p"
+    .string "Brrrr, ça serait terrible!\p"
+    .string "Ça te fait pas peur? Tu voudrais\n"
+    .string "apprendre EBOULEMENT?$"
 
 Text_RockSlideDeclined::
-    .string "Oh, so you are scared after all.$"
+    .string "Oh, donc ça te fait peur…$"
 
 Text_RockSlideWhichMon::
-    .string "Which POKéMON should I teach\n"
-    .string "ROCK SLIDE?$"
+    .string "A quel POKéMON enseigner\n"
+    .string "EBOULEMENT?$"
 
 Text_RockSlideTaught::
-    .string "It might be scary to use it in this\n"
-    .string "tunnel…$"
+    .string "Il vaudrait peut-être mieux éviter\n"
+    .string "de l'utiliser dans ce tunnel…$"
 
 Text_RockSlideReteach::
-    .string "You really aren't afraid of rockslides\n"
-    .string "if you're here spelunking again.\p"
-    .string "I can teach you ROCK SLIDE\n"
-    .string "once more if you can pay ¥5000.$"
+    .string "Tu n'as vraiment peur de rien!\n"
+    .string "Si tu aimes les grottes je peux\p"
+    .string "encore t'apprendre EBOULEMENT\n"
+    .string "si tu me donnes ¥5000.$"
 
 Text_RockSlideReteach2::
-    .string "Would you like me to teach\n"
-    .string "ROCK SLIDE?$"
+    .string "Tu veux que je t'apprenne\n"
+    .string "EBOULEMENT?$"
 
 Text_RockSlideNotEnoughMoney::
-    .string "Supplies for exploring caves\n"
-    .string "don't come cheap.\p"
-    .string "If I don't charge for my services,\n"
-    .string "I can't afford to keep exploring!\p"
-    .string "If you want to learn ROCK SLIDE,\n"
-    .string "come back with ¥5000.$"
+    .string "La spéléologie ça coûte des\n"
+    .string "sous tu sais.\p"
+    .string "Si je fais pas payer mes services,\n"
+    .string "je ne pourrais plus explorer!\p"
+    .string "Si tu veux apprendre EBOULEMENT,\n"
+    .string "reviens avec ¥5000.$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-    .string "Hint: Boulders might change the\n"
-    .string "flow of water.$"
+    .string "Les rochers peuvent faire changer\n"
+    .string "le niveau de l'eau!$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-    .string "DANGER\n"
-    .string "Fast current!$"
+    .string "DANGER!\n"
+    .string "Rapides!$"
 
