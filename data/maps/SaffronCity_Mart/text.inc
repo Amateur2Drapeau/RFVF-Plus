@@ -1,10 +1,8 @@
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-    .string "MAX REPEL keeps weaker POKéMON\n"
-    .string "from appearing.\p"
-    .string "MAX REPEL stays effective longer\n"
-    .string "than SUPER REPEL.$"
+    .string "Le MAX REPOUSSE fonctionne plus\n"
+    .string "longtemps que le SUPEREPOUSSE!$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
-    .string "REVIVE is costly, but it revives\n"
-    .string "fainted POKéMON!$"
+    .string "Le RAPPEL est coûteux mais il\n"
+    .string "peut réanimer un POKéMON KO!$"
 
