@@ -1,31 +1,28 @@
 ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
-    .string "Hey, there!\n"
-    .string "How's it going?\p"
-    .string "What am I doing here, you ask?\n"
-    .string "Why, I'm prospecting for gold!\p"
-    .string "When I strike it rich, I'm buying\n"
-    .string "a house in KANTO.$"
+    .string "Hé toi!\n"
+    .string "Comment ça va?\p"
+    .string "Tu veux savoir ce que je fais?\n"
+    .string "Je suis chercheur d'or.\p"
+    .string "Quand je serai riche, j'achèterai\n"
+    .string "une maison à KANTO.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
-    .string "Hey, there! How's it going?\n"
-    .string "Did you hear? I've struck gold!\p"
-    .string "You remembered that I was\n"
-    .string "prospecting, didn't you?\p"
-    .string "You can't begin to imagine just\n"
-    .string "how happy I am.\p"
-    .string "I also found something peculiar\n"
-    .string "while digging through here.\p"
-    .string "I'm feeling generous now that\n"
-    .string "I'm rich, so this is for you!$"
+    .string "Hé toi!\n"
+    .string "Comment ça va?\p"
+    .string "T'es au courant? J'ai trouvé de\n"
+    .string "l'or! Tu peux pas t'imaginer\p"
+    .string "comme je suis heureux.\p"
+    .string "Allez, prends ça,\n"
+    .string "ça me fait plaisir!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-    .string "That's a {STR_VAR_1}!\p"
-    .string "I can't give you any of its ancient\n"
-    .string "wisdom, so that'll have to do!$"
+    .string "C'est un {STR_VAR_1}!\p"
+    .string "Je n'en ai pas besoin.\n"
+    .string "J'espère que ça te va!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-    .string "Whoops, your BAG is crammed full!\n"
-    .string "I'll give this to you later.$"
+    .string "Crotte, ton SAC est plein!\n"
+    .string "Je te la donnerai une autre fois.$"
 
 ThreeIsland_DunsparceTunnel_Text_ObtainedFossil::
-    .string "{PLAYER} received a {STR_VAR_1}\nfrom the prospector!$"
+    .string "{PLAYER} reçoit un {STR_VAR_1}!$"
