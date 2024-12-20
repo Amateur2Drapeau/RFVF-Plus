@@ -190,4 +190,3 @@ BattleTower_Lobby_Text_ScottGaveEonTicket::
 	.string "grand succès mais…\p"
 	.string "Il faudrait peut-être pousser\n"
 	.string "ce projet encore plus loin…$"
-		

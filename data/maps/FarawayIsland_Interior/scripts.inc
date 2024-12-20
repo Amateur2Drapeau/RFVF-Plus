@@ -222,4 +222,3 @@ FarawayIsland_Interior_Text_TheFeelingOfBeingWatchedFaded:
 
 FarawayIsland_Interior_Text_Mew:
 	.string "Myuu…$"
-	
