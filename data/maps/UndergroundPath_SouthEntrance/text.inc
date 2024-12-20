@@ -1,4 +1,4 @@
 UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness::
-    .string "People often lose things in the\n"
-    .string "darkness of the UNDERGROUND PATH.$"
+    .string "Les gens font souvent tomber\n"
+    .string "des objets dans le SOUTERRAIN.$"
 
