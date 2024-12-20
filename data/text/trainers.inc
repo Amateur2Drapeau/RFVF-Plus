@@ -752,7 +752,7 @@ OneIsland_KindleRoad_Text_ClaireRematchIntro::
 OneIsland_KindleRoad_Text_KiaRematchIntro::
 	.string "KIA: Mon frère et moi, on fait\n"
 	.string "vraiment la paire!\p"
-	.string On peut pas perdre…\n"
+	.string "On peut pas perdre…\n"
 	.string "Cette fois…$"
 
 OneIsland_KindleRoad_Text_MikRematchIntro::

@@ -8,7 +8,7 @@ Text_SwordsDanceTeach::
     .string "capacité? C'est DANSE-LAMES.$"
 
 Text_SwordsDanceDeclined::
-    .string Ben, tant pis.$"
+    .string "Ben, tant pis.$"
 
 Text_SwordsDanceWhichMon::
     .string "Cool, choisis le POKéMON qui\n"

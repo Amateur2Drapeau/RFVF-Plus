@@ -93,7 +93,7 @@ PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
     .string "Il n'est pas encore habitué à toi.\p"
     .string "Les POKéMON sont toujours\n"
-    .string "un peu craintifs au début.$
+    .string "un peu craintifs au début.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
     .string "{PLAYER}, je n'aime pas beaucoup\n"

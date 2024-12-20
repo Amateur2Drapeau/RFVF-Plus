@@ -18,7 +18,7 @@ FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
     .string "J'utiliserai le HAUT-PARLEUR\n"
-    .string "lorsque ton temps ou tes SAFARI\l
+    .string "lorsque ton temps ou tes SAFARI\l"
     .string "BALLS seront épuisés!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::

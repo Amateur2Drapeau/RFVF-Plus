@@ -41,7 +41,7 @@ OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYours::
     .string "Mais le problème c'est que nous\p"
     .string "sommes éloignés de tout ici.\n"
     .string "Et le PC ne peut pas se connecter\n"
-    .strign "au tien, LEO.$"
+    .string "au tien, LEO.$"
 
 OneIsland_PokemonCenter_1F_Text_BillLetMeHelpYou::
     .string "LEO: Ah oui?\n"

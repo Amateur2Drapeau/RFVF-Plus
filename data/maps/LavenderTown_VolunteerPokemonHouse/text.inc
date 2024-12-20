@@ -83,7 +83,7 @@ LavenderTown_VolunteerPokemonHouse_Text_DefeatedMew::
 
 LavenderTown_VolunteerPokemonHouse_Text_CaughtMew::
     .string "Vous avez pu vous lier\n"
-    .strign "d'amitié avec lui? Même\p"
+    .string "d'amitié avec lui? Même\p"
     .string "après tout ce qu'il a enduré?\p"
     .string "Merci, {PLAYER}!\p"
     .string "Tu as apaisé ma conscience et\n"

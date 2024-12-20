@@ -56,7 +56,7 @@ Route10_Text_TrentDefeat::
     .string "Me voilà tout vivifié!$"
 
 Route10_Text_TrentPostBattle::
-J'en ai marre de la montagne!
+    .string "J'en ai marre de la montagne!$"
 
 Route10_Text_CarolIntro::
     .string "Cette randonnée m'a épuisée!$"

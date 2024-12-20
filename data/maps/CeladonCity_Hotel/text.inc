@@ -9,7 +9,7 @@ CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
     .string "CELADOPOLE est si belle!$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
-    .string Pourquoi?\n"
+    .string "Pourquoi?\n"
     .string "Mais pourquoi y'a son frère?$"
 
 CeladonCity_Hotel_Text_SisBroughtMeOnVacation::

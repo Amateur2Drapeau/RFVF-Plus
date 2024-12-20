@@ -5,5 +5,5 @@ FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
     .string "Tu connais VITESSE +?\p"
     .string "Ça augmente la vitesse de ton\n"
-    .strign "POKéMON pendant un combat!.$"
+    .string "POKéMON pendant un combat!.$"
 

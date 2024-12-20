@@ -163,7 +163,7 @@ CeruleanCity_Text_TrainerTipsHeldItems::
 CeruleanCity_Text_BikeShopSign::
     .string "Plus vite que le vent, plus vite\n"
     .string "dans les villes!\p"
-    .string "CYCLES A GOGO"$"
+    .string "CYCLES A GOGO$"
 
 CeruleanCity_Text_GymSign::
     .string "ARENE POKéMON d'AZURIA\n"

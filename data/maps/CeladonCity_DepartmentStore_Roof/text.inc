@@ -14,10 +14,10 @@ CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
 
 Text_ReceivedItemFromLittleGirl::
     .string "{PLAYER} reçoit\n"
-    .string "la {STR_VAR_2}!\n$"
+    .string "la {STR_VAR_2}!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-    .string "CT16:\n
+    .string "CT16:\n"
     .string "MUR LUMIERE!\p"
     .string "C'est une capacité qui affaiblit\n"
     .string "l'attaque spéciale de l'ennemi.$"

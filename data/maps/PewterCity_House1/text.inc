@@ -1,5 +1,5 @@
 PewterCity_House1_Text_Nidoran::
-    .string "NIDORAN[m]: Nidoni!$"
+    .string "NIDORAN♂: Nidoni!$"
 
 PewterCity_House1_Text_NidoranSit::
     .string "NIDORAN, assis!$"

@@ -18,7 +18,7 @@ SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
     .string "qu'à le récupérer après.\p"
     .string "Je vais même te donner un des\n"
     .string "mots de passe de l'ENTREPOT.\p"
-    .string "C'est: ["]TARSAL LA STAR".\p"
+    .string "C'est: TARSAL LA STAR.\p"
     .string "Voilà, c'est fait. Et je t'ai dit\n"
     .string "de ne pas me regarder comme ça!$"
 

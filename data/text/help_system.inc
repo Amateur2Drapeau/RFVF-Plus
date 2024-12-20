@@ -1370,11 +1370,11 @@ Help_Text_DefineNature::
 	.string "celui-ci monte de niveau.$"
 
 Help_Text_DefineIDNo::
-	.string "Le N°ID est un numéro d'identification\n"
+	.string "Le N.ID est un numéro d'identification\n"
 	.string "attribué à chaque DRESSEUR. Il est\l"
 	.string "utilisé avec le nom du DO pour\l"
 	.string "identifier le DRESSEUR ORIGINAL.\l"
-	.string "Le N°ID ne change pas même\l"
+	.string "Le N.ID ne change pas même\l"
 	.string "si le POKéMON est échangé.$"
 
 Help_Text_DefinePP::
@@ -1497,7 +1497,7 @@ Help_Text_DefineTM::
 	.string "seule fois.$"
 
 Help_Text_DefineHM::
-	.string "Une CS [Capsule Secrête] sert à\n"
+	.string "Une CS (Capsule Secrête) sert à\n"
 	.string "enseigner des capacités SECRETES.\l"
 	.string "Seuls les POKéMON aptes sont\l"
 	.string "capables d'utiliser une CS.\l"
@@ -1542,11 +1542,11 @@ Help_Text_DefinePokemon::
 	.string "choses.$"
 
 Help_Text_DefineIDNo2::
-	.string "Le N°ID est un numéro d'identification\n"
+	.string "Le N.ID est un numéro d'identification\n"
 	.string "attribué à chaque DRESSEUR. Il est\l"
 	.string "utilisé avec le nom du DO pour\l"
 	.string "identifier le DRESSEUR ORIGINAL.\l"
-	.string "Le N°ID ne change pas même\l"
+	.string "Le N.ID ne change pas même\l"
 	.string "si le POKéMON est échangé.$"
 
 Help_Text_DefineMoney2::

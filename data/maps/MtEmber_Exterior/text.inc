@@ -61,7 +61,7 @@ MtEmber_Exterior_Text_FirstPasswordGoldeen::
     .string "Quoi, tu as oublié les deux mots\n"
     .string "de passe? Imbécile!\p"
     .string "Le premier c'est:\n"
-    .string "["]ICI, GIRAFARIG, ICI".\p"
+    .string "ICI, GIRAFARIG, ICI.\p"
     .string "Et le deuxième…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
