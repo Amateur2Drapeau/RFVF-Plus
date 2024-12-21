@@ -93,13 +93,13 @@ FourIsland_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 FourIsland_CableCarStation_Text_CableCarReadyGetOn:
-	.string "The CABLE CAR is ready to go down.\n"
-	.string "Would you like to be on it?$"
+	.string "Le TELEPHERIQUE est prêt à descendre.\n"
+	.string "Tu veux y entrer?$"
 
 FourIsland_CableCarStation_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "S'il vous plaît, passez par là.$"
 
 FourIsland_CableCarStation_Text_RideAnotherTime:
-	.string "Please ride with us another time.$"
+	.string "Revenez nous voir.$"
 
 

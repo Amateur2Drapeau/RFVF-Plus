@@ -614,23 +614,23 @@ PalletTown_ProfessorOaksLab_EventScript_AskBattle::
 	end
 
 PalletTown_ProfessorOaksLab_Text_AskBattle::
-	.string "OAK: Ah, {PLAYER}!\n"
-	.string "It's been a long while.\l"
-	.string "You certainly look more impressive.\p"
-	.string "I heard about your conquest of the\n"
-	.string "MASTER TRAINERS around KANTO,\l"
-	.string "it's just fantastic!\p"
-	.string "Your dedication, trust, and love for\n"
-	.string "your POKéMON is truly outstanding!\p"
-	.string "It's been quite a while since I've\n"
-	.string "had a battle myself…\p"
-	.string "Would you care to have a match\n"
-	.string "with me and my old friends?$"
+	.string "CHEN: Ah, {PLAYER}!\n"
+	.string "Ça fait un bail!\l"
+	.string "Tu as l'air plus mature.\p"
+	.string "J'ai entendu parlé de ta quête des\n"
+	.string "MAITRES DRESSEURS de KANTO,\l"
+	.string "c'est vraiment incroyable!\p"
+	.string "Ton investissement pour les POKéMON\n"
+	.string "est sans pareille!\p"
+	.string "Cela fait bien longtemps que je n'ai\n"
+	.string "pas combattu…\p"
+	.string "Tu voudrais faire un match contre\n"
+	.string "moi et mes vieux amis?$"
 
 PalletTown_ProfessorOaksLab_Text_AtLeastLetMe::
-	.string "Then let me see how your POKéDEX\n"
-	.string "is coming along while you're here.\p"
-	.string "Here, let me take a look.$"
+	.string "Alors laisse vérifier ton POKéDEX\n"
+	.string "pendant que tu es ici.\p"
+	.string "Laisse-moi jeter un coup d'oeil.$"
 
 PalletTown_ProfessorOaksLab_EventScript_MasterBattle::
 	msgbox PalletTown_ProfessorOaksLab_Text_StartBattle
@@ -648,39 +648,39 @@ PalletTown_ProfessorOaksLab_EventScript_MasterBattle::
 	end
 
 PalletTown_ProfessorOaksLab_Text_StartBattle::
-	.string "Let's see how you fare against\n"
-	.string "POKéMON with this much experience\l"
-	.string "in battle!$"
+	.string "Montre moi comment tu te débrouille\n"
+	.string "contre des POKéMON aussi expérimentés\l"
+	.string "au combat!$"
 
 PalletTown_ProfessorOaksLab_Text_OakDefeat::
-	.string "OAK: Amazing, {PLAYER}.\n"
-	.string "You and your POKéMON are excellent.\l"
-	.string "I was right in my assessment of you.$"
+	.string "CHEN: Incroyable, {PLAYER}.\n"
+	.string "Toi et tes POKéMON êtes invincibles.\l"
+	.string "J'avais raison de te faire confiance.$"
 
 PalletTown_ProfessorOaksLab_Text_WonBattle::
-	.string "OAK: {PLAYER}…\p"
-	.string "First, you registered every POKéMON\n"
-	.string "here in KANTO in your POKéDEX…\p"
-	.string "And then you raised them all, proved\n"
-	.string "mastery over each in battle…\p"
-	.string "I thought that perhaps I could best\n"
-	.string "you with my years of experience\l"
-	.string "and wizened, old POKéMON…\p"
-	.string "…But, at this point, you may know\n"
-	.string "more about bringing POKéMON to\l"
-	.string "their full potential than I do!\p"
-	.string "You could become a POKéMON\n"
-	.string "professor right now!\p"
-	.string "However, I suspect you want to keep\n"
-	.string "training and becoming stronger.\p"
-	.string "For your outstanding achievements,\n"
-	.string "you have more than earned the\l"
-	.string "title of GRAND MASTER!\p"
-	.string "Congratulations, {PLAYER}!$"
+	.string "CHEN: {PLAYER}…\p"
+	.string "Premièrement tu as enregistré tous les\n"
+	.string "POKéMON de KANTO dans ton POKéDEX…\p"
+	.string "Et tu les as entraînés, prouvé ta\n"
+	.string "valeur dans chaque combats…\p"
+	.string "J'ai pensé que je pourrais vous\n"
+	.string "surpasser avec mon expérience et\l"
+	.string "mes vieux POKéMON…\p"
+	.string "…Mais, tu es plus compétent que\n"
+	.string "moi pour pousser les POKéMON à\l"
+	.string "leurs pleins potentiels!\p"
+	.string "Tu peux dès maintenant devenir\n"
+	.string "un professeur POKéMON!\p"
+	.string "Cependant je pense que tu préfères\n"
+	.string "combattre et devenir plus fort.\p"
+	.string "Pour ces incroyables accomplissements,\n"
+	.string "tu as bien mérité le titre de\l"
+	.string "GRAND MAITRE!\p"
+	.string "Félicitations, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_GrandMaster_EarnTitle:
-    .string "{COLOR DARK_GRAY}You have earned the title of\n"
-    .string "GRAND MASTER!$"
+    .string "{COLOR DARK_GRAY} Vous obtenez le titre de\n"
+    .string "GRAND MAITRE!$"
 
 PalletTown_ProfessorOaksLab_EventScript_BattleJustWon::
 	msgbox PalletTown_ProfessorOaksLab_Text_BattleJustWon
@@ -688,10 +688,11 @@ PalletTown_ProfessorOaksLab_EventScript_BattleJustWon::
 	end
 
 PalletTown_ProfessorOaksLab_Text_BattleJustWon::
-	.string "OAK: I don't think I'll be battling\n"
-	.string "again for a long time.\p"
-	.string "There's a reason my POKéMON and I\n"
-	.string "retired from battling ages ago.$"
+	.string "CHEN: Je ne pense pas re-combattre\n"
+	.string "avant un long moment.\p"
+	.string "Il y a une bonne raison pour laquelle\n"
+	.string "mes POKéMON et moi avons arrêtés de\p"
+	.string "se battre il y a longtemps.$"
 
 PalletTown_ProfessorOaksLab_EventScript_OakJustShownCompleteDex::
 	msgbox PokedexRating_Text_ThankYouMadeDreamReality

@@ -120,11 +120,11 @@ FuchsiaCity_SafariZone_Entrance_EventScript_TellExpansion2::
 	return
 
 FuchsiaCity_SafariZone_Entrance_Text_TellExpansion::
-	.string "I have exciting news!\n"
-	.string "We've finished an expansion project!\p"
-	.string "Find the new AREA 4 and 5 to\n"
-	.string "encounter exotic POKéMON imported\l"
-	.string "from far away lands!$"
+	.string "J'ai une très bonne nouvelle!\n"
+	.string "Nous avons fait une extension au parc!\p"
+	.string "Trouve les ZONES 4 et 5 pour\n"
+	.string "rencontrer des nouveaux POKéMON\l"
+	.string "provenant de régions lointaines!$"
 
 FuchsiaCity_SafariZone_Entrance_EventScript_TryEnterSafariZone::
 	call FuchsiaCity_SafariZone_Entrance_EventScript_CheckSpaceForMons
@@ -224,7 +224,7 @@ FuchsiaCity_SafariZone_Entrance_EventScript_InfoAttendantBufferSix::
 	return
 
 FuchsiaCity_SafariZone_Entrance_Text_InfoAttendantFour::
-	.string "four$"
+	.string "quatre$"
 
 FuchsiaCity_SafariZone_Entrance_Text_InfoAttendantSix::
 	.string "six$"

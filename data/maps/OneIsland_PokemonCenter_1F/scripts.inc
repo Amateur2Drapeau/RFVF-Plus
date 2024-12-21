@@ -406,24 +406,24 @@ OneIsland_PokemonCenter_1F_Movement_ScottExits::
 	step_end
 
 OneIsland_PokemonCenter_1F_Text_ExcuseMe::
-	.string "Excuse me!\n"
-	.string "I couldn't help but overhear.\p"
-	.string "Let me introduce myself.\n"
-	.string "My name's SCOTT.\p"
-	.string "I've been traveling everywhere in\n"
-	.string "search of outstanding TRAINERS.\p"
-	.string "More specifically, I'm looking for\n"
-	.string "POKéMON battle experts.\p"
-	.string "There's a place I'd like to\n"
-	.string "invite someone like you.\p"
-	.string "It's the…\n"
-	.string "BATTLE TOWER!\p"
-	.string "I'm about to head to VERMILION\n"
-	.string "to continue my search.\p"
-	.string "I'll tell the ferryman there to let\n"
-	.string "you sail to HOENN and check it out\l"
-	.string "for yourself!\p"
-	.string "Well, I'll be seeing you!$"
+	.string "Excuse moi!\n"
+	.string "Je n'ai pas pu m'empêcher d'écouter.\p"
+	.string "Laisse moi me présenter.\n"
+	.string "Je suis SCOTT.\p"
+	.string "J'ai parcouru le monde à la\n"
+	.string "recherche de grands DRESSEURS.\p"
+	.string "Plus spécialement, je recherche\n"
+	.string "des experts en combat POKéMON.\p"
+	.string "Il y a un endroit que j'aimerais\n"
+	.string "bien te montrer.\p"
+	.string "C'est la…\n"
+	.string "TOUR DE COMBAT!\p"
+	.string "Je me dirige vers CARMIN SUR MER\n"
+	.string "pour continuer mes recherches.\p"
+	.string "Je dirais au marin de te laisser\n"
+	.string "mettre les voiles vers HOENN\l"
+	.string "et découvrir par vous-même!\p"
+	.string "Bien, à la prochaine!$"
 
 OneIsland_PokemonCenter_1F_EventScript_ScottToLeft::
 	applymovement LOCALID_SCOTT, OneIsland_PokemonCenter_1F_Movement_ScottToLeft
@@ -441,7 +441,7 @@ OneIsland_PokemonCenter_1F_EventScript_ScottToRight::
 	return
 
 OneIsland_PokemonCenter_1F_Text_YoureTheChamp::
-	.string "You're the KANTO LEAGUE CHAMPION?$"
+	.string "Vous êtes le CHAMPION de KANTO?$"
 
 OneIsland_PokemonCenter_1F_EventScript_Scott::
 	msgbox OneIsland_PokemonCenter_1F_Text_ScottOnPhone
@@ -452,13 +452,13 @@ OneIsland_PokemonCenter_1F_EventScript_Scott::
 	end
 
 OneIsland_PokemonCenter_1F_Text_ScottOnPhone:
-	.string "…I'm not so sure about the\n"
-	.string "TRAINERS here.\p"
-	.string "I think I'm going to roam the\n"
-	.string "towns in KANTO instead.$"
+	.string "…Je ne suis pas convaincu par\n"
+	.string "les DRESSEURS ici.\p"
+	.string "Je pense que je vais chercher\n"
+	.string "du côté de KANTO à la place.$"
 
 OneIsland_PokemonCenter_1F_Text_HeyOnCall:
-	.string "Hey! Can't you see I'm on a call?$"
+	.string "He! Tu vois pas que je suis au téléphone?$"
 
 OneIsland_PokemonCenter_1F_Movement_ScottToLeft::
 	walk_up

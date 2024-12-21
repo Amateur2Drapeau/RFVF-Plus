@@ -67,22 +67,22 @@ SilphCo_5F_EventScript_WorkerM2::
 	end
 
 SilphCo_5F_Text_WorkerM2:
-	.string "Synergy!\n"
-	.string "Disruption!\l"
-	.string "Paradigm shift!$"
+	.string "Synergie!\n"
+	.string "Perturbation!\l"
+	.string "Paradigme!$"
 
 SilphCo_5F_EventScript_WorkerF::
 	msgbox SilphCo_5F_Text_WorkerF, MSGBOX_NPC
 	end
 
 SilphCo_5F_Text_WorkerF:
-	.string "Is it just me or is this guy\n"
-	.string "not actually saying anything?$"
+	.string "C'est moi où ce gars utilise\n"
+	.string "des mots au hasard?$"
 
 SilphCo_5F_EventScript_Scientist2::
 	msgbox SilphCo_5F_Text_Scientist2, MSGBOX_NPC
 	end
 
 SilphCo_5F_Text_Scientist2:
-	.string "He-he's a visionary!\n"
-	.string "I've got to take notes!$"
+	.string "C'est…C'est un visionaire!\n"
+	.string "Je dois prendre des notes!$"

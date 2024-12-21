@@ -287,23 +287,23 @@ Movement_RivalToWarpTileBottom:
 	step_end
 
 SilphCo_7F_EventScript_RivalGivesLinkBracelet_Text_0:
-	.string "Oh, yeah, right.\pYou're so far behind me now that\nthis probably won't matter but…\pI found a pair of bracelets that\ncan evolve certain POKéMON, but\lthey barely work unless you give\lone to someone else.\pHere, {PLAYER}. I feel sorry for\nyou, so you can have this.$"
+	.string "Oh, oui, très bien.\pTu ne comprends pas ce que je fais donc\nje ne sais pas si ça va être utile mais…\pJ'ai trouvé des bracelets qui permettent\nà certains POKéMON d'évoluer, mais\lmais ils fonctionnent uniquement si\ltu les donnes à quelqu'un d'autre.\pTiens, {PLAYER}. Je me sens mal pour toi\ndonc, tu peux les prendre.$"
 
 SilphCo_7F_EventScript_RivalGivesLinkBracelet_Text_1:
-	.string "{PLAYER} received a LINK BRACELET\nfrom {RIVAL}!$"
+	.string "{PLAYER} obtient BRACELET LINK\nde {RIVAL}!$"
 
 SilphCo_7F_EventScript_RivalGivesLinkBracelet_Text_2:
-	.string "All right, I'm really going this\ntime. Smell ya!$"
+	.string "Bon ok, je m'en vais vraiment\ncette fois. Tchao Looser!$"
 
 SilphCo_7F_EventScript_WorkerBro::
 	msgbox SilphCo_7F_Text_WorkerBro, MSGBOX_NPC
 	end
 
 SilphCo_7F_Text_WorkerBro:
-	.string "I am one of the four SILPH\n"
-    .string "BROTHERS!\p"
-	.string "I make sure the company servers\n"
-	.string "are working properly!$"
+	.string "Je suis l'un des 4 FRERES de la\n"
+    .string "SYLPHE!\p"
+	.string "Je m'assure que les serveurs\n"
+	.string "fonctionnent normalement!$"
 
 SilphCo_7F_EventScript_WorkerFPhone::
 	lock
@@ -314,20 +314,20 @@ SilphCo_7F_EventScript_WorkerFPhone::
 	end
 
 SilphCo_7F_Text_WorkerFPhone:
-	.string "Have you tried doing what I\n"
-    .string "suggested earlier?\p"
-	.string "I'm telling you it'd work.\n"
-	.string "Okay, call me back.$"
+	.string "As-tu essayé de faire ce que je\n"
+    .string "t'ai suggéré tout à l'heure?\p"
+	.string "Je t'ai dit, ça va marcher.\n"
+	.string "Ok, rappelle moi plus tard.$"
 
 SilphCo_7F_Text_WorkerFPhone2:
-	.string "My coworker downstairs asks\n"
-	.string "me for help all the time.\p"
-	.string "I usually figure out the\n"
-	.string "solution pretty quickly…\p"
-	.string "But does he ever listen to\n"
-	.string "me the first time?\p"
-	.string "No!\n"
-	.string "Of course not!$"
+	.string "Mes collègues en bas me\n"
+	.string "demandent toujours de l'aide.\p"
+	.string "Je trouve toujours la solution\n"
+	.string "assez rapidement…\p"
+	.string "Mais est-ce qu'il m'écoutent\n"
+	.string "parfois?\p"
+	.string "Non!\n"
+	.string "Biensur que non!$"
 
 SilphCo_7F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_7F_EventScript_NewPainting
@@ -339,5 +339,5 @@ SilphCo_7F_EventScript_NewPainting::
 	end
 
 SilphCo_7F_Text_NewPainting:
-	.string "It's a gorgeous painting of a bird\n"
-	.string "POKéMON darting between the trees.$"
+	.string "C'est une magnifique peinture d'un\n"
+	.string "POKéMON volant entre les arbres.$"

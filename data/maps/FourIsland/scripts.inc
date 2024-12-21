@@ -161,10 +161,10 @@ FourIsland_EventScript_StarterEggDaycareMan_5:
 	end
 
 FourIsland_EventScript_StarterEggDaycareMan_Text_0:
-	.string "Ah, hello!\nI'm the DAY-CARE MAN.\pI help take care of the precious\nPOKéMON of TRAINERS.\pWe were raising a TRAINER's POKéMON\nand were surprised to find an EGG!\pHe didn't want it, but you look\nlike a TRAINER.\pWould you like to take care\nof this EGG instead?$"
+	.string "Ah, bonjour!\nJe suis l'HOTE DE LA PENSION.\pJe m'occupe des précieux POKéMON\ndes DRESSEURS.\pNous nous occupions des POKéMON d'un\nDRESSEUR et nous avons trouvé un OEUF!\pIl ne le voulait pas mais tu\nressemble à un DRESSEUR.\pVeux tu récupérer cet\nOEUF à sa place?$"
 
 FourIsland_EventScript_StarterEggDaycareMan_Text_1:
-	.string "I guess I'll keep this EGG until a\nTRAINER comes along who wants it.$"
+	.string "Je pense que je vais garder l'OEUF\nen attendant de trouver un DRESSEUR\pqui le veut.$"
 
 FourIsland_EventScript_RepositionDaycareMan::
 	goto_if_unset FLAG_GOT_RIVAL_STARTER_EGG, FourIsland_EventScript_RepositionDaycareMan_2

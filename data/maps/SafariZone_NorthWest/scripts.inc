@@ -6,12 +6,12 @@ SafariZone_NorthWest_EventScript_RestHouseSign::
 	end
 
 SafariZone_NorthWest_Text_RestHouseSign::
-	.string "REST HOUSE\n"
-	.string "Fill up on steps inside!$"
+	.string "ABRI\n"
+	.string "Rentrez vous reposer!$"
 
 SafariZone_NorthWest_EventScript_AreaSign::
 	msgbox SafariZone_NorthWest_Text_AreaSign, MSGBOX_SIGN
 	end
 
 SafariZone_NorthWest_Text_AreaSign::
-	.string "AREA 4$"
+	.string "ZONE 4$"

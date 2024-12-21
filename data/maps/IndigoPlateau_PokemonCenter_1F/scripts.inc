@@ -104,18 +104,18 @@ IndigoPlateau_PokemonCenter_1F_EventScript_TeleportGuyDeclined::
 	end
 
 IndigoPlateau_PokemonCenter_1F_Text_TeleportGuyAsks::
-	.string "Ah! You're challenging the\n"
-	.string "ELITE FOUR?\p"
-	.string "Are you sure you're ready?\n"
-	.string "If you need to train some more,\l"
-	.string "my ABRA can help you.\p"
-	.string "It can TELEPORT you home.\n"
-	.string "Would you like to go home now?$"
+	.string "Ah! Tu viens affronter le\n"
+	.string "CONSEIL 4?\p"
+	.string "Tu te sens prêt?\n"
+	.string "Si tu as besoin de plus d'entrainement,\l"
+	.string "mon ABRA peut t'aider.\p"
+	.string "Il peut te téléporter chez toi.\n"
+	.string "Tu souhaite être téléporté?$"
 
 IndigoPlateau_PokemonCenter_1F_Text_TeleportGuyYes::
-	.string "Okay, okay.\n"
-	.string "Picture your house in your mind…$"
+	.string "Ok, ok.\n"
+	.string "Imagine ta maison dans ton esprit…$"
 
 IndigoPlateau_PokemonCenter_1F_Text_TeleportGuyDeclined::
-	.string "Okay, okay.\n"
-	.string "The best of luck to you!$"
+	.string "Ok, ok.\n"
+	.string "Je te souhaite bonne chance!$"

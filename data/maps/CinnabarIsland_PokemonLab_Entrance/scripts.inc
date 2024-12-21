@@ -80,19 +80,19 @@ CinnabarIsland_PokemonLab_Entrance_EventScript_TransferTentacoolToPC::
 	end
 
 CinnabarIsland_PokemonLab_Entrance_Text_Trapped::
-	.string "Huh? Do you happen to…\n"
-	.string "not have a POKéMON that can SURF?\p"
-	.string "That must be hard on you.\n"
+	.string "Ho? Est-ce que tu ne…\n"
+	.string "possède pas de POKéMON avec SURF?\p"
+	.string "Ça doit être compliqué.\n"
 	.string "…\p"
-	.string "Don't worry about it!\n"
-	.string "I'll give you a TENTACOOL!\p"
-	.string "I just caught a little too many.\n"
-	.string "I was going to release it,\l"
-	.string "so take it. Go ahead!$"
+	.string "Ne t'inquiète pas!\n"
+	.string "Je vais te donner un TENTACOOL!\p"
+	.string "J'en ai attrapé beaucoup trop.\n"
+	.string "J'allais les relacher,\l"
+	.string "donc prend le. Vas y!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_ObtainedATentacool::
-	.string "{PLAYER} received\n"
-	.string "the TENTACOOL!$"
+	.string "{PLAYER} obtient\n"
+	.string "un TENTACOOL!$"
 
 CinnabarIsland_PokemonLab_Entrance_EventScript_DrFujiPhoto::
 	msgbox CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji, MSGBOX_SIGN

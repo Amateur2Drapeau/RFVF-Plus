@@ -180,7 +180,7 @@ FourIsland_PokemonDayCare_EventScript_StarterEggDaycareWoman::
 	end
 
 FourIsland_PokemonDayCare_Text_StarterEggDaycareWoman::
-	.string "My husband outside is looking for\na TRAINER.\pPlease go see him.$"
+	.string "Mon mari est à la recherche\nd'un DRESSEUR.\pAllez le voir s'il vous plaît.$"
 
 @ Unused. Possibly a commented script, or a typo end added to the above Movement script
 FourIsland_PokemonDayCare_EventScript_UnusedEnd::

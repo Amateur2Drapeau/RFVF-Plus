@@ -49,22 +49,22 @@ SilphCo_8F_EventScript_ScientistBro::
 	end
 
 SilphCo_8F_Text_ScientistBro:
-	.string "I am one of the four SILPH\n"
-    .string "BROTHERS!\p"
-	.string "I'm not actually sure what I do\n"
-	.string "for the company…\p"
-	.string "Nobody has come to give me\n"
-	.string "work to do in a while…\p"
-	.string "Have they forgotten about me?\n"
-	.string "Do I just come in and do nothing?\p"
-	.string "At least I'm still getting paid.$"
+	.string "Je suis l'un des 4 FRERES de la\n"
+    .string "SYLPHE!\p"
+	.string "Je ne sais pas trop ce que\n"
+	.string "j'apporte à l'entreprise…\p"
+	.string "Personne n'est venu me donner\n"
+	.string "du travail depuis longtemps…\p"
+	.string "Est-ce qu'ils m'ont oubliés?\n"
+	.string "Est-ce que je viens pour rien faire?\p"
+	.string "Au moins je suis toujours payé.$"
 
 SilphCo_8F_EventScript_WorkerF::
 	msgbox SilphCo_8F_Text_WorkerF, MSGBOX_NPC
 	end
 
 SilphCo_8F_Text_WorkerF:
-	.string "Can't talk, I've gotta eat fast!\n"
-	.string "My lunch break is almost over!\p"
-	.string "Hurry up, WIGGLYTUFF!\n"
-	.string "Don't make me late again!$"
+	.string "J'ai pas le temps de parler.\n"
+	.string "Ma pause déjeuner est bientôt finie.\p"
+	.string "Dépêche toi GRODOUDOU!\n"
+	.string "Ne me retarde pas une nouvelle fois!$"

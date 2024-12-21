@@ -17,70 +17,70 @@ SafariZone_NorthWest_RestHouse_EventScript_OldWoman::
 	end
 
 SafariZone_NorthWest_RestHouse_Text_OldWoman::
-	.string "My grandson has a lot of energy,\n"
-	.string "but getting here has worn me out!$"
+	.string "Mon petit-fils a beaucoup d'énergie,\n"
+	.string "mais arriver jusqu'ici m'a épuisé!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_LittleBoy::
 	msgbox SafariZone_NorthWest_RestHouse_Text_LittleBoy, MSGBOX_NPC
 	end
 
 SafariZone_NorthWest_RestHouse_Text_LittleBoy::
-	.string "Me and Grandma are here to see\n"
-	.string "the new POKéMON!\p"
-	.string "There are so many here I've never\n"
-	.string "seen before!$"
+	.string "Ma grand-mère et moi sommes ici pour\n"
+	.string "voir les nouveaux POKéMON!\p"
+	.string "Il y en a beaucoup dont je n'avais\n"
+	.string "jamais entendu parlé avant!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_SuperNerd::
 	msgbox SafariZone_NorthWest_RestHouse_Text_SuperNerd, MSGBOX_NPC
 	end
 
 SafariZone_NorthWest_RestHouse_Text_SuperNerd::
-	.string "I saw a weird, noodley POKéMON\n"
-	.string "hiding in the rocks on the\l"
-	.string "ridge behind us.\p"
-	.string "Too bad I don't have a POKéMON\n"
-	.string "that can learn ROCK SMASH!$"
+	.string "J'ai vu un drôle de POKéMON\n"
+	.string "se cacher derrière les rochers\l"
+	.string "derrière nous.\p"
+	.string "Dommage je n'ai pas de POKéMON\n"
+	.string "avec ECLATE-ROC!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Lass::
 	msgbox SafariZone_NorthWest_RestHouse_Text_Lass, MSGBOX_NPC
 	end
 
 SafariZone_NorthWest_RestHouse_Text_Lass::
-	.string "These REST HOUSES are so nice.\n"
-	.string "I love sprawling out here.\p"
-	.string "Our steps aren't counted while we're\n"
-	.string "resting, so they're not wasted!$"
+	.string "Ces ABRI sont trop cool.\n"
+	.string "J'adore me reposer ici.\p"
+	.string "Nos pas ne sont pas compté ici.\n"
+	.string "On peut se reposer gratuitement!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Worker::
 	msgbox SafariZone_NorthWest_RestHouse_Text_Worker, MSGBOX_NPC
 	end
 
 SafariZone_NorthWest_RestHouse_Text_Worker::
-	.string "We thought we'd have to landscape\n"
-	.string "this whole area to make it a\l"
-	.string "suitable POKéMON habitat.\p"
-	.string "But we cut through the trees and\n"
-	.string "discovered a lovely natural vista.\p"
-	.string "We imported rare POKéMON to fill it!\n"
-	.string "I hope you're enjoying yourself!$"
+	.string "Nous pensions devoir aménager la\n"
+	.string "zone pour la rendre habitable\l"
+	.string "pour les POKéMON.\p"
+	.string "Mais on a coupé des arbres et\n"
+	.string "avons découvert un superbe endroit.\p"
+	.string "Nous avons amené des POKéMON rare\n"
+	.string "par la suite.$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Clipboard::
 	msgbox SafariZone_NorthWest_RestHouse_Text_Clipboard, MSGBOX_NPC
 	end
 
 SafariZone_NorthWest_RestHouse_Text_Clipboard::
-	.string "It's a message from the SAFARI\n"
-	.string "ZONE WARDEN.\p"
-	.string "“I just heard that the SAFARI ZONE\n"
-	.string "in HOENN has opened a new wing\l"
-	.string "with exotic POKéMON!\p"
-	.string "We can't allow our beloved SAFARI\n"
-	.string "ZONE to become out of date!\p"
-	.string "I'm putting a team together to\n"
-	.string "scout for viable expansion sites.\p"
-	.string "Interested employees please sign up\n"
-	.string "at the office.”\p"
-	.string "- WARDEN BAOBA$"
+	.string "Voici un message du GARDIEN DU\n"
+	.string "PARC SAFARI.\p"
+	.string "“J'ai entendu dire que le SAFARI\n"
+	.string "à HOENN à ouvert une nouvelle zone\l"
+	.string "avec des POKéMON exotiques!\p"
+	.string "Je ne permettrais pas a notre PARC\n"
+	.string "de devenir ringard!\p"
+	.string "J'ai engagé une équipe de chercheur\n"
+	.string "pour ajouter une extension au PARC.\p"
+	.string "Si des personnes sont intéressées pour\n"
+	.string "aider, rendez-vous au bureau.”\p"
+	.string "- GARDIEN DU PARC$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger::
 	callnative SafariZoneCheckSteps
@@ -120,19 +120,20 @@ SafariZone_NorthWest_RestHouse_EventScript_StepmongerFull:
 	end
 
 SafariZone_NorthWest_RestHouse_Text_StepmongerFull:
-	.string "Welcome to AREA 4!\nYour step allowance is full.\pWe don't count time spent\ninside REST HOUSES.\pCome back when you run low\non steps!$"
+	.string "Bienvenue dans la ZONE 4!\nVotre compteur de pas est plein.\pNous ne comptons pas le temps\npassé dans les ABRIS.\pReviens quand il te manquera\ndes pas!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_0:
-	.string "Welcome to AREA 4!\nDo you need more steps?$"
+	.string "Bienvenue dans la ZONE 4!\nTu as besoin de plus de pas?$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_1:
-	.string "I can refill your step allowance\nfor ¥750.\pDo you want to refill your steps?$"
+	.string "Je peux recharger tes pas\npour ¥750.\pTu veux une recharge?$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_2:
-	.string "Okay, I wish you the best of luck\non your SAFARI GAME!$"
+	.string "Ok, je te souhaite bonne chance\nopour ton SAFARI!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_3:
-	.string "{PLAYER}'s steps were refilled!$"
+	.string "Le compteur de pas de {PLAYER} a\n"
+	.string "été rechargé!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_4:
-	.string "Your steps are topped up!\nGood luck on your wild excursion!$"
+	.string "Vos pas sont rechargés!\nBonne chance pour ton excursion!$"

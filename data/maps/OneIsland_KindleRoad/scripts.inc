@@ -38,4 +38,4 @@ OneIsland_KindleRoad_EventScript_GlassWorkshopSign::
 	end
 
 OneIsland_KindleRoad_Text_GlassWorkshopSign:
-	.string "GLASS WORKSHOP\n“Making Glass Items from Fallen Ash”$"
+	.string "ATELIER DE VERRE\n“Fabrication d'objets à partir de cendres”$"

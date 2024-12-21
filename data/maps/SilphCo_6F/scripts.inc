@@ -95,7 +95,7 @@ SilphCo_6F_EventScript_SuperNerd::
 	end
 
 SilphCo_6F_Text_SuperNerd:
-	.string "I am one of the four SILPH\n"
-    .string "BROTHERS!\p"
-	.string "I make sure the company inventory\n"
-	.string "counts are correct!$"
+	.string "Je suis l'un des 4 FRERES de la\n"
+    .string "SILPHE!\p"
+	.string "Je m'assure que les stocks de\n"
+	.string "l'entreprise sont corrects!$"

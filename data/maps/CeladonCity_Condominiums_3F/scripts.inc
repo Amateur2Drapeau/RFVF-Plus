@@ -67,24 +67,25 @@ CeladonCity_Condominiums_3F_EventScript_CantGiveMysticTicket::
 	end
 
 CeladonCity_Condominiums_3F_Text_CantGiveMysticTicket:
-	.string "I have a gift for filling up your\n"
-	.string "POKéDEX, but it's probably best to\l"
-	.string "wait until it's been upgraded first.\p"
-	.string "Come see me when your POKéDEX\n"
-	.string "can handle registering more POKéMON.$"
+	.string "J'ai un cadeau pour t'aider à\n"
+	.string "remplir ton POKéDEX, mais il\l"
+	.string "faudrait mieux attendre que ton\p"
+	.string "POKéDEX soit amélioré. Reviens me\n"
+	.string "voir quand il pourra enregistrer\p"
+	.string "plus de POKéMON.$"
 
 CeladonCity_Condominiums_3F_Text_GiveMysticTicket:
-	.string "Here's a little gift for filling up\n"
-	.string "your POKéDEX.$"
+	.string "Voici un petit cadeau pour\n"
+	.string "remplir ton POKéDEX.$"
 
 CeladonCity_Condominiums_3F_Text_ExplainMysticTicket:
-	.string "Bring that ticket to the docks in\n"
-	.string "VERMILION CITY.\p"
-	.string "With it, you can go to NAVEL ROCK\n"
-	.string "between FOUR and FIVE ISLAND.\p"
-	.string "Since you like catching POKéMON,\n"
-	.string "you'll want to see what's there.\p"
-	.string "Good luck!$"
+	.string "Apporte ce ticket au marin de\n"
+	.string "CARMIN SUR MER.\p"
+	.string "Il pourra t'emmener au ROC NOMBRI\n"
+	.string "entre l'ILE 4 et l'ILE 5.\p"
+	.string "En tant que passioné de POKéMON\n"
+	.string "rares je pense que tu vas bien\p"
+	.string "t'amuser!$"
 
 CeladonCity_Condominiums_3F_EventScript_DevelopmentRoomSign::
 	msgbox CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom, MSGBOX_SIGN
@@ -165,38 +166,38 @@ CeladonCity_Condominiums_3F_EventScript_TitleGiver_PressedB:
 	end
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_NoTitles:
-	.string "Welcome!\p"
-	.string "You probably don't know what I'm\n"
-	.string "talking about, but come back once\l"
-	.string "you have earned a title!$"
+	.string "Bienvenue!\p"
+	.string "Tu ne vas pas comprendre de quoi\n"
+	.string "je parle mais reviens me voir\l"
+	.string "quand tu auras gagné des titres!$"
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_WelcomeNoTitle:
-	.string "Welcome!\p"
-	.string "Or would you like me to call you\n"
-	.string "by a title?$"
+	.string "Bienvenue!\p"
+	.string "Ou voudrais-tu que je t'appelle\n"
+	.string "en utilisant un titre?$"
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_WelcomeTitle:
-	.string "Welcome, {STR_VAR_2} MASTER!\p"
-	.string "Or would you like me to call you\n"
-	.string "by a different title?$"
+	.string "Bienvenue, MAITRE {STR_VAR_2}!\p"
+	.string "Ou voudrais-tu que je t'appelle\n"
+	.string "par un autre titre?$"
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_ChoseNoTitles:
-	.string "Oh, you don't want to have a title?\n"
-	.string "I guess you really don't need one!$"
+	.string "Oh, tu ne veux pas de titre?\n"
+	.string "J'imagine que tu n'en a pas besoin!$"
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_ChoseGrandMaster:
-	.string "Yo, GRAND MASTER!\n"
-	.string "A fitting title for you indeed.$"
+	.string "Yo, GRAND MAITRE!\n"
+	.string "Un titre qui te convient bien!$"
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_PressedB:
-	.string "Oh, you're not going to change\n"
-	.string "your title?\p"
-	.string "I guess you really like the one\n"
-	.string "you have now!$"
+	.string "Oh, tu ne vas pas changer\n"
+	.string "ton titre?\p"
+	.string "J'imagine que tu dois beaucoup\n"
+	.string "aimer celui que tu as actuellement!$"
 
 CeladonCity_Condominiums_3F_Text_TitleGiver_ChoseMonMaster:
-	.string "Yo, {STR_VAR_2} MASTER!\n"
-	.string "A fitting title for you indeed.$"
+	.string "Yo, MAITRE {STR_VAR_2}!\n"
+	.string "Un titre qui te convient bien!$"
 
 CeladonCity_Condominiums_3F_EventScript_TitleGiver_Grand:
 	.string "GRAND$"

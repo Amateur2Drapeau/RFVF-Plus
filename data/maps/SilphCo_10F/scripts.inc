@@ -38,10 +38,10 @@ SilphCo_10F_EventScript_WorkerBro::
 	end
 
 SilphCo_10F_Text_WorkerBro:
-	.string "I am one of the four SILPH\n"
-    .string "BROTHERS!\p"
-	.string "I'm a janitor!\n"
-	.string "I keep this whole place sparkling!$"
+	.string "Je suis l'un des 4 FRERES de la\n"
+    .string "SYLPHE!\p"
+	.string "Je suis concierge!\n"
+	.string "Je garde cet endroit propre!$"
 
 SilphCo_10F_EventScript_WorkerM::
 	msgbox SilphCo_10F_Text_WorkerM, MSGBOX_NPC
@@ -49,19 +49,19 @@ SilphCo_10F_EventScript_WorkerM::
 
 SilphCo_10F_Text_WorkerM:
 	.string "Ahh!\n"
-	.string "You startled me!\p"
+	.string "Tu m'as fais peur!\p"
 	.string "…\n"
-	.string "What am I doing?\l"
-	.string "…Okay, you caught me.\p"
-	.string "I never wanted to be an office\n"
-	.string "drone, I wanted to be an artist!\p"
-	.string "I'm replacing some of the paintings\n"
-	.string "around here with some of my own\l"
-	.string "to see if people like them.\p"
-	.string "Don't worry, I'm putting the old\n"
-	.string "paintings in storage.\p"
-	.string "I'd never take such derivative\n"
-	.string "work home for myself.$"
+	.string "Qu'et-ce que je fais?\l"
+	.string "…Ok, tu m'as eu.\p"
+	.string "Je n'ai jamais voulu être un employé\n"
+	.string "de bureau, je voulais être un artiste!\p"
+	.string "Je remplace certaines peintures ici\n"
+	.string "par les miennes pour voir si\l"
+	.string "les gens les aiment.\p"
+	.string "Ne t'inquiète pas, j'ai déposé\n"
+	.string "les anciennes dans le stockage.\p"
+	.string "Je ne ramènerais jamais chez moi\n"
+	.string "des oeuvres aussi insipides.$"
 
 SilphCo_10F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_10F_EventScript_NewPainting
@@ -73,5 +73,5 @@ SilphCo_10F_EventScript_NewPainting::
 	end
 
 SilphCo_10F_Text_NewPainting:
-	.string "It's a gorgeous painting of a lush,\n"
-	.string "verdant landscape at sunset.$"
+	.string "C'est une magnifique peinture d'une\n"
+	.string "plaine avec un coucher de soleil.$"

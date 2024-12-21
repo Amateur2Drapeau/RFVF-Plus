@@ -69,16 +69,16 @@ PalletTown_EventScript_MasterTrainerYoungster::
 	end
 
 PalletTown_Text_MasterYoungsterIntroduce:
-	.string "Hey, sorry to bug you while your\n"
-	.string "world's expanding.\p"
-	.string "Now that you've successfully become\n"
-	.string "CHAMPION, I've got news for you!\p"
-	.string "The MASTER TRAINERS, TRAINERS that\n"
-	.string "that have spent their whole careers\l"
-	.string "training one specific POKéMON, have\l"
-	.string "appeared throughout KANTO.\p"
-	.string "If you want to know the details,\n"
-	.string "come talk to me!$"
+	.string "He, désolé de te déranger dans tes\n"
+	.string "aventures.\p"
+	.string "Maintenant que tu es devenu CHAMPION\n"
+	.string "J'ai une information pour toi!\p"
+	.string "Les MAITRES DRESSEURS, des DRESSEURS\n"
+	.string "qui ont passés toute leur carrière\l"
+	.string "à entraîner une espèce spécifique\l"
+	.string "sont de passage à KANTO.\p"
+	.string "Si tu veux plus de détails viens\n"
+	.string "me voir!$"
 
 PalletTown_Movement_MoveYoungsterOffScreen:
 	walk_left
@@ -533,32 +533,32 @@ PalletTown_EventScript_Nothing::
 	end
 
 PalletTown_Text_AskAboutMasterTrainers::
-	.string "What do you want to know about\n"
-	.string "the MASTER TRAINERS?$"
+	.string "Qu'es-ce que tu souhaites savoir\n"
+	.string "sur les MAITRES DRESSEURS?$"
 
 PalletTown_Text_WhoAreThey::
-	.string "The MASTER TRAINERS each focus\n"
-	.string "on training one species of POKéMON.\p"
-	.string "They're always waving at TRAINERS to\n"
-	.string "get a battle going, so you should\l"
-	.string "be able to find them pretty easily.$"
+	.string "Chaque MAITRE DRESSEUR se concentre sur\n"
+	.string "l'entraînement d'une espèce de POKéMON.\p"
+	.string "Il font toujours signe aux DRESSEURS\n"
+	.string "pour combattre, tu devrais les\l"
+	.string "trouver très facilement.$"
 
 PalletTown_Text_HowDoIBattleThem::
-	.string "If you have the same species of\n"
-	.string "POKéMON as them, you'll be able\l"
-	.string "to battle them, one-on-one.\p"
-	.string "Neither side will be allowed to\n"
-	.string "use items, so it will be a battle\l"
-	.string "of pure skill!\p"
-	.string "If you win, you'll receive a title\n"
-	.string "and you'll be able to use it from\l"
-	.string "that point on.$"
+	.string "Si tu possède une POKéMON de la\n"
+	.string "même espèce, tu pourras les\l"
+	.string "affronter en un contre un.\p"
+	.string "Les objets seront interdits\n"
+	.string "donc ça sera des combats très\l"
+	.string "difficiles!\p"
+	.string "Tu gagneras un titre si tu gagnes\n"
+	.string "et tu pourras par l'utiliser par\l"
+	.string "la suite.$"
 
 PalletTown_Text_AboutTitles::
-	.string "You can change the title you're\n"
-	.string "using at the game company in\l"
-	.string "CELADON CITY.\p"
-	.string "Show it off during link battles!$"
+	.string "Tu peux changer ton titre en\n"
+	.string "allant au studio de jeu\l"
+	.string "à CELADOPOLE.\p"
+	.string "Frimes avec pendant tes combats LINK!$"
 
 PalletTown_Text_Nothing::
-	.string "Good luck!$"
+	.string "Bonne chance!$"

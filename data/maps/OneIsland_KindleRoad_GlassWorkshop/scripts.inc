@@ -283,112 +283,112 @@ OneIsland_KindleRoad_GlassWorkshop_EventScript_Sign::
 	end
 
 OneIsland_KindleRoad_GlassWorkshop_Text_GoCollectAshWithThis:
-	.string "This area is covered in volcanic ash,\n"
-	.string "huff-puff!\p"
-	.string "I'm specially gifted, huff-puff.\p"
-	.string "I make glass out of volcanic ash\n"
-	.string "and make items, huff-puff.\p"
-	.string "Go collect ashes with this,\nhuff-puff.$"
+	.string "Cet endroit est recouvert de cendres,\n"
+	.string "volcaniques, huff-puff!\p"
+	.string "Je suis spécialement doué, huff-puff.\p"
+	.string "Je fabrique des objets à partir\n"
+	.string "des cendres, huff-puff.\p"
+	.string "Va ramasser des cendres avec ça,\nhuff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_ExplainSootSack:
-	.string "Just take that SOOT SACK and walk\n"
-	.string "through piles of ash, huff-puff.\p"
-	.string "And it will fill up with the\nvolcanic ash,"
+	.string "Il suffit de prendre ce SAC A SUIE et\n"
+	.string "de marcher dans les cendres, huff-puff.\p"
+	.string "Et il se remplira de cendres volcaniques,"
 	.string " huff-puff.\p"
-	.string "Once you think you've collected a\ngood"
-	.string " amount, come back, huff-puff.$"
+	.string "Une fois que tu penses en avoir collecté\nbeaucoup"
+	.string ", reviens me voir, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_LetsSeeCollectedAshes:
-	.string "Have you collected ashes, huff-puff?\n"
-	.string "Let me see, huff-puff.$"
+	.string "Tu as ramassé des cendres, huff-puff?\n"
+	.string "Voyons voir, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_NotEnoughAshNeedX:
 	.string "Hmmm…\n"
-	.string "There's not enough here, huff-puff.\l"
-	.string "I can't craft with this, huff-puff.\p"
-	.string "Let's see… {STR_VAR_1} is the number of\nsteps"
-	.string " you'll need to walk for me\lto make you"
-	.string " a BLUE FLUTE, huff-puff.$"
+	.string "Tu n'en a pas assez, huff-puff.\l"
+	.string "Je ne peux rien fabriquer, huff-puff.\p"
+	.string "Voyons… tu dois marcher encore {STR_VAR_1}\n"
+	.string "pas pour que je te fabrique la\l"
+	.string "FLUTE BLEUE, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
-	.string "Oh! You've got a lot of ashes,\n"
+	.string "Oh! Tu as ramassé beaucoup de cendres,\n"
 	.string "huff-puff!\p"
-	.string "I'll make you something, huff-puff!\n"
-	.string "Which one would you like, huff-puff?$"
+	.string "J'vais te fabriquer quelque chose!\n"
+	.string "Qu'est-ce que tu veux, huff-puff?$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_IsThatTheItemForYou:
-	.string "A {STR_VAR_1}, huff-puff?\n"
-	.string "Is that the one for you, huff-puff?$"
+	.string "Une {STR_VAR_1}, huff-puff?\n"
+	.string "C'est ce que tu veux, huff-puff?$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_WhichWouldYouLike:
-	.string "Which one would you like, huff-puff?$"
+	.string "Laquelle tu veux, huff-puff?$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_IllMakeItemForYou:
-	.string "A {STR_VAR_1} it is, then,\nhuff-puff!\p"
-	.string "Okay! I'll make it now, huff-puff.\n"
-	.string "Just wait a little while, huff-puff.$"
+	.string "Une {STR_VAR_1}, très bien,\nhuff-puff!\p"
+	.string "Ok! Je vais la fabriquer, huff-puff.\n"
+	.string "Juste une petite minute, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_NotEnoughAshToMakeItem:
-	.string "A {STR_VAR_1}, huff-puff?\p"
-	.string "There's not enough ash here to make\n"
-	.string "that, though, huff-puff.\p"
-	.string "Let's see… {STR_VAR_2} is the number of\nsteps "
-	.string "you'll need to walk through\lvolcanic ash "
-	.string "for me to make that,\lhuff-puff.\p"
-	.string "Which item would you rather have\n"
-	.string "me make instead, huff-puff?$"
+	.string "Une {STR_VAR_1}, huff-puff?\p"
+	.string "Tu n'as pas assez de cendre\n"
+	.string "pour la fabriquer huff-puff.\p"
+	.string "Voyons… tu dois marcher encore {STR_VAR_2}\npas "
+	.string "pour que je puisse te fabriquer\l"
+	.string "cet objet, huff-puff.\p"
+	.string "Quel objet veux-tu que je fabrique\n"
+	.string "à la place, huff-puff?$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_AllThatAshButDontWantAnything:
-	.string "You've collected all that ash, but\nyou "
-	.string "don't want anything, huff-puff?$"
+	.string "Tu as ramassé toutes ces cendre\nmais "
+	.string "tu ne veux rien, huff-puff?$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_IveFinishedGlassItem:
-	.string "Ah, I've finished your {STR_VAR_1}.\n"
-	.string "Take it, huff-puff.$"
+	.string "Ah, j'ai terminé ta {STR_VAR_1}.\n"
+	.string "Prends-la, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_NoRoomInBag:
 	.string "Oh?\n"
-	.string "You've no room in your BAG, huff-puff.\p"
-	.string "I'll hold on to it, so come back later,\n"
-	.string "huff-puff.$"
+	.string "Ton inventaire est plein, huff-puff.\p"
+	.string "Je te la met de côté, reviens la\n"
+	.string "chercher plus tard, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_HaventGotYourSootSack:
-	.string "Hah? You haven't got your SOOT SACK\n"
-	.string "with you, huff-puff.\p"
-	.string "You have to keep it with you to collect\n"
-	.string "volcanic ash, huff-puff.$"
+	.string "Ah? Tu n'as pas ton SAC A SUIE\n"
+	.string "avec toi, huff-puff.\p"
+	.string "Tu as besoin de l'avoir sur toi\n"
+	.string "pour collecter des cendres, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_FunToBlowGlassFlute:
-	.string "I'm an apprentice learning how to\n"
-	.string "make glass items from ash.\p"
-	.string "Did you know that the BLUE FLUTE\n"
-	.string "wakes up POKéMON who hear it?\p"
-	.string "But, to me, the nicest-sounding\n"
-	.string "flute that wakes up sleeping\l"
-	.string "POKéMON is the POKé FLUTE!\p"
-	.string "…I wonder if I'll ever learn to make\n"
-	.string "one of those.$"
+	.string "J'apprends à fabriquer des objets\n"
+	.string "à partir de cendres volcaniques.\p"
+	.string "Savais-tu que la FLUTE BLEUE\n"
+	.string "réveil les POKéMON endormis?\p"
+	.string "Mais pour moi la meilleure FLUTE\n"
+	.string "pour réveiller les POKéMON endormis\l"
+	.string "c'est la POKé FLUTE!\p"
+	.string "…J'espère qu'un jour je saurais\n"
+	.string "fabriquer des FLUTES.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_Girl:
-	.string "My uncle makes glass stuff too!\n"
-	.string "He lives far away, huff-puff.\p"
-	.string "I saw a dizzy, spotted POKéMON when\n"
-	.string "we went to visit him, huff-puff!$"
+	.string "Mon oncle fait aussi des FLUTES!\n"
+	.string "Il habite loin d'ici, huff-puff.\p"
+	.string "J'ai vu un POKéMON étourdi et\n"
+	.string "tacheté quand je lui ai rendu visite!$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_Sign:
-	.string "“Available Glass Items,”\n"
-	.string "the sign says.\p"
-	.string "BLUE FLUTE: Awakens a sleeping\n"
-	.string "POKéMON.\p"
-	.string "YELLOW FLUTE: Snaps a POKéMON\nout "
-	.string "of confusion.\p"
-	.string "RED FLUTE: Snaps a POKéMON\nout "
-	.string "of infatuation.\p"
-	.string "WHITE FLUTE: Makes wild POKéMON\n"
-	.string "appear more frequently.\p"
-	.string "BLACK FLUTE: Makes wild POKéMON\n"
-	.string "appear less frequently.$"
+	.string "“OBJETS EN VERRE DISPONIBLES,”\n"
+	.string "Le panneau indique :\p"
+	.string "FLUTE BLEUE: Réveil un POKéMON\n"
+	.string "endormi.\p"
+	.string "FLUTE JAUNE: Soigne un POKéMON\n"
+	.string "confus.\p"
+	.string "FLUTE ROUGE: Soigne un POKéMON\n"
+	.string "amoureux.\p"
+	.string "FLUTE BLANCHE: Fais apparaître\n"
+	.string "plus de POKéMON.\p"
+	.string "FLUTE NOIRE: Fais apparaître\n"
+	.string "moins de POKéMON.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_ReceivedFlute:
-	.string "{PLAYER} received the\n{STR_VAR_1}!$"
+	.string "{PLAYER} obtient la\n{STR_VAR_1}!$"
 

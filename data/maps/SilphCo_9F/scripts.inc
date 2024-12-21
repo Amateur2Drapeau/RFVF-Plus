@@ -49,69 +49,69 @@ SilphCo_9F_EventScript_Woman::
 	end
 
 SilphCo_9F_Text_Woman:
-	.string "Oh, hello.\n"
-	.string "Do your parents work here?\p"
-	.string "SILPH CO. provides childcare\n"
-	.string "for workers who need it.\p"
-	.string "Fortunately, we were out on\n"
-	.string "a trip when the ROCKETS came.$"
+	.string "Oh, bonjour.\n"
+	.string "T'es parents travaillent ici?\p"
+	.string "SYLPHE SARL. fourni une garde d'enfants\n"
+	.string "pour les employés.\p"
+	.string "Par chance, nous étions en voyage\n"
+	.string "quand la TEAM ROCKET a attaqué.$"
 
 SilphCo_9F_EventScript_GBAKid::
 	msgbox SilphCo_9F_Text_GBAKid, MSGBOX_NPC
 	end
 
 SilphCo_9F_Text_GBAKid:
-	.string "Hey, aren't you the TRAINER\n"
-	.string "that stopped TEAM ROCKET?\l"
-	.string "What are you doing back here?\p"
-	.string "Did you miss some of the stuff\n"
-	.string "the ROCKETS dropped?$"
+	.string "Eh mais c'est toi le DRESSEUR\n"
+	.string "qui a arrêté la TEAM ROCKET?\l"
+	.string "Pourquoi es-tu revenu ici?\p"
+	.string "Tu as oublié des objets que la\n"
+	.string "TEAM ROCKETS auraient fait tomber?$"
 
 SilphCo_9F_EventScript_LittleGirl::
 	msgbox SilphCo_9F_Text_LittleGirl, MSGBOX_NPC
 	end
 
 SilphCo_9F_Text_LittleGirl:
-	.string "If a mean guy took over this room,\n"
-	.string "you know what I'd do?\p"
-	.string "I tell him to go home, but I'd\n"
-	.string "be really loud!\l"
-	.string "He'd have to listen after that!$"
+	.string "Si un sale type rentre dans cette\n"
+	.string "pièce tu sais ce que je ferais?\p"
+	.string "Je lui dirais de dégager, et je\n"
+	.string "serais très autoritaire!\l"
+	.string "Comme ça il m'écoutera!$"
 
 SilphCo_9F_EventScript_LittleBoy::
 	msgbox SilphCo_9F_Text_LittleBoy, MSGBOX_NPC
 	end
 
 SilphCo_9F_Text_LittleBoy:
-	.string "What's your favorite POKéMON?\p"
-	.string "I don't have one, but I do have\n"
-	.string "a least favorite.\p"
+	.string "Quel est ton POKéMON préféré?\p"
+	.string "Je n'en ai pas perso mais il y\n"
+	.string "en a un que j'aime beaucoup.\p"
 	.string "…\n"
-	.string "It's SEEL…$"
+	.string "C'est OTARIA…$"
 
 SilphCo_9F_EventScript_SeelGirl::
 	msgbox SilphCo_9F_Text_SeelGirl, MSGBOX_NPC
 	end
 
 SilphCo_9F_Text_SeelGirl:
-	.string "My SEEL gets jealous when I spend\n"
-	.string "time with other kids.\p"
-	.string "My friend gets jealous when I spend\n"
-	.string "time with SEEL.\p"
-	.string "I just can't win!$"
+	.string "Mon OTARIA est jalouse quand je passe\n"
+	.string "du temps avec d'autres enfants.\p"
+	.string "Mon copain est jaloux quand je passe\n"
+	.string "du temps avec OTARIA.\p"
+	.string "Je ne peux rien faire!$"
 
 SilphCo_9F_EventScript_Newbie::
 	msgbox SilphCo_9F_Text_Newbie, MSGBOX_NPC
 	end
 
 SilphCo_9F_Text_Newbie:
-	.string "I'm new a brand new hire.\n"
-	.string "It's hard learning my way around.\p"
-	.string "And who decided these pads were\n"
-	.string "a good idea, anyway?\p"
-	.string "I try to go to the water cooler\n"
-	.string "and suddenly I'm four floors up\l"
-	.string "and totally lost.$"
+	.string "Je suis nouveau ici.\n"
+	.string "Il est difficile de s'y retrouver.\p"
+	.string "Et qui a décidé que ces coussinets\n"
+	.string "étaient une bonne idée?\p"
+	.string "J'ai essayé d'aller à la fontaine\n"
+	.string "à eau et je me suis retrouvé 4\l"
+	.string "étages trop bas.$"
 
 SilphCo_9F_EventScript_WorkerF::
 	msgbox SilphCo_9F_Text_WorkerF
@@ -119,9 +119,9 @@ SilphCo_9F_EventScript_WorkerF::
 	end
 
 SilphCo_9F_Text_WorkerF:
-	.string "I can't believe you fought\n"
-	.string "all those ROCKETS.\p"
-	.string "You're so brave!$"
+	.string "Je n'arrive pas à croire que tu\n"
+	.string "as battu tous ces sbires ROCKETS.\p"
+	.string "Tu es tellement courageux!$"
 
 SilphCo_9F_EventScript_BragWorkerM::
 	msgbox SilphCo_9F_Text_BragWorkerM
@@ -129,24 +129,24 @@ SilphCo_9F_EventScript_BragWorkerM::
 	end
 
 SilphCo_9F_Text_BragWorkerM:
-	.string "PIDGEY and I took on two\n"
-	.string "of those ROCKET GRUNTS solo!\p"
-	.string "They had two big RHYDON and four\n"
-	.string "humongous GYARADOS between them!\p"
-	.string "It was no use, though, PIDGEY\n"
-	.string "and I wiped the floor with them.\p"
-	.string "I doubt they'll be back any time\n"
-	.string "soon after the thrashing they got.$"
+	.string "ROUCOUL et moi avons terassé\n"
+	.string "deux sbires à nous seuls!\p"
+	.string "Ils avaient deux gros RHINOFEROS et\n"
+	.string "quatre énormes LEVIATOR!\p"
+	.string "Mais cela n'a servi à rien, ROUCOUL\n"
+	.string "et moi on les à tous éclatés.\p"
+	.string "Je doute qu'il reviendront de\n"
+	.string "si tôt.$"
 
 SilphCo_9F_EventScript_Scientist::
 	msgbox SilphCo_9F_Text_Scientist, MSGBOX_NPC
 	end
 
 SilphCo_9F_Text_Scientist:
-	.string "I remember this story differently.\p"
-	.string "It was one ROCKET GRUNT with a\n"
-	.string "RATTATA and a ZUBAT.\p"
-	.string "PIDGEY lost so badly that the\n"
-	.string "GRUNT said it wasn't worth stealing.\p"
-	.string "Then he shoved them both\n"
-	.string "in a utility closet.$"
+	.string "Dans mes souvenirs c'était plutôt\p"
+	.string "un seul sbire ROCKET avec un\n"
+	.string "RATTATA et un NOSFERAPTI.\p"
+	.string "ROUCOUL n'a pas tenu 2 secondes et\n"
+	.string "le sbire à dit que ça ne valait pas\p"
+	.string "coup de le voler. Ensuite tu t'es\n"
+	.string "caché dans un casier.$"

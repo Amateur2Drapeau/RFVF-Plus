@@ -29,19 +29,19 @@ FarawayIsland_Exterior_EventScript_Sign::
 	end
 	
 FarawayIsland_Exterior_Text_Sign:
-    .string "The writing is fading as if it was\n"
-    .string "written a long time ago…\p"
-    .string "“…ber, 6th day\n"
-    .string "If any human…sets foot here…\l"
-    .string "again…et it be a kindhearted pers…\l"
-    .string "…ith that hope, I depar…”$"
+    .string "C'est comme si ça quelqu'un\n"
+    .string "avait écrit cela il y a longtemps…\p"
+    .string "“…bre, jour 6\n"
+    .string "Si un huma…met le pied ici…\l"
+    .string "encore…elqu'un de bienveilla…\l"
+    .string "…l'espère, Prennez soin…”$"
 	
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+	.string "Ok très bien!\n"
+	.string "Nous rentrerons à la maison!$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+	.string "Ok comme tu préfères.$"
 	
 FarawayIsland_Exterior_Text_SailorReturn:
-    .string "Do you want to return to VERMILION?$"
+    .string "Tu veux retourner à CARMIN SUR MER?$"

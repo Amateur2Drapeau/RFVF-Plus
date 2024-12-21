@@ -40,40 +40,40 @@ SilphCo_2F_EventScript_Scientist::
 	end
 
 SilphCo_2F_Text_Scientist:
-	.string "Now that we're not working on the\n"
-	.string "MASTER BALL anymore, we're pivoting\l"
-	.string "to other projects.$"
+	.string "Vu que nous ne travaillons plus\n"
+	.string "sur le projet MASTER BALL, nous\l"
+	.string "commençons de nouveaux projets.$"
 
 SilphCo_2F_EventScript_WorkerF1::
 	msgbox SilphCo_2F_Text_WorkerF1, MSGBOX_NPC
 	end
 
 SilphCo_2F_Text_WorkerF1:
-	.string "Maybe our next product can be a\n"
-	.string "security system to keep people\l"
-	.string "like TEAM ROCKET out!$"
+	.string "Peut-être que notre prochaine invention\n"
+	.string "sera un système de sécurité pour se\l"
+	.string "protéger des gens comme la TEAM ROCKET!$"
 
 SilphCo_2F_EventScript_WorkerF2::
 	msgbox SilphCo_2F_Text_WorkerF2, MSGBOX_NPC
 	end
 
 SilphCo_2F_Text_WorkerF2:
-	.string "Programming is hard work!\p"
-	.string "Can you imagine how difficult\n"
-	.string "coding a PORYGON would be?\p"
-	.string "To create a POKéMON out of\n"
-	.string "code like that…\l"
-	.string "It's unbelievable!$"
+	.string "Le dev c'est vraiment complexe!\p"
+	.string "Imagine la difficulté de coder\n"
+	.string "un PORYGON?\p"
+	.string "Pour créer un POKéMON à partir\n"
+	.string "d'un code…\l"
+	.string "C'est inconcevable!$"
 
 SilphCo_2F_EventScript_Woman::
 	msgbox SilphCo_2F_Text_Woman, MSGBOX_NPC
 	end
 
 SilphCo_2F_Text_Woman:
-	.string "We're constantly in and out of\n"
-	.string "meetings all day long.\p"
-	.string "I wish they would just let me\n"
-	.string "work in peace…$"
+	.string "Nous passons notre temps en\n"
+	.string "réunion tous les jours.\p"
+	.string "J'aimerais qu'ils me laissent\n"
+	.string "travailler en paix…$"
 
 SilphCo_2F_EventScript_WorkerM::
 	textcolor 3
@@ -83,4 +83,4 @@ SilphCo_2F_EventScript_WorkerM::
 
 SilphCo_2F_Text_WorkerM:
 	.string "…\p"
-	.string "He's asleep on the job!$"
+	.string "Il s'est endormi en travaillant!$"

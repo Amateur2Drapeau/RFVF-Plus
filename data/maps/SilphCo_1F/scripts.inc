@@ -33,48 +33,48 @@ SilphCo_1F_EventScript_CouchWoman::
 	end
 
 SilphCo_1F_Text_CouchWoman:
-	.string "I was captured by TEAM ROCKET.\p"
-	.string "I wonder if our insurance plan\n"
-	.string "covers that kind of thing…?$"
+	.string "J'ai été capturé par la TEAM ROCKET.\p"
+	.string "Je me demande si notre assurance\n"
+	.string "couvre ce genre de choses…?$"
 
 SilphCo_1F_EventScript_CouchMan::
 	msgbox SilphCo_1F_Text_CouchMan, MSGBOX_NPC
 	end
 
 SilphCo_1F_Text_CouchMan:
-	.string "I heard that the one who took on\n"
-	.string "TEAM ROCKET was actually some kid!\p"
-	.string "Wait, could it be you…?\n"
-	.string "No, no, couldn't be…$"
+	.string "J'ai entendu dire que celui qui a\n"
+	.string "vaincu la TEAM ROCKET est un enfant!\p"
+	.string "Attends, c'est toi…?\n"
+	.string "Non, non, c'est pas possible…$"
 
 SilphCo_1F_EventScript_FountainMan::
 	msgbox SilphCo_1F_Text_FountainMan, MSGBOX_NPC
 	end
 
 SilphCo_1F_Text_FountainMan:
-	.string "Any tool can be used for good\n"
-	.string "or evil, depending on the user.\p"
-	.string "I shudder to think what would've\n"
-	.string "happened if TEAM ROCKET had gotten\l"
-	.string "their hands on SILPH technology…$"
+	.string "Chaque invention peut être utilisée\n"
+	.string "pour faire le bien ou le mal.\p"
+	.string "Je me demande ce qui serait arrivé\n"
+	.string "si la TEAM ROCKET avait mis la main\l"
+	.string "sur les technologies de la SYLPHE…$"
 
 SilphCo_1F_EventScript_CushionMan::
 	msgbox SilphCo_1F_Text_CushionMan, MSGBOX_NPC
 	end
 
 SilphCo_1F_Text_CushionMan:
-	.string "I came back from playing hooky only\n"
-	.string "to find out the company had been\l"
-	.string "taken over!\l"
-	.string "That was quite a surprise, for sure.$"
+	.string "J'étais parti me la couler douce\n"
+	.string "et quand je suis revenu le SYLPHE\l"
+	.string "était tombée!\l"
+	.string "C'était une très grosse surprise.$"
 
 SilphCo_1F_EventScript_WalkingWoman::
 	msgbox SilphCo_1F_Text_WalkingWoman, MSGBOX_NPC
 	end
 
 SilphCo_1F_Text_WalkingWoman:
-	.string "A lot of work's piled up, so we\n"
-	.string "need to get cracking!$"
+	.string "Nous avons beaucoup de travail à\n"
+	.string "rattrapé maintenant!$"
 
 SilphCo_1F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_1F_EventScript_NewPainting
@@ -86,5 +86,5 @@ SilphCo_1F_EventScript_NewPainting::
 	end
 
 SilphCo_1F_Text_NewPainting:
-	.string "It's a gorgeous painting of a cabin\n"
-	.string "surrounded by a field of flowers.$"
+	.string "C'est une magnifique peinture d'une\n"
+	.string "cabane dans un champ de fleurs.$"

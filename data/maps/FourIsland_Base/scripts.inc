@@ -67,5 +67,5 @@ FourIsland_Base_EventScript_CableCarStationSign::
 	end
 
 FourIsland_Base_Text_CableCarStationSign::
-	.string "FOUR ISLAND CABLE CAR\n"
-	.string "Express trips up the mountain!$"
+	.string "TELEPHERIQUE de l'ILE 4\n"
+	.string "Voyage express vers la montagne!$"

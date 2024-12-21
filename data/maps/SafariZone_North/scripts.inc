@@ -55,9 +55,9 @@ SafariZone_North_EventScript_Worker1::
 	end
 
 SafariZone_North_Text_Worker1::
-	.string "Are you enjoying the SAFARI GAME?\p"
-	.string "We're working, so please go on with\n"
-	.string "your excursion and leave us be.$"
+	.string "Tu apprécies ton excursion dans le PARC?\p"
+	.string "Nous travaillons donc continuez votre\n"
+	.string "excursion dans les autres ZONES du PARC.$"
 
 SafariZone_North_EventScript_Worker2::
 	msgbox SafariZone_North_Text_Worker2, MSGBOX_DEFAULT
@@ -65,5 +65,5 @@ SafariZone_North_EventScript_Worker2::
 	end
 
 SafariZone_North_Text_Worker2::
-	.string "…If we cut through here…\n"
+	.string "…Et si on coupait ici…\n"
 	.string "…Hmm…$"

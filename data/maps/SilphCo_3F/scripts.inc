@@ -39,21 +39,21 @@ SilphCo_3F_EventScript_WorkerMWalking::
 	end
 
 SilphCo_3F_Text_WorkerMWalking:
-	.string "Sometimes, when I get stuck on\n"
-	.string "a problem, I stroll the office.\p"
-	.string "If you put on a serious face and\n"
-	.string "walk fast, people think you're\l"
-	.string "doing something important!$"
+	.string "Des fois, quand je bloque sur un\n"
+	.string "problème, je me promène dans le bureau.\p"
+	.string "Si tu prends un air sérieux et que tu\n"
+	.string "marches vite, les gens pensent que\l"
+	.string "tu fais quelque chose d'important!$"
 
 SilphCo_3F_EventScript_WorkerF::
 	msgbox SilphCo_3F_Text_WorkerF, MSGBOX_NPC
 	end
 
 SilphCo_3F_Text_WorkerF:
-	.string "To be honest, I kind of miss\n"
-	.string "TEAM ROCKET.\p"
-	.string "It was scary, but at least I\n"
-	.string "had an excuse to not work.$"
+	.string "Des fois la TEAM ROCKET me\n"
+	.string "manque.\p"
+	.string "Au moins j'avais une bonne\n"
+	.string "excuse pour ne pas travailler.$"
 
 SilphCo_3F_EventScript_Scientist::
 	lock
@@ -64,13 +64,13 @@ SilphCo_3F_EventScript_Scientist::
 	end
 
 SilphCo_3F_Text_Scientist:
-	.string "Uh huh…\n"
-	.string "No, of course not!\l"
-	.string "There's no way that'd work…\p"
-	.string "…Unless…\p"
-	.string "I have to run this by the team.\n"
-	.string "I'll call you back.$"
+	.string "Oh Oh…\n"
+	.string "Non, biensur que non!\l"
+	.string "Cela ne peut pas marcher…\p"
+	.string "…A moins que…\p"
+	.string "Je dois poser la question à l'équipe.\n"
+	.string "Je te rappelle plus tard.$"
 
 SilphCo_3F_Text_Scientist2::
-	.string "Excuse me, I have to make\n"
-	.string "another phone call.$"
+	.string "Pardon, je dois passer un nouveau\n"
+	.string "coup de téléphone.$"

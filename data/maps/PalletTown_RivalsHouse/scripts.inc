@@ -72,7 +72,7 @@ PalletTown_RivalsHouse_EventScript_Squirtle::
 	end
 
 PalletTown_RivalsHouse_Text_Squirtle:
-	.string "SQUIRTLE: Squirtle squirt!$"
+	.string "CARAPUCE: Cara! Carapuce!$"
 
 PalletTown_RivalsHouse_EventScript_Charmander::
 	waitse
@@ -83,7 +83,7 @@ PalletTown_RivalsHouse_EventScript_Charmander::
 	end
 
 PalletTown_RivalsHouse_Text_Charmander:
-	.string "CHARMANDER: Char char!$"
+	.string "SALAMECHE: Sala! Salamèche!$"
 
 PalletTown_RivalsHouse_EventScript_Bulbasaur::
 	waitse
@@ -94,7 +94,7 @@ PalletTown_RivalsHouse_EventScript_Bulbasaur::
 	end
 
 PalletTown_RivalsHouse_Text_Bulbasaur:
-	.string "BULBASAUR: Bubba! Zoar!$"
+	.string "BULBIZARRE: Bulbi! Bulbizarre!$"
 
 PalletTown_RivalsHouse_EventScript_Daisy::
 	lock
@@ -336,28 +336,28 @@ PalletTown_RivalsHouse_Movement_FaceUp:
 	step_end
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_0:
-	.string "SQUIRTLE: Squirt! Squirtle!$"
+	.string "CARAPUCE: Cara! Carapuce!$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_1:
-	.string "CHARMANDER: Charmander! Char!$"
+	.string "SALAMECHE: Sala! Salamèche!$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_2:
-	.string "BULBASAUR: Zoar! Bubba!$"
+	.string "BULBIZARRE: Bulbi! Bulbizarre!$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_3:
-	.string "DAISY: Grandpa gave me this\n{STR_VAR_1} to look after, but…\p{STR_VAR_1}'s gotten terribly bored \ncooped up here at home.\p{PLAYER}, I think it would be much\nhappier traveling with you.\pWill you please take {STR_VAR_1}\nwith you on your adventures?$"
+	.string "NINA: Pépé m'a donné ce\n{STR_VAR_1} pour que je m'en occupe, mais…\p{STR_VAR_1} s'ennuie beaucoup \nici à la maison.\p{PLAYER}, je pense qu'il serait bien\nplus heureux à voyager avec toi.\pTu veux bien prendre {STR_VAR_1}\navec toi dans tes aventures?$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_4:
-	.string "I understand, though {STR_VAR_1}\nlooks disappointed.\pPlease come back if you change\nyour mind.$"
+	.string "Je comprends, {STR_VAR_1}\nà l'air très triste.\pS'il te plait reviens si tu\nchanges d'avis.$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_5:
-	.string "Oh, you have no room to take\n{STR_VAR_1} with you.\pWe'll wait here until you've\nmade some space.$"
+	.string "Oh, tu n'as pas de place pour\nprendre {STR_VAR_1} avec toi.\pNous attendrons que tu ai de\nla place pour le prendre.$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_6:
 	.string "{STR_VAR_2}$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_7:
-	.string "{PLAYER} received a {STR_VAR_1}\nfrom DAISY!$"
+	.string "{PLAYER} obtient {STR_VAR_1}!$"
 
 PalletTown_RivalsHouse_EventScript_GiveFinalStarter_Text_8:
-	.string "DAISY: Thank you, {PLAYER}!\pTake good care of\n{STR_VAR_1}!$"
+	.string "NINA: Merci, {PLAYER}!\pPrends bien soin de\n{STR_VAR_1}!$"

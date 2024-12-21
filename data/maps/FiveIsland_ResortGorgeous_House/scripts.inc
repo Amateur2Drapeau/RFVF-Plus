@@ -86,8 +86,7 @@ FiveIsland_ResortGorgeous_House_EventScript_FirstReward::
 	end
 
 FiveIsland_ResortGorgeous_House_Text_ObtainedTheEgg::
-	.string "{PLAYER} received the EGG from\n"
-	.string "SEBASTIAN.$"
+	.string "{PLAYER} obtient l'OEUF de SEBASTIAN.$"
 
 FiveIsland_ResortGorgeous_House_EventScript_NoRoomForEgg::
 	textcolor 0
@@ -100,8 +99,8 @@ FiveIsland_ResortGorgeous_House_EventScript_NoRoomForEgg::
 	end
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPartyAppearsToBeFull::
-    .string "Butler: Your party appears to be\n"
-    .string "unfortunately full.$"
+    .string "MAJORDOME: Malheureusement votre\n"
+    .string "équipe est pleine.$"
 
 FiveIsland_ResortGorgeous_House_EventScript_ButlerApproachPlayerNorth::
 	applymovement LOCALID_SELPHY, Common_Movement_WalkInPlaceFasterDown
@@ -194,11 +193,11 @@ FiveIsland_ResortGorgeous_House_EventScript_PaintingSelphy::
 	end
 
 FiveIsland_ResortGorgeous_House_Text_WomanWithCorsola::
-	.string "It's a photo of a woman relaxing\n"
-	.string "at a resort surrounded by many\l"
-	.string "pink, coral POKéMON.$"
+	.string "C'est une photo d'une femme se\n"
+	.string "relaxant dans un hôtel entourée\l"
+	.string "de POKéMON roses corail.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWithCorsola::
-	.string "It's a photo of SELPHY relaxing\n"
-	.string "at a resort surrounded by many\l"
-	.string "pink, coral POKéMON.$"
+	.string "C'est une photo de THEMIS se\n"
+	.string "relaxant dans un hôtel entourée\l"
+	.string "de POKéMON roses corail.$"

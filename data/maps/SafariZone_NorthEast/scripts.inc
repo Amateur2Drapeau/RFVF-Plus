@@ -6,13 +6,13 @@ SafariZone_NorthEast_EventScript_AreaSign::
 	end
 
 SafariZone_NorthEast_Text_AreaSign::
-	.string "AREA 5$"
+	.string "ZONE 5$"
 
 SafariZone_NorthEast_EventScript_RoughTerrainSign::
 	msgbox SafariZone_NorthEast_Text_RoughTerrainSign, MSGBOX_SIGN
 	end
 
 SafariZone_NorthEast_Text_RoughTerrainSign::
-	.string "NOTICE!\p"
-	.string "Rough terrain ahead!\n"
-	.string "Exercise caution while exploring!$"
+	.string "ATTENTION!\p"
+	.string "Terrain accidenté!\n"
+	.string "Prudence lors de l'exploration!$"

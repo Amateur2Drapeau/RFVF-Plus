@@ -157,11 +157,11 @@ SilphCo_11F_EventScript_WorkerM::
 	end
 
 SilphCo_11F_Text_WorkerM:
-	.string "Excuse me!\p"
-	.string "Do you have an appointment to see\n"
-	.string "the PRESIDENT?\p"
+	.string "Excusez-moi!\p"
+	.string "Vous avez un rendez-vous avec\n"
+	.string "le PRESIDENT?\p"
 	.string "Oh, {PLAYER}!\n"
-	.string "Sorry, go on ahead.$"
+	.string "Désolé, tu peux passer.$"
 
 SilphCo_11F_EventScript_DevonSpy::
 	call_if_unset FLAG_MET_DEVON_SPY, SilphCo_11F_EventScript_DevonSpyFirstTime
@@ -227,53 +227,54 @@ SilphCo_11F_EventScript_DevonSpyFirstTimeNo::
 
 SilphCo_11F_Text_DevonSpy:
 	.string "POKé… TEAR?\n"
-	.string "Lets TRAINERS make dolls anywhere?\l"
-	.string "That can't be right…$"
+	.string "Les DRESSEURS peuvent fabriquer des\l"
+	.string "poupée n'importe ou…?$"
 
 SilphCo_11F_Text_DevonSpyYoureBack:
-	.string "Gah!\p"
-	.string "I-I'm just checking how sturdy\n"
-	.string "the walls are!\p"
-	.string "Oh, it's you again, kid.\p"
-	.string "I've got the imported POKé BALLS\n"
-	.string "if you've got the cash.$"
+	.string "Ah!\p"
+	.string "J-Je vérifie juste si le murs sont\n"
+	.string "robustes!\p"
+	.string "Oh, c'est encore toi.\p"
+	.string "J'ai les POKéBALL importées.\n"
+	.string "Si jamais tu as de l'argent.$"
 
 SilphCo_11F_Text_DevonSpyFirstTime:
-	.string "Getting the MASTER BALL research\n"
-	.string "and development was a huge score…\p"
-	.string "Bringing back the next big project's\n"
-	.string "intel will be a massive payday!$"
+	.string "Réussir à développer le projet\n"
+	.string "MASTER BALL était un grand succès…\p"
+	.string "Le nouveau projet sera pour sûr\n"
+	.string "très rémunérateur!$"
 
 SilphCo_11F_Text_Explain:
-	.string "Gah!\p"
-	.string "Where did you come from?\p"
-	.string "Wait! It's not what you think!\n"
-	.string "I'm not with TEAM ROCKET!\p"
-	.string "I work for SILPH, but I also\n"
-	.string "work for another company that's\l"
-	.string "based very far away.\p"
-	.string "They pay me to pass along info\n"
-	.string "about SILPH's product development.\p"
-	.string "Listen kid, I've got a good thing\n"
-	.string "going on for myself here, and I'm\l"
-	.string "willing to pay for your silence.\p"
-	.string "Well, more like sell to you at cost\n"
-	.string "for your silence, hehehe.\p"
-	.string "I have special POKé BALLS that I\n"
-	.string "imported from my company abroad.\p"
-	.string "I'll sell them to you for cheap\n"
-	.string "if you forget you ever saw me.$"
+	.string "Ah!\p"
+	.string "T'es arrivé d'où?\p"
+	.string "Attend! Ce n'est pas ce que tu crois!\n"
+	.string "Je ne suis pas avec la TEAM ROCKET!\p"
+	.string "Je travaille pour la SYLPHE, mais\n"
+	.string "pour une autre entreprise loin\l"
+	.string "d'ici.\p"
+	.string "Ils me payent pour récupérer des\n"
+	.string "infos sur les produits de la SYLPHE.\p"
+	.string "Ecoute, j'ai eu pas mal de succès\n"
+	.string "ici, et je vais te payer pour que\l"
+	.string "tu gardes le silence.\p"
+	.string "Ou bien, te vendre des produits\n"
+	.string "pour des prix préférentiels.\p"
+	.string "J'ai des POKé BALLS spéciale\n"
+	.string "importée de mon autre entreprise.\p"
+	.string "Je te les vendrais très peu cher si\n"
+	.string "tu promets de garder le silence.$"
 
 SilphCo_11F_Text_DevonSpyComeOn:
-	.string "Oh come on, kid.\n"
-	.string "Help me help you help me.$"
+	.string "Oh s'il te plait.\n"
+	.string "Aides-moi, aides-moi.$"
 
 SilphCo_11F_Text_DevonSpyAccepted:
 	.string "Excellent!\n"
-	.string "You'll love these POKé BALLS, kid.\p"
-	.string "This is all of them,\n"
-	.string "which ones are you interested in?$"
+	.string "Tu vas adorer ces POKé BALLS.\p"
+	.string "Les voici, alors laquelle\n"
+	.string "d'entre elles t'intéresse?$"
 
 SilphCo_11F_Text_DevonSpyComeBackLater:
-	.string "I'll sell these to you anytime as\n"
-	.string "long as you promise to keep quiet.$"
+	.string "Je continuerais de te les vendre\n"
+	.string "aussi longtemps que tu garderas\p"
+	.string "le silence.$"

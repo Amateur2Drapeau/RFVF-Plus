@@ -58,41 +58,41 @@ SilphCo_4F_EventScript_BaldingMan::
 	end
 
 SilphCo_4F_Text_BaldingMan:
-	.string "My office mate brings the most\n"
-	.string "disgusting-smelling food.\p"
-	.string "I wish she would take her lunch\n"
-	.string "break somewhere else.$"
+	.string "Mes collègues ramènent toujours\n"
+	.string "de la nourriture très odorante.\p"
+	.string "J'aimerais qu'ils prennent leurs\n"
+	.string "pauses déjeuner ailleurs.$"
 
 SilphCo_4F_EventScript_WorkerF::
 	msgbox SilphCo_4F_Text_WorkerF, MSGBOX_NPC
 	end
 
 SilphCo_4F_Text_WorkerF:
-	.string "Between you and me, I'm trying\n"
-	.string "to impress my office mate.\p"
-	.string "He's due for a promotion, and I\n"
-	.string "want to be the first one he thinks\l"
-	.string "to promote!$"
+	.string "De toi à moi, j'essaye d'impressioner\n"
+	.string "mon collègue.\p"
+	.string "Il va être promu, et je veux être\n"
+	.string "la première personne a qu'il va penser\l"
+	.string "quand il donnera un promotion!$"
 
 SilphCo_4F_EventScript_WorkerM2::
 	msgbox SilphCo_4F_Text_WorkerM2, MSGBOX_NPC
 	end
 
 SilphCo_4F_Text_WorkerM2:
-	.string "I'm on my break, kid.\n"
-	.string "I can't give you a tour now.$"
+	.string "Je suis en pause là.\n"
+	.string "Je peux pas te montrer les bureaux.$"
 
 SilphCo_4F_EventScript_Scientist::
 	msgbox SilphCo_4F_Text_Scientist, MSGBOX_NPC
 	end
 
 SilphCo_4F_Text_Scientist:
-	.string "What? Why are you looking at\n"
-	.string "me like that?\p"
-	.string "There was a TEAM ROCKET SCIENTIST\n"
-	.string "in here during the takeover?\p"
-	.string "Well, I'm obviously not him.\n"
-	.string "We must look completely different.$"
+	.string "Quoi? Pourquoi tu me regardes\n"
+	.string "comme ça?\p"
+	.string "Il y a avait un scientifique de la\n"
+	.string "TEAM ROCKET durant la prise d'otage?\p"
+	.string "Mais c'est n'est évidemment pas moi.\n"
+	.string "On ne se ressemble pas du tout.$"
 
 SilphCo_4F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_4F_EventScript_NewPainting
@@ -104,5 +104,5 @@ SilphCo_4F_EventScript_NewPainting::
 	end
 
 SilphCo_4F_Text_NewPainting:
-	.string "It's a gorgeous painting of a POKéMON\n"
-	.string "swimming in an underwater paradise.$"
+	.string "C'est une magnifique peinture d'un\n"
+	.string "POKéMON qui nage sous la mer.$"

@@ -59,16 +59,16 @@ BattleFrontier_OutsideEast_EventScript_OldWomanSudowoodoGone::
 	end
 
 BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle: //change text to match EM later
-	.string "Excuse me, young one.\n"
-	.string "Have you good eyesight?\p"
-	.string "There is an odd tree here, and to\n"
-	.string "my tired eyes it seems to wiggle.$"
+	.string "Excuse moi.\n"
+	.string "Tu as une bonne vue?\p"
+	.string "Il y a un arbre bizarre ici, j'ai\n"
+	.string "eu l'impression de le voir gigoter.$"
 
 BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere: //change text to match EM later
-	.string "Excuse me, young one.\n"
-	.string "Have you a good memory?\p"
-	.string "I have this feeling there once was\n"
-	.string "an odd tree here.$"
+	.string "Excuse me.\n"
+	.string "Tu as une bonne mémoire?\p"
+	.string "Il me semble qu'il y avait un\n"
+	.string "arbre bizarre ici.$"
 
 BattleFrontier_OutsideEast_EventScript_Sudowoodo::
 	lock
@@ -91,8 +91,8 @@ BattleFrontier_OutsideEast_EventScript_AskWaterSudowoodo::
 	end
 
 BattleFrontier_OutsideEast_Text_UseFreshWater::
-	.string "It's a weird tree.\n"
-	.string "Water it with a FRESH WATER?$"
+	.string "C'est arbre est bizarre.\n"
+	.string "L'aroser avec de l'EAU FRAICHE?$"
 
 BattleFrontier_OutsideEast_EventScript_WaterSudowoodo::
 	lock
@@ -128,9 +128,9 @@ BattleFrontier_OutsideEast_EventScript_WaterSudowoodo::
 	end
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "FRESH WATER!\p"
-	.string "The weird tree attacked!$"
+	.string "L'arbre bizarre n'a pas l'air d'aimer\n"
+	.string "l'EAU FRAICHE!\p"
+	.string "L'arbre bizarre vous attaque!$"
 
 BattleFrontier_OutsideEast_EventScript_DefeatedSudowoodo::
 	setflag FLAG_DEFEATED_SUDOWOODO
@@ -146,7 +146,7 @@ BattleFrontier_OutsideEast_EventScript_RanFromSudowoodo::
     end
 
 Text_WeirdTreeFledSomewhere::
-	.string "The weird tree fled elsewhere…$"
+	.string "L'arbre bizarre s'est enfuit…$"
 
 BattleFrontier_OutsideEast_Movement_SudowoodoShake:
 	face_right
