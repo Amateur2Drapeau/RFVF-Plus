@@ -6,5 +6,5 @@ SouthernIsland_Exterior_EventScript_Sign::
 	end
 
 SouthernIsland_Exterior_Text_Sign::
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+	.string "“Ceux dont les souvenirs s'estompent\n"
+	.string "cherchent à les graver dabs leur coeur…”$"

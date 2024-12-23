@@ -153,26 +153,27 @@ TwoIsland_House_EventScript_MonHasEffortRibbon::
 
 TwoIsland_House_Text_OhYourPokemon:
 	.string "Oh?\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "Ton {STR_VAR_1}…$"
 
 TwoIsland_House_Text_PleaseGiveItThisEffortRibbon:
-	.string "Went for it stupendously!\p"
-	.string "As its reward, please give it this\n"
-	.string "EFFORT RIBBON.$"
+	.string "Il a fait preuve d'une grande\p"
+	.string "générosité!\n"
+	.string "Pour le récompenser donne lui ceci:\p"
+	.string "RUBAN EFFORT.$"
 
 TwoIsland_House_Text_ReceivedEffortRibbon:
-	.string "{COLOR DARK_GRAY}{PLAYER} received the EFFORT RIBBON.$"
+	.string "{COLOR DARK_GRAY}{PLAYER} obtient RUBAN EFFORT.$"
 
 TwoIsland_House_Text_PutEffortRibbonOnMon:
-	.string "{COLOR DARK_GRAY}{PLAYER} put the EFFORT RIBBON\n"
-	.string "on {STR_VAR_1}.$"
+	.string "{COLOR DARK_GRAY}{PLAYER} donne le RUBAN EFFORT\n"
+	.string "à {STR_VAR_1}.$"
 
 TwoIsland_House_Text_GoForItLittleHarder:
-	.string "You have to go for it a\n"
-	.string "little harder.\p"
-	.string "If you do, I'll give your POKéMON\n"
-	.string "something nice.$"
+	.string "Tu peux encore le pousser un peu\n"
+	.string "plus loin.\p"
+	.string "Si tu réussi, je donnerai à ton POKéMON\n"
+	.string "quelque chose de cool.$"
 
 TwoIsland_House_Text_EffortRibbonLooksGoodOnIt:
-	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
+	.string "Oh! ton {STR_VAR_1}, ce RUBAN\n"
+	.string "EFFORT lui va bien!$"

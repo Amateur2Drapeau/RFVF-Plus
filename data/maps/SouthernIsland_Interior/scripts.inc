@@ -198,5 +198,5 @@ SouthernIsland_Interior_Movement_LatiApproach:
 	step_end
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+	.string "“Les rêves ne sont qu'une autre réalité.\n"
+	.string "Ne l'oublie jamais…”$"

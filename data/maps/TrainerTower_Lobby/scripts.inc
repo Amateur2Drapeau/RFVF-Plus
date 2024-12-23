@@ -157,8 +157,8 @@ TrainerTower_Lobby_EventScript_CantEnterInNuzlockeMode:
 	goto TrainerTower_Lobby_EventScript_DeclineChallenge
 
 TrainerTower_Lobby_Text_CantEnterInNuzlockeMode:
-	.string "The TRAINER TOWER cannot be\n"
-	.string "entered in NUZLOCKE MODE.$"
+	.string "La TOUR DRESSEUR n'est pas\n"
+	.string "accessble en MODE NUZLOCKE.$"
 
 TrainerTower_Lobby_EventScript_CantEnterInBothModes:
 	signmsg
@@ -169,9 +169,9 @@ TrainerTower_Lobby_EventScript_CantEnterInBothModes:
 	goto TrainerTower_Lobby_EventScript_DeclineChallenge
 
 TrainerTower_Lobby_Text_CantEnterInBothModes:
-	.string "The TRAINER TOWER cannot be\n"
-	.string "entered in the NUZLOCKE or\l"
-	.string "NO FREE HEALS MODES.$"
+	.string "La TOUR DRESSEUR n'est pas\n"
+	.string "accessble en MODE NUZLOCKE ou\l"
+	.string "MODE NO FREE HEALS.$"
 
 TrainerTower_Lobby_EventScript_CantEnterInNoFreeHealsMode:
 	signmsg
@@ -182,8 +182,8 @@ TrainerTower_Lobby_EventScript_CantEnterInNoFreeHealsMode:
 	goto TrainerTower_Lobby_EventScript_DeclineChallenge
 
 TrainerTower_Lobby_Text_CantEnterInNoFreeHealsMode:
-	.string "The TRAINER TOWER cannot be\n"
-	.string "entered in NO FREE HEALS MODE.$"
+	.string "La TOUR DRESSEUR n'est pas\n"
+	.string "accessble en MODE NO FREE HEALS.$"
 
 TrainerTower_Lobby_EventScript_EntryTrigger::
 	lockall

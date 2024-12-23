@@ -15,22 +15,22 @@ CapeBrink_EventScript_HelenaRematch::
 	end
 
 CapeBrink_Text_HelenaIntro:
-	.string "I'm combing the beach for litter,\n"
-	.string "but I guess I can do a quick battle.$"
+	.string "Je suis à la recherche de déchets,\n"
+	.string "Mais j'ai le temps pour un p'ti combat.$"
 
 CapeBrink_Text_HelenaDefeat:
-	.string "I'm all washed up!$"
+	.string "Je n'en peux plus!$"
 
 CapeBrink_Text_HelenaPostBattle:
-	.string "It's important to keep the oceans\n"
-	.string "clear of our trash.\p"
-	.string "Try to get things that are reusable\n"
-	.string "or refillable so you're throwing\l"
-	.string "less stuff away.$"
+	.string "C'est important de nettoyer les\n"
+	.string "océans.\p"
+	.string "Essaye d'acheter des objets qui\n"
+	.string "sont rechargeables ou réutilisables!\l"
+	.string "Histoire de laisser moins de déchets.$"
 
 CapeBrink_Text_HelenaRematchIntro:
-	.string "I'm combing the beach for litter,\n"
-	.string "but found a TRAINER instead!$"
+	.string "J'étais à la recherche de déchets,\n"
+	.string "mais j'ai trouvé un DRESSEUR!$"
 
 CapeBrink_EventScript_Atticus::
 	trainerbattle_single TRAINER_COOLTRAINER_ATTICUS, CapeBrink_Text_AtticusIntro, CapeBrink_Text_AtticusDefeat
@@ -46,24 +46,24 @@ CapeBrink_EventScript_AtticusRematch::
 	end
 
 CapeBrink_Text_AtticusIntro:
-	.string "TWO ISLAND has absolutely nothing\n"
-	.string "going on…\l"
-	.string "Hey, cure my boredom with a battle!$"
+	.string "Il ne se passe absolument rien\n"
+	.string "sur l'ILE 2…\l"
+	.string "He je m'ennuie, viens te battre!$"
 
 CapeBrink_Text_AtticusDefeat:
-	.string "…And now I'm bored again…$"
+	.string "…Et c'est reparti pour s'ennuyer…$"
 
 CapeBrink_Text_AtticusPostBattle:
-	.string "TRAINERS come here to battle\n"
-	.string "each other.\p"
-	.string "This island is so sleepy that\n"
-	.string "there's not much else to do here.$"
+	.string "Les DRESSEURS viennent ici pour\n"
+	.string "s'affronter.\p"
+	.string "De toute façon, sur cette ILE\n"
+	.string "il n'y a rien d'autre à faire.$"
 
 CapeBrink_Text_AtticusRematchIntro:
-	.string "…Yawn…\n"
-	.string "…So bored…\p"
-	.string "Oh, a battle?\n"
-	.string "You bet! Bring it on!$"
+	.string "…Baillement…\n"
+	.string "…Quel ennuie…\p"
+	.string "Oh, un combat?\n"
+	.string "Je suis partant! Allons-y!$"
 
 CapeBrink_EventScript_Deforest::
 	trainerbattle_single TRAINER_FISHERMAN_DEFOREST, CapeBrink_Text_DeforestIntro, CapeBrink_Text_DeforestDefeat
@@ -79,25 +79,25 @@ CapeBrink_EventScript_DeforestRematch::
 	end
 
 CapeBrink_Text_DeforestIntro:
-	.string "Ach! Nothing's biting!\p"
-	.string "I'll take my frustration out\n"
-	.string "on your POKéMON!$"
+	.string "Aie! Rien au bout de la ligne!\p"
+	.string "Je vais passer mes nerfs sur\n"
+	.string "tes POKéMON!$"
 
 CapeBrink_Text_DeforestDefeat:
-	.string "Like a fish out of water!$"
+	.string "Comme un poisson hors de l'eau!$"
 
 CapeBrink_Text_DeforestPostBattle:
-	.string "These fast-moving currents make it\n"
-	.string "impossible to catch fish, but I\l"
-	.string "still keep trying.$"
+	.string "Ces rapides rendent la pêche\n"
+	.string "impossible, mais je n'ai rien de\l"
+	.string "mieux à faire donc continuons.$"
 
 CapeBrink_Text_DeforestRematchIntro:
-	.string "You want another battle? Sure,\n"
-	.string "it's not like I've hooked anything.$"
+	.string "Tu veux te battre de nouveau?\n"
+	.string "De toute façon je n'ai rien à faire.$"
 
 CapeBrink_Text_DeforestRematchDefeat:
-	.string "Why won't my POLIWHIRL evolve\n"
-	.string "into POLITOED?$"
+	.string "Pourquoi mon TETARTE n'évolue pas\n"
+	.string "en TARPAUD?$"
 
 CapeBrink_EventScript_Spedo::
 	trainerbattle_single TRAINER_BIRD_KEEPER_SPEDO, CapeBrink_Text_SpedoIntro, CapeBrink_Text_SpedoDefeat
@@ -113,20 +113,20 @@ CapeBrink_EventScript_SpedoRematch::
 	end
 
 CapeBrink_Text_SpedoIntro:
-	.string "We may not be able to swim or\n"
-	.string "SURF, but my POKéMON sure can FLY!$"
+	.string "On est peut être pas capable de\n"
+	.string "nager, mais on peut voler!$"
 
 CapeBrink_Text_SpedoDefeat:
-	.string "Crash landing!$"
+	.string "On va se crasher!$"
 
 CapeBrink_Text_SpedoPostBattle:
-	.string "Even if it's too dangerous to get\n"
-	.string "in the water, I still have fun\l"
-	.string "hanging out on the beach.$"
+	.string "Même si c'est trop dangereux de\n"
+	.string "mettre les pieds dans l'eau, je\l"
+	.string "m'amuse en venant à la plage.$"
 
 CapeBrink_Text_SpedoRematchIntro:
-	.string "Can't swim and can't SURF,\n"
-	.string "so let's have fun by battling!$"
+	.string "Je ne peux ni nager ni utiliser\n"
+	.string "SURF, battons nous alors!$"
 
 CapeBrink_EventScript_Caspara::
 	trainerbattle_single TRAINER_COOLTRAINER_CASPARA, CapeBrink_Text_CasparaIntro, CapeBrink_Text_CasparaDefeat
@@ -142,23 +142,23 @@ CapeBrink_EventScript_CasparaRematch::
 	end
 
 CapeBrink_Text_CasparaIntro:
-	.string "Hey! You're in my sun!\n"
-	.string "Get out of here, kid!$"
+	.string "He! Tu me caches le soleil!\n"
+	.string "Bouge de là gamin!$"
 
 CapeBrink_Text_CasparaDefeat:
-	.string "Great, now go somewhere else.$"
+	.string "Super, maintenant bouge d'ici.$"
 
 CapeBrink_Text_CasparaPostBattle:
-	.string "The sun is really bad for you,\n"
-	.string "especially without sunscreen.\p"
-	.string "Sometimes I wonder if tanning\n"
-	.string "like this is really worth it.$"
+	.string "Le soleil est très dangereux,\n"
+	.string "surtout sans crème solaire.\p"
+	.string "Des fois je me demande si c'est\n"
+	.string "rentable de bronzer comme ça.$"
 
 CapeBrink_Text_CasparaRematchIntro:
-	.string "You don't have to keep bothering me,\n"
-	.string "that chair over there is free.\p"
-	.string "Another battle?\n"
-	.string "…If it makes you go away, then fine.$"
+	.string "Tu n'as pas besoin de venir\n"
+	.string "m'importuner, cette chaise est libre.\p"
+	.string "Encore un combat?\n"
+	.string "…Si ça te fait dégager allons-y!$"
 
 CapeBrink_EventScript_Sedef::
 	trainerbattle_single TRAINER_SWIMMER_FEMALE_SEDEF, CapeBrink_Text_SedefIntro, CapeBrink_Text_SedefDefeat
@@ -174,26 +174,26 @@ CapeBrink_EventScript_SedefRematch::
 	end
 
 CapeBrink_Text_SedefIntro:
-	.string "I'm the best SWIMMER in the world!\n"
-	.string "Watch me sink your POKéMON!$"
+	.string "Je suis le meilleur nageur au monde!\n"
+	.string "Je vais couler tes POKéMON!$"
 
 CapeBrink_Text_SedefDefeat:
-	.string "Caught in a riptide!$"
+	.string "Je suis dans les rapides!$"
 
 CapeBrink_Text_SedefPostBattle:
-	.string "I could easily swim in these\n"
-	.string "currents, I just prefer lying here.$"
+	.string "Je peux facilement nager dans ces\n"
+	.string "courants, mais je préfère rester ici.$"
 
 CapeBrink_Text_SedefRematchIntro:
-	.string "I'm the best relaxer in the world!\n"
-	.string "I'll beat you while snoozing!$"
+	.string "Je suis le plus grand chilleur au monde!\n"
+	.string "Je peux te battre en somnolant!$"
 
 CapeBrink_EventScript_Tuber::
 	msgbox CapeBrink_Text_Tuber, MSGBOX_NPC
 	end
 
 CapeBrink_Text_Tuber:
-	.string "This beach is famous for attracting\n"
-	.string "strong TRAINERS from all over.\p"
-	.string "I like watching their battles\n"
-	.string "from up here.$"
+	.string "Cette plage est célèbre pour\n"
+	.string "attirer des DRESSEURS redoutables.\p"
+	.string "Je préfère regarder les combats\n"
+	.string "d'en haut personnellement.$"
