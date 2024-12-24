@@ -809,59 +809,59 @@ gStdScriptsEnd::
 	.include "data/text/pc.inc"
 
 Text_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "A la prochaine!$"
 
 	.include "data/text/obtain_item.inc"
 
 Text_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "Quel étage?$"
 
 Text_BagItemCanBeRegistered::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "Un objet du SAC peut être sauvé\n"
+	.string "comme fonction de SELECT.$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} allume le PC.$"
 
 gText_PkmnFainted3::
-	.string "{STR_VAR_1} fainted…\p"
+	.string "{STR_VAR_1} est KO…\p"
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Welcome to our POKéMON CENTER!\p"
-	.string "Would you like me to heal your\n"
-	.string "POKéMON back to perfect health?$"
+    .string "Bienvenue dans notre CENTRE\n"
+    .string "POKéMON!\p"
+    .string "Voulez-vous que je m'occupe\n"
+    .string "de vos POKéMON?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Okay, I'll take your POKéMON for a\n"
-	.string "few seconds.$"
+    .string "OK, je prends vos POKéMON un\n"
+    .string "instant.$"
 
 Text_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "A bientôt!$"
 
 Text_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\n"
-	.string "We've restored your POKéMON to\l"
-	.string "full health.$"
+    .string "Merci d'avoir attendu.\p"
+    .string "Vos POKéMON sont en super forme.$"
 
 	.include "data/text/surf.inc"
 
 Text_WirelessClubUndergoingAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+    .string "Je suis vraiment désolée.\p"
+    .string "Le CLUB SANS FIL POKéMON\n"
+    .string "est encore en préparation.$"
 
 Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "On dirait que c'est encore en\n"
+	.string "préparation…$"
 
 Text_HandedOverItem::
-	.string "{PLAYER} handed over the\n"
+	.string "{PLAYER} a remis le\n"
 	.string "{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
-	.string "Do you want to give a nickname to\n"
-	.string "this {STR_VAR_1}?$"
+	.string "Voulez-vous donner un surnom\n"
+	.string "à {STR_VAR_1}?$"
 
 	.include "data/text/itemfinder.inc"
 	.include "data/text/route23.inc"
@@ -869,42 +869,42 @@ Text_GiveNicknameToThisMon::
 	.include "data/text/ingame_trade.inc"
 
 Text_CardKeyOpenedDoor::
-	.string "Bingo!\n"
-	.string "The CARD KEY opened the door!$"
+    .string "Bingo!\n"
+    .string "La CARTE MAGN. a ouvert la porte!$"
 
 Text_ItNeedsCardKey::
-	.string "No!\n"
-	.string "It needs a CARD KEY!$"
+    .string "Zut!\n"
+    .string "Il faut une CARTE MAGN.!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKéDEX Rating\n"
-	.string "System…$"
+	.string "Connexion au PC du PROF. CHEN.\p"
+	.string "Accès au système d'évaluation\n"
+	.string "du POKéDEX.$"
 
 Text_HavePokedexRated::
-	.string "Would you like to have your\n"
-	.string "POKéDEX rated?$"
+	.string "Voulez-vous faire évaluer votre\n"
+	.string "POKéDEX?$"
 
 Text_ClosedLinkToProfOaksPC::
-	.string "Closed link to PROF. OAK's PC.$"
+	.string "PC du PROF. CHEN. Déconnexion…$"
 
 Text_VoiceRangOutDontRunAway::
-	.string "Someone's voice rang out,\n"
-	.string "“Don't run away!”$"
+	.string "Vous entendez la voix de quelqu'un,\n"
+	.string "“Reviens ici!”$"
 
 Text_TheDoorIsOpen::
-	.string "The door is open…$"
+    .string "La porte est ouverte…$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/white_out.inc"
 	.include "data/text/poke_mart.inc"
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1} sauvage fuit!$"
 
 Text_FoundTMHMContainsMove::
-	.string "{PLAYER} found a {STR_VAR_2}!\n"
-	.string "It contains {STR_VAR_1}.$"
+	.string "{PLAYER} obtient {STR_VAR_2}!\n"
+	.string "Elle contient {STR_VAR_1}.$"
 
 	.include "data/text/seagallop.inc"
 
