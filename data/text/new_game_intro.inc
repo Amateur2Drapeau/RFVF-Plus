@@ -214,7 +214,7 @@ gOakSpeech_Text_YourNameWhatIsIt::
 
 gOakSpeech_Text_SoYourNameIsPlayer::
     .string "D'accord…\n"
-    .string "Donc tu t'appelles LORIS {PLAYER}.$"
+    .string "Donc tu t'appelles {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
     .string "Voici mon petit-fils.\p"
