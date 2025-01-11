@@ -684,6 +684,27 @@ static const union AnimCmd *const sAnims_SwitchMapCursor[] = {
     sAnim_SwitchMapCursor
 };
 
+static const char sMapsecName_VIRIDIANFOREST[] = "FORET DE JADE";
+static const char sMapsecName_MTMOON[] = "MONT SELENITE";
+static const char sMapsecName_DIGLETTSCAVE[] = "CAVE TAUPIQUEUR";
+static const char sMapsecName_VICTORYROAD[] = "ROUTE VICTOIRE";
+static const char sMapsecName_POKMONMANSION[] = "MANOIR POKéMON";
+static const char sMapsecName_SAFARIZONE[] = "PARC SAFARI";
+static const char sMapsecName_ROCKTUNNEL[] = "GROTTE";
+static const char sMapsecName_SEAFOAMISLANDS[] = "ILES ECUMES";
+static const char sMapsecName_POKMONTOWER[] = "TOUR POKéMON";
+static const char sMapsecName_CERULEANCAVE[] = "GROTTE AZUREE";
+static const char sMapsecName_POWERPLANT[] = "CENTRALE";
+static const char sMapsecName_MTEMBER[] = "MONT BRAISE";
+static const char sMapsecName_BERRYFOREST[] = "BOIS BAIES";
+static const char sMapsecName_ICEFALLCAVE[] = "GROTTE DE GLACE";
+static const char sMapsecName_LOSTCAVE[] = "GROTTE PERDUE";
+static const char sMapsecName_TANOBYCHAMBERS[] = "CHAMBRES TANOBY";
+static const char sMapsecName_ALTERINGCAVE[] = "GROTTE METAMO";
+static const char sMapsecName_PATTERNBUSH[] = "FORBUISSONS";
+static const char sMapsecName_DOTTEDHOLE[] = "TROU PERCE";
+static const char sMapsecName_CELADONDEPT[] = "CENTRE COMMERCIAL";
+
 static const struct DungeonMapInfo sDungeonInfo[] = {
     {
         .id = MAPSEC_VIRIDIAN_FOREST,

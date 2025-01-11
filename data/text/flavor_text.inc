@@ -58,7 +58,7 @@ Text_Painting::
 	.string "Il semble heureux.$"
 
 Text_PowerPlantMachine::
-	.string "A quoi ça peut bien server? Mieux\n"
+	.string "A quoi ça peut bien servir? Mieux\n"
 	.string "vaut ne pas y toucher!$"
 
 Text_Telephone::

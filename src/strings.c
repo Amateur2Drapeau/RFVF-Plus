@@ -1270,8 +1270,8 @@ const u8 gText_ExpModTwice[] = _("2×");
 
 const u8 gText_KeySystemSettings[] = _("PARAMETRES SYSTEME");
 const u8 gText_HelpPickSwitchCancel[] = _("{L_BUTTON}INFO {DPAD_UPDOWN}CHOISIR {DPAD_LEFTRIGHT}CHANGER {A_BUTTON}{B_BUTTON}SAUV.");
-const u8 gChooseVersionNewGame[] = _("Commencer la partie sur quelle version?\nLes autres réglages systèmes seront\ldisponibles plus tard dans le MENU.");
-const u8 gFRLG_Multichoice[] = _("ROUGE FEU\nVERT FEUILLE");
+const u8 gChooseVersionNewGame[] = _("Commencer la partie sur quelle\nversion?\pLes autres réglages systèmes \nseront disponibles plus tard.");
+const u8 gFRLG_Multichoice[] = _("R.FEU\nV.FEUILLE");
 
 const u8 gText_BlueFlute_Ash[] = _("{FONT_SMALL}FLUTE BLEUE{CLEAR_TO 0x40} 250");
 const u8 gText_YellowFlute_Ash[] = _("{FONT_SMALL}FLUTE JAUNE{CLEAR_TO 0x40} 500");

@@ -1,5 +1,5 @@
 gOtherText_NewName::
-    .string "NOUVELLE PARTIE$"
+    .string "NOM:$"
 
 gNameChoice_Green::
     .string "BLUE$"
@@ -202,8 +202,8 @@ gOakSpeech_Text_IStudyPokemon::
     .string "animaux domestiques, pour d'autres,\p"
     .string "ils sont un moyen de combattre.\p"
     .string "Pour ma part…\p"
-    .string "L'étude des POKéMON est ma\p"
-    .string "profession.$"
+    .string "L'étude des POKéMON est ma\n"
+    .string "profession\p.$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
     .string "Mais avant tout, parle-moi\n"
