@@ -902,7 +902,7 @@ static void PrintPlayerName(void)
     for (i = 0; i < PLAYER_NAME_LENGTH; i++)
         *ptr++ = gSaveBlock2Ptr->playerName[i];
     *ptr = EOS;
-    AddTextPrinterParameterized3(MAIN_MENU_WINDOW_CONTINUE, FONT_NORMAL, 52, 18, sTextColor2, -1, name);
+    AddTextPrinterParameterized3(MAIN_MENU_WINDOW_CONTINUE, FONT_NORMAL, 60, 18, sTextColor2, -1, name);
 }
 
 static void PrintPlayTime(void)
@@ -914,7 +914,7 @@ static void PrintPlayTime(void)
     ptr = ConvertIntToDecimalStringN(strbuf, gSaveBlock2Ptr->playTimeHours, STR_CONV_MODE_LEFT_ALIGN, 3);
     *ptr++ = CHAR_COLON;
     ConvertIntToDecimalStringN(ptr, gSaveBlock2Ptr->playTimeMinutes, STR_CONV_MODE_LEADING_ZEROS, 2);
-    AddTextPrinterParameterized3(MAIN_MENU_WINDOW_CONTINUE, FONT_NORMAL, 52, 34, sTextColor2, -1, strbuf);
+    AddTextPrinterParameterized3(MAIN_MENU_WINDOW_CONTINUE, FONT_NORMAL, 60, 34, sTextColor2, -1, strbuf);
 }
 
 static void PrintDexCount(void)
