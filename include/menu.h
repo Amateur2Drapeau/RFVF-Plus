@@ -14,6 +14,9 @@
 #define MENU_INFO_ICON_ACCURACY  (NUMBER_OF_MON_TYPES + 3)
 #define MENU_INFO_ICON_PP        (NUMBER_OF_MON_TYPES + 4)
 #define MENU_INFO_ICON_EFFECT    (NUMBER_OF_MON_TYPES + 5)
+#define MENU_INFO_ICON_PHYSICAL 24
+#define MENU_INFO_ICON_SPECIAL 25
+#define MENU_INFO_ICON_STATUS 26
 
 struct MenuAction
 {
@@ -39,6 +42,7 @@ void ListMenu_LoadMonIconPalette(u8 palOffset, u16 speciesId);
 void ListMenu_DrawMonIconGraphics(u8 windowId, u16 speciesId, u32 personality, u16 x, u16 y);
 void ListMenuLoadStdPalAt(u8 palOffset, u8 palId);
 void BlitMenuInfoIcon(u8 windowId, u8 iconId, u16 x, u16 y);
+void BlitMoveInfoIcon(u8 windowId, u8 iconId, u16 x, u16 y);
 
 // menu
 s8 Menu_ProcessInputGridLayout(void);

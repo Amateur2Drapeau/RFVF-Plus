@@ -2771,6 +2771,7 @@ extern const u32 gTrainerPalette_MasterScientist[];
 extern const u32 gTrainerPalette_MasterYoungster[];
 extern const u32 gTrainerPalette_MasterSwimmer[];
 
+extern const u8 gFireRedMenuElements_Gfx[];
 extern const u8 gMenuInfoElements_Gfx[];
 extern const u16 gMenuInfoElements1_Pal[];
 extern const u16 gMenuInfoElements2_Pal[];

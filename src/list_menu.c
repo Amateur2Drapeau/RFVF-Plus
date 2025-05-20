@@ -77,6 +77,37 @@ static const struct MoveMenuInfoIcon sMenuInfoIcons[] =
     [MENU_INFO_ICON_EFFECT]    = { 40, 12, 0xE8 },
 };
 
+const struct MoveMenuInfoIcon gMoveMenuInfoIcons[] =
+{
+    { 12, 12, 0x00 },       // Unused
+    { 32, 12, 0x20 },       // Normal icon
+    { 32, 12, 0x64 },       // Fight icon
+    { 32, 12, 0x60 },       // Flying icon
+    { 32, 12, 0x80 },       // Poison icon
+    { 32, 12, 0x48 },       // Ground icon
+    { 32, 12, 0x44 },       // Rock icon
+    { 32, 12, 0x6C },       // Bug icon
+    { 32, 12, 0x68 },       // Ghost icon
+    { 32, 12, 0x88 },       // Steel icon
+    { 32, 12, 0xA4 },       // ??? (Mystery) icon
+    { 32, 12, 0x24 },       // Fire icon
+    { 32, 12, 0x28 },       // Water icon
+    { 32, 12, 0x2C },       // Grass icon
+    { 32, 12, 0x40 },       // Electric icon
+    { 32, 12, 0x84 },       // Psychic icon
+    { 32, 12, 0x4C },       // Ice icon
+    { 32, 12, 0xA0 },       // Dragon icon
+    { 32, 12, 0x8C },       // Dark icon
+    { 40, 12, 0xA8 },       // -Type- icon
+    { 40, 12, 0xC0 },       // -Power- icon
+    { 40, 12, 0xC8 },       // -Accuracy- icon
+    { 40, 12, 0xE0 },       // -PP- icon
+    { 40, 12, 0xE8 },       // -Effect- icon
+    { 32, 12, 0x120 },      // Physical icon
+    { 32, 12, 0x124 },      // Special icon
+    { 32, 12, 0x128 },      // Status icon
+};
+
 static void ListMenuDummyTask(u8 taskId)
 {
 }
@@ -755,4 +786,10 @@ void ListMenuLoadStdPalAt(u8 palOffset, u8 palId)
 void BlitMenuInfoIcon(u8 windowId, u8 iconId, u16 x, u16 y)
 {
     BlitBitmapRectToWindow(windowId, &gMenuInfoElements_Gfx[sMenuInfoIcons[iconId].offset * TILE_SIZE_4BPP], 0, 0, 128, 128, x, y, sMenuInfoIcons[iconId].width, sMenuInfoIcons[iconId].height);
+}
+
+
+void BlitMoveInfoIcon(u8 windowId, u8 iconId, u16 x, u16 y)
+{
+    BlitBitmapRectToWindow(windowId, gFireRedMenuElements_Gfx + gMoveMenuInfoIcons[iconId].offset * 32, 0, 0, 128, 160, x, y, gMoveMenuInfoIcons[iconId].width, gMoveMenuInfoIcons[iconId].height);
 }

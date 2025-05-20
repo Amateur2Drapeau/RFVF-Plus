@@ -25,6 +25,8 @@
 #include "constants/songs.h"
 #include "constants/quest_log.h"
 #include "event_data.h"
+#include "constants/moves.h"
+#include "tm_case.h"
 
 // Any item in the TM Case with nonzero importance is considered an HM
 #define IS_HM(itemId) (ItemId_GetImportance(itemId) != 0)
@@ -171,6 +173,7 @@ static void TMCase_SetWindowBorder2(u8 windowId);
 static void PrintMessageWithFollowupTask(u8 taskId, u8 fontId, const u8 * str, TaskFunc func);
 static void PrintTitle(void);
 static void DrawMoveInfoLabels(void);
+static void BlitMoveCategoryIcon(u16 move);
 static void PlaceHMTileInWindow(u8 windowId, u8 x, u8 y);
 static void PrintPlayersMoney(void);
 static void HandleCreateYesNoMenu(u8 taskId, const struct YesNoFuncTable * ptrs);
@@ -1540,10 +1543,47 @@ static void PrintTitle(void)
 
 static void DrawMoveInfoLabels(void)
 {
-    BlitMenuInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_TYPE, 0, 0);
+    u8 iconId;
+    u16 itemId = BagGetItemIdByPocketPosition(POCKET_TM_CASE, sTMCaseStaticResources.scrollOffset + sTMCaseStaticResources.selectedRow);
+    u16 moveId = ItemIdToBattleMoveId(itemId);
+
+    switch (gBattleMoves[moveId].category)
+    {
+        case 0:
+            iconId = MENU_INFO_ICON_PHYSICAL;
+            break;
+        case 1:
+            iconId = MENU_INFO_ICON_SPECIAL;
+            break;
+        case 2:
+        default:
+            iconId = MENU_INFO_ICON_STATUS;
+            break;
+    }
+
+    BlitMoveInfoIcon(WIN_MOVE_INFO_LABELS, iconId, 3, 0);
     BlitMenuInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_POWER, 0, 12);
     BlitMenuInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_ACCURACY, 0, 24);
     BlitMenuInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_PP, 0, 36);
+    CopyWindowToVram(WIN_MOVE_INFO_LABELS, COPYWIN_GFX);
+}
+
+static void BlitMoveCategoryIcon(u16 move) 
+{
+    FillWindowPixelRect(WIN_MOVE_INFO_LABELS, PIXEL_FILL(0), 0, 0, 40, 12);
+    switch (gBattleMoves[move].category)
+    {
+        case 0:
+            BlitMoveInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_PHYSICAL, 3, 0);
+            break;
+        case 1:
+            BlitMoveInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_SPECIAL, 3, 0);
+            break;
+        case 2:
+        default:
+            BlitMoveInfoIcon(WIN_MOVE_INFO_LABELS, MENU_INFO_ICON_STATUS, 3, 0);
+            break;
+    }
     CopyWindowToVram(WIN_MOVE_INFO_LABELS, COPYWIN_GFX);
 }
 
@@ -1564,7 +1604,8 @@ static void PrintMoveInfo(u16 itemId)
     {
         // Draw type icon
         move = ItemIdToBattleMoveId(itemId);
-        BlitMenuInfoIcon(WIN_MOVE_INFO, gBattleMoves[move].type + 1, 0, 0);
+        BlitMoveCategoryIcon(move);
+        BlitMoveInfoIcon(WIN_MOVE_INFO, gBattleMoves[move].type + 1, 0, 0);
 
         // Print power
         if (gBattleMoves[move].power < 2)

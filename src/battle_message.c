@@ -2450,18 +2450,6 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
         .bgColor = 14,
         .shadowColor = 15,
     },
-    [B_WIN_PP] = {
-        .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
-        .x = 0,
-        .y = 2,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
-        .speed = 0,
-        .fgColor = 12,
-        .bgColor = 14,
-        .shadowColor = 11,
-    },
     [B_WIN_MOVE_TYPE] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
@@ -2477,7 +2465,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_PP_REMAINING] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_NORMAL_COPY_1,
-        .x = 10,
+        .x = 8,
         .y = 2,
         .letterSpacing = 0,
         .lineSpacing = 2,
@@ -2486,7 +2474,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
         .bgColor = 14,
         .shadowColor = 11,
     },
-    [B_WIN_DUMMY] = {
+    [B_WIN_PSS_ICON] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_NORMAL_COPY_1,
         .x = 0,
