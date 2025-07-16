@@ -1111,40 +1111,41 @@ EventScript_FuryCutterDeclined2::
 	end
 
 MoveTutor_Text_FuryCutterTeach:
-	.string "There's a move that gets stronger\n"
-	.string "when you keep using it in a row.\p"
-	.string "It's a BUG-type move, and it is\n"
-	.string "wickedly cool.\p"
-	.string "It's called FURY CUTTER.\n"
-	.string "Want me to teach it to a POKéMON?$"
+	.string "Il existe une capacité qui devient\n"
+	.string "plus forte si on l’enchaîne.\p"
+	.string "C’est une attaque de type INSECTE,\n"
+	.string "et elle est super stylée.\p"
+	.string "Elle s’appelle TAILLADE.\n"
+	.string "Tu veux que je l’apprenne à un POKéMON ?$"
 
 MoveTutor_Text_FuryCutterDeclined:
-	.string "We're not on the same wavelength.$"
+	.string "On n’est pas sur la même longueur\l"
+	.string "d’onde.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
-	.string "Yay!\n"
-	.string "Show me the POKéMON I should teach.$"
+	.string "Youpi !\n"
+	.string "Montre-moi le POKéMON à entraîner.$"
 
 MoveTutor_Text_FuryCutterTaught:
-	.string "I get a thrill watching to see if\n"
-	.string "the move keeps hitting in succession!$"
+	.string "J’adore voir si l’attaque touche\n"
+	.string "encore et encore à la suite !$"
 
 Text_FuryCutterReteach::
-	.string "You want your POKéMON to learn\n"
-	.string "FURY CUTTER over and over so they\l"
-	.string "can keep using it over and over?\p"
-	.string "I can teach you FURY CUTTER\n"
-	.string "again if you give me ¥5000.$"
+	.string "Tu veux que ton POKéMON apprenne\n"
+	.string "TAILLADE encore et encore pour\l"
+	.string "pouvoir l’enchaîner sans fin ?\p"
+	.string "Je peux t’apprendre TAILLADE\n"
+	.string "à nouveau si tu me donnes ¥5000.$"
 
 Text_FuryCutterReteach2::
-    .string "Want me to teach FURY CUTTER\n"
-    .string "to a POKéMON?$"
+    .string "Tu veux que j’apprenne TAILLADE\n"
+    .string "à un POKéMON ?$"
 
 Text_FuryCutterNotEnoughMoney::
-	.string "I can't teach FURY CUTTER over\n"
-	.string "and over if you can't pay!\p"
-	.string "Come back with ¥5000 next\n"
-	.string "time and I'll teach it again.$"
+	.string "Je peux pas t’apprendre TAILLADE\n"
+	.string "sans être payé à chaque fois !\p"
+	.string "Reviens avec ¥5000 la prochaine\n"
+	.string "fois et je t’apprendrai encore.$"
 
 Route24_EventScript_RolloutTutor::
 	lock
@@ -1206,48 +1207,47 @@ EventScript_RolloutDeclined2::
 	end
 
 MoveTutor_Text_RolloutTeach:
-	.string "Did you know that you can go from\n"
-	.string "here a long way in that direction\l"
-	.string "without changing direction?\p"
-	.string "I might even be able to roll\n"
-	.string "that way.\p"
-	.string "Do you think your POKéMON will\n"
-	.string "want to roll, too?\p"
-	.string "I can teach one the move ROLLOUT\n"
-	.string "if you'd like.$"
+	.string "Tu savais qu'on peut aller très\n"
+	.string "loin par ici dans cette\l"
+	.string "direction ?\p"
+	.string "Je pourrais même rouler dans\n"
+	.string "cette direction.\p"
+	.string "Tu crois que ton POKéMON voudrait\n"
+	.string "rouler lui aussi ?\p"
+	.string "Je peux lui apprendre ROULADE\n"
+	.string "si tu veux.$"
 
 MoveTutor_Text_RolloutDeclined:
-	.string "You don't need to be shy about it.\n"
-	.string "Let's roll!$"
+	.string "Pas besoin d'être timide.\n"
+	.string "Allez, on roule !$"
 
 MoveTutor_Text_RolloutWhichMon:
-	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the POKéMON looked like me.$"
+	.string "Ehehe, bien sûr ! Ce serait super\n"
+	.string "si le POKéMON me ressemblait.$"
 
 MoveTutor_Text_RolloutTaught:
-	.string "Rolling around in the grass makes me\n"
-	.string "happy. Come on, let's roll!$"
+	.string "Rouler dans l'herbe me rend tout\n"
+	.string "joyeux. Allez, roulons !$"
 
 Text_RolloutReteach::
-	.string "I wonder if I could roll down\n"
-	.string "NUGGET BRIDGE to CERULEAN…\p"
-	.string "Oh, do you want me to teach\n"
-	.string "ROLLOUT to your POKéMON again?\p"
-	.string "I can do it, but I have to charge\n"
-	.string "¥5000 for my services!$"
+	.string "Je me demande si je pourrais\n"
+	.string "rouler du PONT PÉPITE à AZURIA…\p"
+	.string "Oh, tu veux que j'apprenne\n"
+	.string "ROULADE à ton POKéMON encore ?\p"
+	.string "Je peux le faire, mais je dois\n"
+	.string "faire payer ¥5000 pour ça !$"
 
 Text_RolloutReteach2::
-    .string "Want me to teach ROLLOUT\n"
-    .string "to one of your POKéMON?$"
+    .string "Tu veux que j'apprenne ROULADE\n"
+    .string "à un de tes POKéMON ?$"
 
 Text_RolloutNotEnoughMoney::
-	.string "Whoa!\n"
-	.string "Hold on a minute!\p"
-	.string "How can I teach you ROLLOUT if\n"
-	.string "you don't have a bankroll to pay\l"
-	.string "me with?\p"
-	.string "Come back to me with ¥5000 and\n"
-	.string "we'll get your POKéMON rolling!$"
+	.string "Whoa !\n"
+	.string "Attends une seconde !\p"
+	.string "Comment t’apprendre ROULADE si\n"
+	.string "t’as pas assez pour me payer ?\p"
+	.string "Reviens avec ¥5000 et ton\n"
+	.string "POKéMON roulera comme jamais !$"
 
 SaffronCity_EventScript_DynamicPunchTutor::
 	lock
@@ -1315,53 +1315,53 @@ EventScript_DynamicPunchDeclined2::
 	end
 
 MoveTutor_Text_DynamicPunchTeach:
-	.string "I can't do this anymore!\p"
-	.string "It's utterly hopeless!\p"
-	.string "I'm a FIGHTING-type TRAINER,\n"
-	.string "so I can't win at the SAFFRON GYM\l"
-	.string "no matter how hard I try!\p"
-	.string "Argh! Punch! Punch! Punch!\n"
-	.string "Punch! Punch! Punch!\p"
-	.string "What, don't look at me that way!\n"
-	.string "I'm only hitting the wall!\p"
-	.string "Or do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.string "J’en peux plus, c’est fini !\p"
+	.string "C’est complètement fichu !\p"
+	.string "Je suis un dresseur de type COMBAT,\n"
+	.string "alors je peux jamais gagner à SAFRANIA\p"
+	.string "Peu importe mes efforts !\p"
+	.string "Argh ! Coup de poing ! Coup de poing !\n"
+	.string "Encore ! Encore ! Encore !\p"
+	.string "Quoi ? Me regarde pas comme ça !\n"
+	.string "Je tape juste sur le mur !\p"
+	.string "Ou alors tu veux que j’apprenne\n"
+	.string "DYNAMOPOING à ton POKéMON ?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
-	.string "Darn! You're even making fun of me?\n"
-	.string "Punch! Punch! Punch!$"
+	.string "Zut ! Toi aussi tu te moques de moi ?\n"
+	.string "Coup de poing ! Coup de poing !$"
 
 MoveTutor_Text_DynamicPunchWhichMon:
-	.string "What? You do? You're a good person!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Hein ? Vraiment ? T’es quelqu’un\n"
+	.string "de bien ! Quel POKéMON j’entraîne ?$"
 
 MoveTutor_Text_DynamicPunchTaught:
-	.string "I want you to win at the SAFFRON\n"
-	.string "GYM using that DYNAMICPUNCH!$"
+	.string "Je veux que tu gagnes à l’ARÈNE\n"
+	.string "de SAFRANIA avec DYNAMOPOING !$"
 
 Text_DynamicPunchReteach::
-	.string "Argh! Punch! Punch! Punch!\n"
-	.string "Punch! Punch! Punch!\p"
-	.string "I'm still so frustrated about\n"
-	.string "losing in the GYM!\p"
-	.string "Do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH again?\p"
-	.string "I'll do it for ¥5000!\n"
-	.string "I need to buy REVIVES!$"
+	.string "Argh ! Coup de poing ! Coup de poing !\n"
+	.string "Encore ! Encore ! Encore !\p"
+	.string "Je suis encore frustré par ma\n"
+	.string "défaite à l’ARÈNE !\p"
+	.string "Tu veux que j’apprenne encore une\n"
+	.string "fois DYNAMOPOING à ton POKéMON ?\p"
+	.string "Je le fais pour ¥5000 !\n"
+	.string "Faut que j’achète des RAPPELS !$"
 
 Text_DynamicPunchReteach2::
-    .string "Do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+    .string "Tu veux que j’apprenne\n"
+	.string "DYNAMOPOING à ton POKéMON ?$"
 
 Text_DynamicPunchNotEnoughMoney::
-	.string "Are you mocking me for needing\n"
-	.string "money for POKéMON medicine?\p"
-	.string "Using items in battle is the only\n"
-	.string "possible way I can win here!\p"
-	.string "Let me know when you have ¥5000.\n"
-	.string "Until then…\p"
-	.string "Argh! Punch! Punch! Punch!\n"
-	.string "Punch! Punch! Punch!$"
+	.string "Tu te moques de moi parce que\n"
+	.string "j’ai besoin d’argent pour soigner ?\p"
+	.string "Utiliser des objets en combat,\n"
+	.string "c’est ma seule chance ici !\p"
+	.string "Préviens-moi quand t’auras ¥5000.\n"
+	.string "D’ici là…\p"
+	.string "Argh ! Coup de poing ! Coup de poing !\n"
+	.string "Encore ! Encore ! Encore !$"
 
 SilphCo_9F_EventScript_SleepTalkTutor::
 	lock
@@ -1430,58 +1430,58 @@ EventScript_SleepTalkDeclined2::
 
 MoveTutor_Text_SleepTalkTeach:
 	.string "…ZZZ…\n"
-	.string "…Zzz…zzz…\p"
+	.string "…Zzz… zzz…\p"
 	.string "Mrr… mhm…\n"
-	.string "use… mmm…\p"
-	.string "Oh!\n"
-	.string "Was I talking in my sleep?\p"
-	.string "I was dreaming that I wanted\n"
-	.string "my POKéMON to use a move,\l"
-	.string "but it was asleep!\p"
-	.string "I can teach your POKéMON how\n"
-	.string "to SLEEP TALK so they can attack\l"
-	.string "while sleeping if you want.\p"
-	.string "Are you interested in teaching\n"
-	.string "your POKéMON SLEEP TALK?$"
+	.string "utiliser… mmm…\p"
+	.string "Oh !\n"
+	.string "Je parlais dans mon sommeil ?\p"
+	.string "Je rêvais que je voulais que\n"
+	.string "mon POKéMON attaque, mais il\l"
+	.string "dormait !\p"
+	.string "Je peux apprendre à ton POKéMON\n"
+	.string "BLABLA DODO pour qu’il attaque\l"
+	.string "en dormant, si tu veux.\p"
+	.string "Tu veux apprendre BLABLA DODO\n"
+	.string "à ton POKéMON ?$"
 
 MoveTutor_Text_SleepTalkDeclined:
-	.string "Oh, fine, fine.\p"
-	.string "Then back to my nap, I still have\n"
-	.string "some time left on my break!$"
+	.string "Bon, bon, comme tu veux.\p"
+	.string "Je retourne faire la sieste,\n"
+	.string "ma pause n’est pas finie !$"
 
 MoveTutor_Text_SleepTalkWhichMon:
-	.string "Okay!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "D’accord !\n"
+	.string "Quel POKéMON je dois entraîner ?$"
 
 MoveTutor_Text_SleepTalkTaught:
-	.string "Now that POKéMON can attack\n"
-	.string "while sleeping with SLEEP TALK!\p"
-	.string "I wonder if humans can SLEEP TALK\n"
-	.string "to nap while working?\p"
-	.string "Yawn…\n"
-	.string "…Zzz…zzz…$"
+	.string "Maintenant ce POKéMON peut attaquer\n"
+	.string "en dormant grâce à BLABLA DODO !\p"
+	.string "Tu crois que les humains peuvent\n"
+	.string "BLABLA DODO pour bosser en dormant ?\p"
+	.string "Bâââille…\n"
+	.string "…Zzz… zzz…$"
 
 Text_SleepTalkReteach::
 	.string "…ZZZ…\n"
-	.string "…Huh?\l"
-	.string "…Oh, you're back.\p"
-	.string "Yawn… Do you want me to teach\n"
-	.string "your POKéMON SLEEP TALK again?\p"
-	.string "I lost my bonus by always\n"
-	.string "oversleeping on my breaks…\p"
-	.string "I'll do it for some extra money.\n"
-	.string "How does ¥5000 sound?$"
+	.string "…Hein ?\l"
+	.string "…Oh, te revoilà.\p"
+	.string "Bâââille… Tu veux que je réapprenne\n"
+	.string "BLABLA DODO à ton POKéMON ?\p"
+	.string "J’ai perdu ma prime à force de\n"
+	.string "trop dormir pendant mes pauses…\p"
+	.string "Je peux le faire pour un bonus.\n"
+	.string "¥5000, ça te va ?$"
 
 Text_SleepTalkReteach2::
-    .string "Are you interested in teaching\n"
-	.string "your POKéMON SLEEP TALK?$"
+    .string "Tu veux apprendre BLABLA DODO\n"
+	.string "à ton POKéMON ?$"
 
 Text_SleepTalkNotEnoughMoney::
-	.string "Oh, you don't have enough money.\n"
-	.string "Why don't you think up some way\l"
-	.string "to make some and come back later?\p"
-	.string "Now, if you'll excuse me…\n"
-	.string "…Zzz…zzz…$"
+	.string "Oh, t’as pas assez d’argent.\n"
+	.string "Trouve un moyen d’en gagner\l"
+	.string "et reviens plus tard, d’accord ?\p"
+	.string "Bon, si tu permets…\n"
+	.string "…Zzz… zzz…$"
 
 SilphCo_9F_EventScript_NightmareTutor::
 	lock
@@ -1549,53 +1549,52 @@ EventScript_NightmareDeclined2::
 	end
 
 MoveTutor_Text_NightmareTeach:
-	.string "Waaah!\n"
-	.string "Oh no, not another one…\p"
-	.string "I keep having nightmares that\n"
-	.string "TEAM ROCKET comes back and locks\l"
-	.string "me up again.\p"
-	.string "I haven't had a good night's sleep\n"
-	.string "since they took over.\p"
-	.string "I can teach your POKéMON to give\n"
-	.string "nightmares just like TEAM ROCKET.$"
-	.string "Do you want your POKéMON\n"
-	.string "to learn NIGHTMARE?$"
+	.string "Waaah !\n"
+	.string "Oh non, encore un cauchemar…\p"
+	.string "Je rêve sans arrêt que la TEAM\n"
+	.string "ROCKET revient et m’enferme !\p"
+	.string "Je n’ai pas bien dormi une seule\n"
+	.string "nuit depuis leur invasion.\p"
+	.string "Je peux apprendre à ton POKéMON\n"
+	.string "à donner des cauchemars, comme eux.\p"
+	.string "Tu veux que ton POKéMON\n"
+	.string "apprenne CAUCHEMAR ?$"
 
 MoveTutor_Text_NightmareDeclined:
-	.string "You don't want to risk it\n"
-	.string "giving you nightmares too?$"
+	.string "Tu veux pas risquer de faire\n"
+	.string "des cauchemars toi aussi ?$"
 
 MoveTutor_Text_NightmareWhichMon:
-	.string "Alright.\n"
-	.string "Which POKéMON should learn it?$"
+	.string "Très bien.\n"
+	.string "Quel POKéMON doit l’apprendre ?$"
 
 MoveTutor_Text_NightmareTaught:
-	.string "Now that POKéMON can inflict\n"
-	.string "nightmares on sleeping foes.\p"
-	.string "Now if only I could find some\n"
-	.string "way of getting rid of my nightmares…$"
+	.string "Ce POKéMON peut infliger des\n"
+	.string "cauchemars aux ennemis endormis.\p"
+	.string "Si seulement je pouvais trouver\n"
+	.string "un moyen de me débarrasser des miens…$"
 
 Text_NightmareReteach::
-	.string "Ahh!\n"
-	.string "Ugh, again?\p"
-	.string "I thought that napping at work\n"
-	.string "where it all happened might cure\l"
-	.string "my nightmares, but…\p"
-	.string "Are you back to teach your\n"
-	.string "POKéMON NIGHTMARE again?\p"
-	.string "If you have ¥5000, I'll show\n"
-	.string "one of them how to use it.$"
+	.string "Aaah !\n"
+	.string "Ugh, encore ?\p"
+	.string "Je pensais que faire la sieste\n"
+	.string "au boulot, là où tout a eu lieu,\l"
+	.string "guérirait mes cauchemars, mais…\p"
+	.string "Tu veux réapprendre CAUCHEMAR\n"
+	.string "à ton POKéMON ?\p"
+	.string "Si t’as ¥5000, je peux lui montrer\n"
+	.string "comment s’en servir.$"
 
 Text_NightmareReteach2::
-    .string "Do you want your POKéMON\n"
-	.string "to learn NIGHTMARE?$"
+    .string "Tu veux que ton POKéMON\n"
+	.string "apprenne CAUCHEMAR ?$"
 
 Text_NightmareNotEnoughMoney::
-	.string "You don't have ¥5000?\p"
-	.string "I don't want to keep reliving\n"
-	.string "these nightmares for nothing.\p"
-	.string "Come back when you can pay me\n"
-	.string "the full amount, okay?$"
+	.string "T’as pas ¥5000 ?\p"
+	.string "Je veux pas revivre ces cauchemars\n"
+	.string "pour rien, tu sais…\p"
+	.string "Reviens quand tu pourras me payer\n"
+	.string "la somme complète, d’accord ?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_EventScript_SelfdestructTutor::
 	lock
@@ -1663,60 +1662,60 @@ EventScript_SelfdestructDeclined2::
 	end
 
 MoveTutor_Text_SelfdestructTeach:
-	.string "There's no doubt about it.\n"
-	.string "I've run the tests a hundred times.\p"
-	.string "The volcano that sleeps beneath us\n"
-	.string "isn't asleep at all!\p"
-	.string "It'll erupt and destroy this entire\n"
-	.string "town within three years for sure!\p"
-	.string "It'll be like the whole island\n"
-	.string "self-destructed in a fiery inferno!\p"
-	.string "POKéMON can use a similar move to\n"
-	.string "explode and deal damage, actually.\p"
-	.string "Do you want me to teach your\n"
-	.string "POKéMON how to use SELFDESTRUCT?$"
+	.string "Aucun doute possible.\n"
+	.string "J’ai refait les tests cent fois.\p"
+	.string "Le volcan sous nos pieds n’est\n"
+	.string "pas du tout endormi !\p"
+	.string "Il va entrer en éruption et détruire\n"
+	.string "la ville dans trois ans, c’est sûr !\p"
+	.string "Ce sera comme si toute l’île\n"
+	.string "s’était autodétruite !\p"
+	.string "Les POKéMON peuvent faire pareil\n"
+	.string "avec l’attaque DESTRUCTION.\p"
+	.string "Tu veux que j’apprenne\n"
+	.string "DESTRUCTION à ton POKéMON ?$"
 
 MoveTutor_Text_SelfdestructDeclined:
-	.string "Is SELFDESTRUCT too risky for\n"
-	.string "you to use in battle?$"
+	.string "Tu trouves que DESTRUCTION est\n"
+	.string "trop risquée en combat ?$"
 
 MoveTutor_Text_SelfdestructWhichMon:
-	.string "So which POKéMON should learn\n"
-	.string "this high-risk move?$"
+	.string "Alors, quel POKéMON doit apprendre\n"
+	.string "cette attaque risquée ?$"
 
 MoveTutor_Text_SelfdestructTaught:
-	.string "Now the terrifying power of\n"
-	.string "SELFDESTRUCT is yours to command!\p"
-	.string "We won't be able to control the\n"
-	.string "volcano in the same way, though…\p"
-	.string "The only thing to do now is start\n"
-	.string "making evacuation plans.\p"
-	.string "Let's hope you're standing on some\n"
-	.string "other rock in three years' time!$"
+	.string "Tu contrôles maintenant la terrible\n"
+	.string "puissance de DESTRUCTION !\p"
+	.string "Mais on ne pourra pas arrêter\n"
+	.string "le volcan comme ça, hélas…\p"
+	.string "Il ne reste plus qu’à préparer un\n"
+	.string "plan d’évacuation.\p"
+	.string "Espérons que dans trois ans, tu\n"
+	.string "seras loin de cette île !$"
 
 Text_SelfdestructReteach::
-	.string "When the volcano goes, we'll\n"
-	.string "have to save our equipment…\l"
-	.string "Oh, hello again!\p"
-	.string "I'm just planning for the imminent\n"
-	.string "destruction of everything here.\p"
-	.string "Do you want to learn SELFDESTRUCT\n"
-	.string "again before the inevitable occurs?\p"
-	.string "I'm taking donations for the\n"
-	.string "evacuation plans.\p"
-	.string "Donate ¥5000 and I'll teach one of\n"
-	.string "your POKéMON SELFDESTRUCT.$"
+	.string "Quand le volcan explosera, il faudra\n"
+	.string "sauver notre matériel…\l"
+	.string "Oh, te revoilà !\p"
+	.string "Je prépare juste l’imminente\n"
+	.string "destruction de tout ici.\p"
+	.string "Tu veux réapprendre DESTRUCTION\n"
+	.string "avant que ça n’arrive ?\p"
+	.string "J’accepte les dons pour financer\n"
+	.string "l’évacuation.\p"
+	.string "Donne ¥5000 et j’apprendrai\n"
+	.string "DESTRUCTION à un POKéMON.$"
 
 Text_SelfdestructReteach2::
-    .string "Do you want me to teach your\n"
-	.string "POKéMON how to use SELFDESTRUCT?$"
+    .string "Tu veux que j’apprenne à ton\n"
+	.string "POKéMON à utiliser DESTRUCTION ?$"
 
 Text_SelfdestructNotEnoughMoney::
-	.string "We need every bit of financial\n"
-	.string "support we can get to prepare\l"
-	.string "for the eruption.\p"
-	.string "I can't offer you my services\n"
-	.string "for less than a ¥5000 donation.$"
+	.string "On a besoin de tout le soutien\n"
+	.string "financier possible pour se\l"
+	.string "préparer à l’éruption.\p"
+	.string "Je peux pas t’aider pour moins\n"
+	.string "de ¥5000 de don.$"
 
 MtEmber_Exterior_EventScript_SkyAttackTutor::
 	lock
@@ -1784,49 +1783,50 @@ EventScript_SkyAttackDeclined2::
 	end
 
 MoveTutor_Text_SkyAttackTeach:
-	.string "We're so high up, it's like we can\n"
-	.string "touch the sky.\p"
-	.string "Bird POKéMON must feel like\n"
-	.string "this all the time…\p"
-	.string "How, you ask?\n"
-	.string "Do you not know?\p"
-	.string "They can learn a move that brings\n"
-	.string "the sky crashing down on others!\p"
-	.string "Would you like me to teach your\n"
-	.string "POKéMON SKY ATTACK?$"
+	.string "On est si haut qu’on dirait qu’on\n"
+	.string "peut toucher le ciel.\p"
+	.string "Les POKéMON OISEAUX doivent se\n"
+	.string "sentir comme ça tout le temps…\p"
+	.string "Comment ça ? Tu ne sais pas ?\n"
+	.string "Tu ignores ce qu’ils peuvent faire ?\p"
+	.string "Ils peuvent apprendre une attaque\n"
+	.string "qui fait tomber le ciel sur l’ennemi !\p"
+	.string "Tu veux que j’apprenne\n"
+	.string "PIQUE à ton POKéMON ?$"
 
 MoveTutor_Text_SkyAttackDeclined:
-	.string "I suppose not everyone wants\n"
-	.string "to touch the sky.$"
+	.string "Je suppose que tout le monde\n"
+	.string "ne rêve pas de toucher le ciel.$"
 
 MoveTutor_Text_SkyAttackWhichMon:
-	.string "Who should learn SKY ATTACK?$"
+	.string "Quel POKéMON doit apprendre\n"
+	.string "PIQUE ?$"
 
 MoveTutor_Text_SkyAttackTaught:
-	.string "SKY ATTACK is the ultimate\n"
-	.string "FLYING-type move.\p"
-	.string "Your POKéMON will make good\n"
-	.string "use of its power, I'm sure.$"
+	.string "PIQUE est l’attaque ultime\n"
+	.string "de type VOL.\p"
+	.string "Ton POKéMON saura sûrement\n"
+	.string "bien utiliser sa puissance.$"
 
 Text_SkyAttackReteach::
-	.string "Did you climb all the way back up\n"
-	.string "here again for the thrill?\p"
-	.string "Being this close to the sky\n"
-	.string "feels amazing, right?\p"
-	.string "If you're interested, I can\n"
-	.string "teach your POKéMON SKY ATTACK.\p"
-	.string "This time, though, I'll need ¥5000\n"
-	.string "to do it!$"
+	.string "T’es remonté tout là-haut encore\n"
+	.string "une fois pour le frisson ?\p"
+	.string "C’est grisant d’être aussi près\n"
+	.string "du ciel, pas vrai ?\p"
+	.string "Si ça t’intéresse, je peux\n"
+	.string "apprendre PIQUE à ton POKéMON.\p"
+	.string "Mais cette fois, il me faudra\n"
+	.string "¥5000 pour le faire !$"
 
 Text_SkyAttackReteach2::
-	.string "Would you like me to teach your\n"
-	.string "POKéMON SKY ATTACK?$"
+	.string "Tu veux que j’apprenne PIQUE\n"
+	.string "à ton POKéMON ?$"
 
 Text_SkyAttackNotEnoughMoney::
-	.string "You don't have enough money,\n"
-	.string "what a shame.\p"
-	.string "You'll have to climb back up here\n"
-	.string "again once you have ¥5000!$"
+	.string "Tu n’as pas assez d’argent,\n"
+	.string "quel dommage.\p"
+	.string "Il faudra remonter ici encore\n"
+	.string "une fois quand tu auras ¥5000 !$"
 
 Route10_EventScript_SwaggerTutor::
 	lock
@@ -1894,42 +1894,41 @@ EventScript_SwaggerDeclined2::
 	end
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Heh! My POKéMON totally rules!\n"
-	.string "It's cooler than any POKéMON!\p"
-	.string "I was lipping off with a swagger in\n"
-	.string "my step like that when some guy\l"
-	.string "named {RIVAL} challenged me.\p"
-	.string "He beat us without any effort and\n"
-	.string "took the swagger out of my step.\p"
-	.string "If you'd like, I'll teach the move\n"
-	.string "SWAGGER to a POKéMON of yours.$"
+	.string "Heh ! Mon POKéMON est trop stylé !\n"
+	.string "Aucun autre ne lui arrive à la cheville !\p"
+	.string "Je frimais avec assurance quand un\n"
+	.string "type nommé {RIVAL} m’a défié.\p"
+	.string "Il nous a battus sans effort et a\n"
+	.string "détruit toute ma confiance…\p"
+	.string "Si tu veux, je peux apprendre la\n"
+	.string "capacité VANTARDISE à ton POKéMON.$"
 
 MoveTutor_Text_SwaggerDeclined:
-	.string "What, no? Can't you get into\n"
-	.string "the spirit of things?$"
+	.string "Quoi, non ? Tu pourrais pas te\n"
+	.string "mettre un peu dans l’ambiance ?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "All right, which POKéMON wants to\n"
-	.string "learn how to SWAGGER?$"
+	.string "Très bien, quel POKéMON veut\n"
+	.string "apprendre VANTARDISE ?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "I'll just praise my POKéMON from\n"
-	.string "now on without the swagger.$"
+	.string "Désormais je vais juste louer mon\n"
+	.string "POKéMON sans trop frimer.$"
 
 Text_SwaggerReteach::
-	.string "I've been humbled by losing\n"
-	.string "so badly to that {RIVAL} guy.\p"
-	.string "But I still know how to walk\n"
-	.string "with a swagger in my step!\p"
-	.string "I can teach your POKéMON how\n"
-	.string "to use SWAGGER again.\p"
-	.string "However, the price of learning how\n"
-	.string "to swagger like me is a cool ¥5000.$"
+	.string "Me faire battre par ce type, {RIVAL},\n"
+	.string "ça m’a remis à ma place.\p"
+	.string "Mais je sais encore marcher avec\n"
+	.string "de l’assurance, tu sais !\p"
+	.string "Je peux réapprendre VANTARDISE\n"
+	.string "à ton POKéMON.\p"
+	.string "Mais apprendre à frimer comme moi,\n"
+	.string "ça coûte un joli ¥5000 !$"
 
 Text_SwaggerReteach2::
-	.string "Do you want me to teach the move\n"
-	.string "SWAGGER to a POKéMON of yours?$"
+	.string "Tu veux que j’apprenne la capacité\n"
+	.string "VANTARDISE à ton POKéMON ?$"
 
 Text_SwaggerNotEnoughMoney::
-	.string "No money, no SWAGGER!\n"
-	.string "Come back with ¥5000 next time!$"
+	.string "Pas d’argent, pas de VANTARDISE !\n"
+	.string "Reviens avec ¥5000 la prochaine fois !$"

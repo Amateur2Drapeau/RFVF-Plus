@@ -1,5 +1,5 @@
 Text_ObtainedTheX::
-	.string "{STR_VAR_2} obtenu !$"
+	.string "{STR_VAR_2} obtenu!$"
 
 Text_BagIsFull::
 	.string "Le SAC est plein…$"
@@ -36,7 +36,7 @@ Text_FoundXItems::
 	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
 
 Text_ObtainedTheDecor::
-	.string "{STR_VAR_2} obtenu !$"
+	.string "{STR_VAR_2} obtenu!$"
 
 Text_NoRoomForAnotherDecor::
 	.string "Dommage! Il n'y a pas assez de\n"

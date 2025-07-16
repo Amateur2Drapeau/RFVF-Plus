@@ -25,12 +25,12 @@ EventScript_UsedRepel:
 	end
 
 Text_RepelWoreOff::
-	.string "REPEL's effect wore off…$"
+	.string "L'effet de REPOUSSE se dissipe…$"
 
 Text_UseAnother::
-	.string "REPEL's effect wore off!\n"
-	.string "Use another?$"
+	.string "L'effet de REPOUSSE se dissipe!\n"
+	.string "En utiliser un autre?$"
 
 Text_UsedNewRepel::
-	.string "{PLAYER} used the\n"
+	.string "{PLAYER} utilise le\n"
 	.string "{STR_VAR_1}.$"

@@ -39,7 +39,7 @@ Route14_Text_BeckPostBattle::
     .string "puissance de l'attaque.$"
 
 Route14_Text_MarlonIntro::
-    .string " As-tu appris VOL à tes POKéMON\n"
+    .string "As-tu appris VOL à tes POKéMON\n"
     .string "oiseau?\p"
     .string "Grâce à ça, tu pourras voyager\n"
     .string "dans le ciel sur leur dos.$"
