@@ -1709,8 +1709,13 @@ static void DrawMonTextEntryBox(void)
 {
     u8 buffer[32];
 
-    StringCopy(buffer, gSpeciesNames[sNamingScreen->monSpecies]);
-    StringAppendN(buffer, sNamingScreen->template->title, 15);
+    // Préparer STR_VAR_1 avec le nom du Pokémon
+    StringCopy(gStringVar1, gSpeciesNames[sNamingScreen->monSpecies]);
+
+    // Construire la chaîne finale dans `buffer` : "Surnom de {STR_VAR_1} ?"
+    StringExpandPlaceholders(buffer, gText_PkmnsNickname);
+
+    // Affichage
     FillWindowPixelBuffer(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], PIXEL_FILL(1));
     AddTextPrinterParameterized(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], FONT_NORMAL_COPY_1, buffer, 1, 1, 0, NULL);
     PutWindowTilemap(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX]);
@@ -2101,7 +2106,7 @@ static const struct NamingScreenTemplate sMonNamingScreenTemplate = {
     .iconFunction = 3,
     .addGenderIcon = 1,
     .initialPage = KBPAGE_LETTERS_UPPER,
-    .title = gText_PkmnsNickname,
+    .title = NULL, // défini dynamiquement dans NamingScreen_Init
 };
 
 static const struct NamingScreenTemplate sRivalNamingScreenTemplate = {
