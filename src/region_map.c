@@ -703,7 +703,6 @@ static const char sMapsecName_TANOBYCHAMBERS[] = "CHAMBRES TANOBY";
 static const char sMapsecName_ALTERINGCAVE[] = "GROTTE METAMO";
 static const char sMapsecName_PATTERNBUSH[] = "FORBUISSONS";
 static const char sMapsecName_DOTTEDHOLE[] = "TROU PERCE";
-static const char sMapsecName_CELADONDEPT[] = "CENTRE COMMERCIAL";
 
 static const struct DungeonMapInfo sDungeonInfo[] = {
     {
@@ -3909,7 +3908,7 @@ u8 *GetMapName(u8 *dst0, u16 mapsec, u16 fill)
     if ((idx = mapsec) < MAPSEC_NONE )
     {
         if (IsCeladonDeptStoreMapsec(mapsec) == TRUE)
-            dst = StringCopy(dst0, sMapsecName_CELADONDEPT);
+            dst = StringCopy(dst0, sMapsecName_CENTCOMMERCIAL);
         else
             dst = StringCopy(dst0, sMapNames[idx]);
     }

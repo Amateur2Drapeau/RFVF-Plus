@@ -251,17 +251,36 @@ static u8 *MapNamePopupAppendFloorNum(u8 *dest, s8 floorNum)
 {
     if (floorNum == 0)
         return dest;
+
     *dest++ = CHAR_SPACE;
+
     if (floorNum == FLOOR_ROOFTOP)
         return StringCopy(dest, gText_Rooftop2);
+
+    // RC
+    if (floorNum == 1)
+        return StringCopy(dest, gText_RC);
+
+    // 1er étage
+    if (floorNum == 2)
+        return StringCopy(dest, gText_FirstFloor);
+
     if (floorNum < 0)
     {
-        *dest++ = CHAR_B;
         floorNum *= -1;
-    }
-    dest = ConvertIntToDecimalStringN(dest, floorNum, STR_CONV_MODE_LEFT_ALIGN, 2);
-    *dest++ = CHAR_F;
-    *dest = EOS;
+        dest = ConvertIntToDecimalStringN(dest, floorNum, STR_CONV_MODE_LEFT_ALIGN, 2);
+        dest = StringCopy(dest, gText_Basement);
+        *dest = EOS;
+        return dest;
+    } 
+    else 
+    {
+        // 2e, 3e, 4e, etc.
+        dest = ConvertIntToDecimalStringN(dest, floorNum - 1, STR_CONV_MODE_LEFT_ALIGN, 2);
+        *dest++ = CHAR_e;
+        *dest = EOS;
+    }  
+    
     return dest;
 }
 

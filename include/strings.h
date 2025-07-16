@@ -921,6 +921,10 @@ extern const u8 gText_DecimalPoint[];
 
 // map_name_popup
 extern const u8 gText_Rooftop2[];
+extern const u8 gText_RC[];
+extern const u8 gText_FirstFloor[];
+extern const u8 gText_OtherFloorNumbers[];
+extern const u8 gText_Basement[];
 
 // option menu
 extern const u8 gText_TextSpeed[];
