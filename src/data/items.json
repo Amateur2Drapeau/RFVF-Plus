@@ -1798,7 +1798,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Un bracelet montrant votre lien\\navec {RIVAL}. Il permet à\\ncertains POKéMON d'évoluer.",
+      "description_english": "Un bracelet montrant votre lien\\navec votre rival. Il permet à\\ncertains POKéMON d'évoluer.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",

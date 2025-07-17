@@ -49,13 +49,13 @@ SilphCo_8F_EventScript_ScientistBro::
 	end
 
 SilphCo_8F_Text_ScientistBro:
-	.string "Je suis l'un des 4 FRERES de la\n"
-    .string "SYLPHE!\p"
+	.string "Je suis l’un des 4 FRÈRES de la\n"
+	.string "SYLPHE!\p"
 	.string "Je ne sais pas trop ce que\n"
-	.string "j'apporte à l'entreprise…\p"
-	.string "Personne n'est venu me donner\n"
+	.string "j’apporte à l’entreprise…\p"
+	.string "Personne n’est venu me donner\n"
 	.string "du travail depuis longtemps…\p"
-	.string "Est-ce qu'ils m'ont oubliés?\n"
+	.string "Est-ce qu’ils m’ont oublié?\n"
 	.string "Est-ce que je viens pour rien faire?\p"
 	.string "Au moins je suis toujours payé.$"
 
@@ -64,7 +64,7 @@ SilphCo_8F_EventScript_WorkerF::
 	end
 
 SilphCo_8F_Text_WorkerF:
-	.string "J'ai pas le temps de parler.\n"
+	.string "J’ai pas le temps de parler.\n"
 	.string "Ma pause déjeuner est bientôt finie.\p"
-	.string "Dépêche toi GRODOUDOU!\n"
+	.string "Dépêche-toi, GRODOUDOU!\n"
 	.string "Ne me retarde pas une nouvelle fois!$"

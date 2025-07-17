@@ -76,7 +76,7 @@ SilphCo_5F_EventScript_WorkerF::
 	end
 
 SilphCo_5F_Text_WorkerF:
-	.string "C'est moi où ce gars utilise\n"
+	.string "C’est moi ou ce gars utilise\n"
 	.string "des mots au hasard?$"
 
 SilphCo_5F_EventScript_Scientist2::
@@ -84,5 +84,5 @@ SilphCo_5F_EventScript_Scientist2::
 	end
 
 SilphCo_5F_Text_Scientist2:
-	.string "C'est…C'est un visionaire!\n"
+	.string "C’est… C’est un visionnaire!\n"
 	.string "Je dois prendre des notes!$"

@@ -40,9 +40,10 @@ SilphCo_3F_EventScript_WorkerMWalking::
 
 SilphCo_3F_Text_WorkerMWalking:
 	.string "Des fois, quand je bloque sur un\n"
-	.string "problème, je me promène dans le bureau.\p"
+	.string "problème, je me promène dans\l"
+	.string "le bureau.\p"
 	.string "Si tu prends un air sérieux et que tu\n"
-	.string "marches vite, les gens pensent que\l"
+	.string "marches vite, les gens pensent que\p"
 	.string "tu fais quelque chose d'important!$"
 
 SilphCo_3F_EventScript_WorkerF::
@@ -50,7 +51,7 @@ SilphCo_3F_EventScript_WorkerF::
 	end
 
 SilphCo_3F_Text_WorkerF:
-	.string "Des fois la TEAM ROCKET me\n"
+	.string "Des fois, la TEAM ROCKET me\n"
 	.string "manque.\p"
 	.string "Au moins j'avais une bonne\n"
 	.string "excuse pour ne pas travailler.$"
@@ -64,13 +65,13 @@ SilphCo_3F_EventScript_Scientist::
 	end
 
 SilphCo_3F_Text_Scientist:
-	.string "Oh Oh…\n"
-	.string "Non, biensur que non!\l"
+	.string "Oh oh…\n"
+	.string "Non, bien sûr que non !\l"
 	.string "Cela ne peut pas marcher…\p"
-	.string "…A moins que…\p"
+	.string "…À moins que…\p"
 	.string "Je dois poser la question à l'équipe.\n"
 	.string "Je te rappelle plus tard.$"
 
 SilphCo_3F_Text_Scientist2::
-	.string "Pardon, je dois passer un nouveau\n"
-	.string "coup de téléphone.$"
+	.string "Pardon, je dois passer un\n"
+	.string "nouveau coup de téléphone.$"

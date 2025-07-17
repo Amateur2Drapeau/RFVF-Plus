@@ -67,15 +67,15 @@ Route14_Text_DonaldPostBattle::
     .string "ELECTHOR et SULFURA.$"
 
 Route14_Text_BennyIntro::
-    .string "I'm not into it, but okay.\n"
-    .string "Let's go!$"
+    .string "Je suis pas trop motivé, mais bon.\n"
+    .string "Allons-y!$"
 
 Route14_Text_BennyDefeat::
-    .string "I knew it!$"
+    .string "Je le savais!$"
 
 Route14_Text_BennyPostBattle::
-    .string "Winning, losing… It's insignificant\n"
-    .string "under this huge sky.$"
+    .string "Gagner, perdre… C’est dérisoire\n"
+    .string "sous ce ciel immense.$"
 
 Route14_Text_LukasIntro::
     .string "Allez, viens! Tu vas voir la tête\n"

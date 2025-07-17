@@ -41,29 +41,30 @@ SilphCo_2F_EventScript_Scientist::
 
 SilphCo_2F_Text_Scientist:
 	.string "Vu que nous ne travaillons plus\n"
-	.string "sur le projet MASTER BALL, nous\l"
-	.string "commençons de nouveaux projets.$"
+	.string "sur le projet MASTER BALL,\p"
+	.string "nous commençons de nouveaux\n"
+	.string "projets.$"
 
 SilphCo_2F_EventScript_WorkerF1::
 	msgbox SilphCo_2F_Text_WorkerF1, MSGBOX_NPC
 	end
 
 SilphCo_2F_Text_WorkerF1:
-	.string "Peut-être que notre prochaine invention\n"
-	.string "sera un système de sécurité pour se\l"
-	.string "protéger des gens comme la TEAM ROCKET!$"
+	.string "Peut-être que notre prochaine\n"
+	.string "invention sera un système de\p"
+	.string "sécurité pour se protéger des\n"
+	.string "gens comme la TEAM ROCKET!$"
 
 SilphCo_2F_EventScript_WorkerF2::
 	msgbox SilphCo_2F_Text_WorkerF2, MSGBOX_NPC
 	end
 
 SilphCo_2F_Text_WorkerF2:
-	.string "Le dev c'est vraiment complexe!\p"
+	.string "Le dev, c’est vraiment complexe!\p"
 	.string "Imagine la difficulté de coder\n"
-	.string "un PORYGON?\p"
-	.string "Pour créer un POKéMON à partir\n"
-	.string "d'un code…\l"
-	.string "C'est inconcevable!$"
+	.string "un PORYGON!\p"
+	.string "Créer un POKéMON à partir d’un\n"
+	.string "code… C’est inconcevable!$"
 
 SilphCo_2F_EventScript_Woman::
 	msgbox SilphCo_2F_Text_Woman, MSGBOX_NPC

@@ -38,8 +38,8 @@ SilphCo_10F_EventScript_WorkerBro::
 	end
 
 SilphCo_10F_Text_WorkerBro:
-	.string "Je suis l'un des 4 FRERES de la\n"
-    .string "SYLPHE!\p"
+	.string "Je suis l’un des 4 FRÈRES de la\n"
+	.string "SYLPHE!\p"
 	.string "Je suis concierge!\n"
 	.string "Je garde cet endroit propre!$"
 
@@ -49,19 +49,19 @@ SilphCo_10F_EventScript_WorkerM::
 
 SilphCo_10F_Text_WorkerM:
 	.string "Ahh!\n"
-	.string "Tu m'as fais peur!\p"
+	.string "Tu m’as fait peur!\p"
 	.string "…\n"
-	.string "Qu'et-ce que je fais?\l"
-	.string "…Ok, tu m'as eu.\p"
-	.string "Je n'ai jamais voulu être un employé\n"
-	.string "de bureau, je voulais être un artiste!\p"
+	.string "Qu’est-ce que je fais?\l"
+	.string "…Ok, tu m’as eu.\p"
+	.string "Je n’ai jamais voulu être un employé\n"
+	.string "de bureau, je voulais être un artiste !\p"
 	.string "Je remplace certaines peintures ici\n"
 	.string "par les miennes pour voir si\l"
 	.string "les gens les aiment.\p"
-	.string "Ne t'inquiète pas, j'ai déposé\n"
+	.string "Ne t’inquiète pas, j’ai déposé\n"
 	.string "les anciennes dans le stockage.\p"
 	.string "Je ne ramènerais jamais chez moi\n"
-	.string "des oeuvres aussi insipides.$"
+	.string "des œuvres aussi insipides.$"
 
 SilphCo_10F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_10F_EventScript_NewPainting
@@ -73,5 +73,5 @@ SilphCo_10F_EventScript_NewPainting::
 	end
 
 SilphCo_10F_Text_NewPainting:
-	.string "C'est une magnifique peinture d'une\n"
-	.string "plaine avec un coucher de soleil.$"
+	.string "C’est une magnifique peinture\n"
+	.string "d’une plaine avec un coucher de soleil.$"

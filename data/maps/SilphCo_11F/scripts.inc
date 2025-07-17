@@ -159,7 +159,7 @@ SilphCo_11F_EventScript_WorkerM::
 SilphCo_11F_Text_WorkerM:
 	.string "Excusez-moi!\p"
 	.string "Vous avez un rendez-vous avec\n"
-	.string "le PRESIDENT?\p"
+	.string "le PRÉSIDENT?\p"
 	.string "Oh, {PLAYER}!\n"
 	.string "Désolé, tu peux passer.$"
 
@@ -226,47 +226,46 @@ SilphCo_11F_EventScript_DevonSpyFirstTimeNo::
 	goto SilphCo_11F_EventScript_DevonSpyFirstTimeYes
 
 SilphCo_11F_Text_DevonSpy:
-	.string "POKé… TEAR?\n"
+	.string "POKÉ… TEAR?\n"
 	.string "Les DRESSEURS peuvent fabriquer des\l"
-	.string "poupée n'importe ou…?$"
+	.string "poupées n’importe où…?$"
 
 SilphCo_11F_Text_DevonSpyYoureBack:
 	.string "Ah!\p"
-	.string "J-Je vérifie juste si le murs sont\n"
+	.string "J-Je vérifie juste si les murs sont\n"
 	.string "robustes!\p"
-	.string "Oh, c'est encore toi.\p"
-	.string "J'ai les POKéBALL importées.\n"
-	.string "Si jamais tu as de l'argent.$"
+	.string "Oh, c’est encore toi.\p"
+	.string "J’ai les POKÉBALL importées.\n"
+	.string "Si jamais tu as de l’argent.$"
 
 SilphCo_11F_Text_DevonSpyFirstTime:
 	.string "Réussir à développer le projet\n"
 	.string "MASTER BALL était un grand succès…\p"
-	.string "Le nouveau projet sera pour sûr\n"
+	.string "Le nouveau projet sera, pour sûr,\n"
 	.string "très rémunérateur!$"
 
 SilphCo_11F_Text_Explain:
 	.string "Ah!\p"
-	.string "T'es arrivé d'où?\p"
-	.string "Attend! Ce n'est pas ce que tu crois!\n"
+	.string "T’es arrivé d’où?\p"
+	.string "Attends! Ce n’est pas ce que tu crois!\n"
 	.string "Je ne suis pas avec la TEAM ROCKET!\p"
-	.string "Je travaille pour la SYLPHE, mais\n"
-	.string "pour une autre entreprise loin\l"
-	.string "d'ici.\p"
-	.string "Ils me payent pour récupérer des\n"
+	.string "Je travaille pour la SYLPHE, mais aussi\n"
+	.string "pour une autre entreprise loin d’ici.\p"
+	.string "Ils me paient pour récupérer des\n"
 	.string "infos sur les produits de la SYLPHE.\p"
-	.string "Ecoute, j'ai eu pas mal de succès\n"
+	.string "Écoute, j’ai eu pas mal de succès\n"
 	.string "ici, et je vais te payer pour que\l"
 	.string "tu gardes le silence.\p"
 	.string "Ou bien, te vendre des produits\n"
-	.string "pour des prix préférentiels.\p"
-	.string "J'ai des POKé BALLS spéciale\n"
-	.string "importée de mon autre entreprise.\p"
-	.string "Je te les vendrais très peu cher si\n"
+	.string "à prix préférentiels.\p"
+	.string "J’ai des POKÉ BALLS spéciales\n"
+	.string "importées de mon autre entreprise.\p"
+	.string "Je te les vendrai très peu cher si\n"
 	.string "tu promets de garder le silence.$"
 
 SilphCo_11F_Text_DevonSpyComeOn:
-	.string "Oh s'il te plait.\n"
-	.string "Aides-moi, aides-moi.$"
+	.string "Oh, s’il te plaît.\n"
+	.string "Aide-moi, aide-moi.$"
 
 SilphCo_11F_Text_DevonSpyAccepted:
 	.string "Excellent!\n"
@@ -275,6 +274,6 @@ SilphCo_11F_Text_DevonSpyAccepted:
 	.string "d'entre elles t'intéresse?$"
 
 SilphCo_11F_Text_DevonSpyComeBackLater:
-	.string "Je continuerais de te les vendre\n"
+	.string "Je continuerai de te les vendre\n"
 	.string "aussi longtemps que tu garderas\p"
 	.string "le silence.$"

@@ -287,22 +287,22 @@ Movement_RivalToWarpTileBottom:
 	step_end
 
 SilphCo_7F_EventScript_RivalGivesLinkBracelet_Text_0:
-	.string "Oh, oui, très bien.\pTu ne comprends pas ce que je fais donc\nje ne sais pas si ça va être utile mais…\pJ'ai trouvé des bracelets qui permettent\nà certains POKéMON d'évoluer, mais\lmais ils fonctionnent uniquement si\ltu les donnes à quelqu'un d'autre.\pTiens, {PLAYER}. Je me sens mal pour toi\ndonc, tu peux les prendre.$"
+	.string "Ah oui, c’est vrai.\pT’es tellement à la traîne que ça changera sûrement rien, mais…\pJ’ai trouvé une paire de bracelets qui font évoluer certains POKéMON,\nmais ils ne marchent qu'en DUO.\pTiens, {PLAYER}.\nTu fais pitié, alors prends celui-là.$"
 
 SilphCo_7F_EventScript_RivalGivesLinkBracelet_Text_1:
 	.string "{PLAYER} obtient BRACELET LINK\nde {RIVAL}!$"
 
 SilphCo_7F_EventScript_RivalGivesLinkBracelet_Text_2:
-	.string "Bon ok, je m'en vais vraiment\ncette fois. Tchao Looser!$"
+	.string "Bon ok, j'y vais vraiment\ncette fois. Tchao Looser!$"
 
 SilphCo_7F_EventScript_WorkerBro::
 	msgbox SilphCo_7F_Text_WorkerBro, MSGBOX_NPC
 	end
 
 SilphCo_7F_Text_WorkerBro:
-	.string "Je suis l'un des 4 FRERES de la\n"
-    .string "SYLPHE!\p"
-	.string "Je m'assure que les serveurs\n"
+	.string "Je suis l’un des 4 FRÈRES de la\n"
+	.string "SYLPHE!\p"
+	.string "Je m’assure que les serveurs\n"
 	.string "fonctionnent normalement!$"
 
 SilphCo_7F_EventScript_WorkerFPhone::
@@ -315,19 +315,19 @@ SilphCo_7F_EventScript_WorkerFPhone::
 
 SilphCo_7F_Text_WorkerFPhone:
 	.string "As-tu essayé de faire ce que je\n"
-    .string "t'ai suggéré tout à l'heure?\p"
-	.string "Je t'ai dit, ça va marcher.\n"
-	.string "Ok, rappelle moi plus tard.$"
+	.string "t’ai suggéré tout à l’heure?\p"
+	.string "Je t’ai dit, ça va marcher.\n"
+	.string "Ok, rappelle-moi plus tard.$"
 
 SilphCo_7F_Text_WorkerFPhone2:
 	.string "Mes collègues en bas me\n"
-	.string "demandent toujours de l'aide.\p"
+	.string "demandent toujours de l’aide.\p"
 	.string "Je trouve toujours la solution\n"
 	.string "assez rapidement…\p"
-	.string "Mais est-ce qu'il m'écoutent\n"
+	.string "Mais est-ce qu’ils m’écoutent\n"
 	.string "parfois?\p"
 	.string "Non!\n"
-	.string "Biensur que non!$"
+	.string "Bien sûr que non!$"
 
 SilphCo_7F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_7F_EventScript_NewPainting
@@ -339,5 +339,5 @@ SilphCo_7F_EventScript_NewPainting::
 	end
 
 SilphCo_7F_Text_NewPainting:
-	.string "C'est une magnifique peinture d'un\n"
-	.string "POKéMON volant entre les arbres.$"
+	.string "C’est une magnifique peinture\n"
+	.string "d’un POKéMON volant entre les arbres.$"

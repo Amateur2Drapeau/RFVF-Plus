@@ -68,18 +68,18 @@ SilphCo_4F_EventScript_WorkerF::
 	end
 
 SilphCo_4F_Text_WorkerF:
-	.string "De toi à moi, j'essaye d'impressioner\n"
+	.string "De toi à moi, j’essaye d’impressionner\n"
 	.string "mon collègue.\p"
 	.string "Il va être promu, et je veux être\n"
-	.string "la première personne a qu'il va penser\l"
-	.string "quand il donnera un promotion!$"
+	.string "la première personne à laquelle il\l"
+	.string "pensera quand il offrira une promotion!$"
 
 SilphCo_4F_EventScript_WorkerM2::
 	msgbox SilphCo_4F_Text_WorkerM2, MSGBOX_NPC
 	end
 
 SilphCo_4F_Text_WorkerM2:
-	.string "Je suis en pause là.\n"
+	.string "Je suis en pause, là.\n"
 	.string "Je peux pas te montrer les bureaux.$"
 
 SilphCo_4F_EventScript_Scientist::
@@ -87,11 +87,11 @@ SilphCo_4F_EventScript_Scientist::
 	end
 
 SilphCo_4F_Text_Scientist:
-	.string "Quoi? Pourquoi tu me regardes\n"
+	.string "Quoi ? Pourquoi tu me regardes\n"
 	.string "comme ça?\p"
-	.string "Il y a avait un scientifique de la\n"
-	.string "TEAM ROCKET durant la prise d'otage?\p"
-	.string "Mais c'est n'est évidemment pas moi.\n"
+	.string "Il y avait un scientifique de la\n"
+	.string "TEAM ROCKET durant la prise d’otage?\p"
+	.string "Mais ce n’est évidemment pas moi.\n"
 	.string "On ne se ressemble pas du tout.$"
 
 SilphCo_4F_EventScript_Painting::
@@ -104,5 +104,5 @@ SilphCo_4F_EventScript_NewPainting::
 	end
 
 SilphCo_4F_Text_NewPainting:
-	.string "C'est une magnifique peinture d'un\n"
-	.string "POKéMON qui nage sous la mer.$"
+	.string "C’est une magnifique peinture\n"
+	.string "d’un POKéMON qui nage sous la mer.$"

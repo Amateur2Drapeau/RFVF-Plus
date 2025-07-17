@@ -33,7 +33,8 @@ SilphCo_1F_EventScript_CouchWoman::
 	end
 
 SilphCo_1F_Text_CouchWoman:
-	.string "J'ai été capturé par la TEAM ROCKET.\p"
+	.string "J'ai été capturée par la\n"
+	.string "TEAM ROCKET.\p"
 	.string "Je me demande si notre assurance\n"
 	.string "couvre ce genre de choses…?$"
 
@@ -43,7 +44,8 @@ SilphCo_1F_EventScript_CouchMan::
 
 SilphCo_1F_Text_CouchMan:
 	.string "J'ai entendu dire que celui qui a\n"
-	.string "vaincu la TEAM ROCKET est un enfant!\p"
+	.string "vaincu la TEAM ROCKET est\l"
+	.string "un enfant!\p"
 	.string "Attends, c'est toi…?\n"
 	.string "Non, non, c'est pas possible…$"
 
@@ -55,7 +57,7 @@ SilphCo_1F_Text_FountainMan:
 	.string "Chaque invention peut être utilisée\n"
 	.string "pour faire le bien ou le mal.\p"
 	.string "Je me demande ce qui serait arrivé\n"
-	.string "si la TEAM ROCKET avait mis la main\l"
+	.string "si la TEAM ROCKET avait mis la main\p"
 	.string "sur les technologies de la SYLPHE…$"
 
 SilphCo_1F_EventScript_CushionMan::
@@ -64,8 +66,8 @@ SilphCo_1F_EventScript_CushionMan::
 
 SilphCo_1F_Text_CushionMan:
 	.string "J'étais parti me la couler douce\n"
-	.string "et quand je suis revenu le SYLPHE\l"
-	.string "était tombée!\l"
+	.string "et quand je suis revenu, la SYLPHE\l"
+	.string "était tombée !\p"
 	.string "C'était une très grosse surprise.$"
 
 SilphCo_1F_EventScript_WalkingWoman::
@@ -74,7 +76,7 @@ SilphCo_1F_EventScript_WalkingWoman::
 
 SilphCo_1F_Text_WalkingWoman:
 	.string "Nous avons beaucoup de travail à\n"
-	.string "rattrapé maintenant!$"
+	.string "rattraper maintenant!$"
 
 SilphCo_1F_EventScript_Painting::
 	goto_if_unset FLAG_HIDE_SAFFRON_CIVILIANS, SilphCo_1F_EventScript_NewPainting
@@ -86,5 +88,5 @@ SilphCo_1F_EventScript_NewPainting::
 	end
 
 SilphCo_1F_Text_NewPainting:
-	.string "C'est une magnifique peinture d'une\n"
-	.string "cabane dans un champ de fleurs.$"
+	.string "C'est une magnifique peinture\n"
+	.string "d'une cabane dans un champ de fleurs.$"

@@ -95,7 +95,7 @@ SilphCo_6F_EventScript_SuperNerd::
 	end
 
 SilphCo_6F_Text_SuperNerd:
-	.string "Je suis l'un des 4 FRERES de la\n"
-    .string "SILPHE!\p"
-	.string "Je m'assure que les stocks de\n"
-	.string "l'entreprise sont corrects!$"
+	.string "Je suis l’un des 4 FRÈRES de la\n"
+	.string "SYLPHE!\p"
+	.string "Je m’assure que les stocks de\n"
+	.string "l’entreprise sont corrects!$"
