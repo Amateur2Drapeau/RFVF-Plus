@@ -107,25 +107,25 @@ EventScript_PkmnCenterNurse_ReturnPkmnTrainerCard::
 	return
 
 Text_WelcomeTrainerCardFirst::
-	.string "Welcome to our POKéMON CENTER!\p"
-	.string "Would you like me to…\n"
-	.string "Th-that TRAINER CARD!\p"
-	.string "That wonderful shade!\n"
-	.string "And all those stars!\p"
-	.string "I've seen several TRAINERS\n"
-	.string "with BRONZE CARDS up to now…\p"
-	.string "But you're the first to top them\n"
-	.string "with that TRAINER CARD.\p"
-	.string "Please, {PLAYER}, may I have the\n"
-	.string "honor of healing your POKéMON?$"
+    .string "Bienvenue au CENTRE POKéMON!\p"
+    .string "Souhaites-tu que je…\n"
+    .string "C-cette CARTE DRESSEUR!\p"
+    .string "Cette couleur incroyable!\n"
+    .string "Et toutes ces étoiles!\p"
+    .string "J’ai vu plusieurs DRESSEURS avec\n"
+    .string "des CARTES BRONZE jusqu’ici…\p"
+    .string "Mais tu es le premier à les\n"
+    .string "surpasser avec cette carte.\p"
+    .string "S’il te plaît, {PLAYER}, accorde-moi\n"
+    .string "l’honneur de soigner ton équipe!$"
 
 Text_TakeYourPkmnForFewSecondsTrainerCard::
-	.string "I will be pleased to take your\n"
-	.string "POKéMON for a few seconds.$"
+    .string "Je vais prendre tes POKéMON\n"
+    .string "quelques secondes avec plaisir.$"
 
 Text_WelcomeTrainerCard::
-	.string "Great to see you, {PLAYER}!\n"
-	.string "You want the usual, right?$"
+    .string "Ravi de te voir, {PLAYER}!\n"
+    .string "Comme d’habitude, n’est-ce pas?$"
 
 EventScript_SoftlockClerk::
 	goto_if_set FLAG_TEMP_7, EventScript_SoftlockClerk_GaveAlready
@@ -148,12 +148,12 @@ EventScript_SoftlockClerk_NoRoom::
 	end
 
 Text_SoftlockClerk_Initial::
-	.string "Hello, TRAINER!\p"
-	.string "We've partnered with the POKéMON\n"
-	.string "CENTER to do a special giveaway!\p"
-	.string "Congratulations, you're the lucky\n"
-	.string "winner! Enjoy your prize!$"
+    .string "Bonjour, DRESSEUR!\p"
+    .string "Nous avons un partenariat avec\n"
+    .string "le CENTRE POKéMON pour un cadeau!\p"
+    .string "Félicitations, tu es l’heureux\n"
+    .string "gagnant! Profite bien du lot!$"
 
 Text_SoftlockClerk_GaveAlready::
-	.string "Hello, TRAINER!\n"
-	.string "Put those POKé BALLS to good use!$"
+    .string "Bonjour, DRESSEUR!\n"
+    .string "Utilise bien ces BALLS!$"

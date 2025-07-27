@@ -458,7 +458,8 @@ OneIsland_PokemonCenter_1F_Text_ScottOnPhone:
 	.string "du côté de KANTO à la place.$"
 
 OneIsland_PokemonCenter_1F_Text_HeyOnCall:
-	.string "He! Tu vois pas que je suis au téléphone?$"
+	.string "He! Tu vois pas que je suis au\l"
+	.string "téléphone?$"
 
 OneIsland_PokemonCenter_1F_Movement_ScottToLeft::
 	walk_up

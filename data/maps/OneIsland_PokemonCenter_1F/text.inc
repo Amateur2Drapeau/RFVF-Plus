@@ -8,7 +8,7 @@ OneIsland_PokemonCenter_1F_Text_CelioCantBelieveYouCameOut::
 
 OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComing::
     .string "LEO: Eh bien oui, je suis là.\p"
-    .string "ALors, comment avancent tes\n"
+    .string "Alors, comment avancent tes\n"
     .string "recherches?\p"
     .string "… Oh, une seconde!$"
 
@@ -61,7 +61,7 @@ OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
     .string "passionné de pierres précieuses\n"
     .string "et de roches rares.\p"
     .string "Est-ce que tu pourrais lui\n"
-    .string "apporter ce METEORITE?$"
+    .string "apporter cette METEORITE?$"
 
 OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill::
     .string "{PLAYER} accepte la METEORITE\n"
@@ -254,7 +254,7 @@ OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslandsScott::
     .string "Avec ça, tu peux aller sur les\n"
     .string "ILES SEVII.\p"
     .string "{PLAYER}, j'ai vraiment besoin de\n"
-    .string "ton aide."
+    .string "ton aide.\p"
     .string "En tant que champion, tu auras\n"
     .string "plus de chance de réussir à.\p"
     .string "explorer ces ILES.$"
@@ -294,7 +294,7 @@ OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
 
 OneIsland_PokemonCenter_1F_Text_ExplainDive::
     .string "Lorsque tu utiliseras SURF,\n"
-    .string "tu pourras voir des zones sombres\p"
+    .string "tu pourras voir des zones sombres\l"
     .string "au fond de la mer.\n"
     .string "Utilise PLONGEE pour t'y rendre.\p"
     .string "Quand tu voudras remonter utilise\n"

@@ -160,6 +160,6 @@ OneIsland_KindleRoad_Text_RouteSign::
     .string "au bout.$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
-    .string "Enflammez votre cour!\n"
+    .string "Enflammez votre cœur!\n"
     .string "SOURCE BRAISE$"
 

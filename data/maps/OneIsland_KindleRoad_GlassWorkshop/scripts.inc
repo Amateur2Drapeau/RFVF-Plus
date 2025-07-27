@@ -283,20 +283,23 @@ OneIsland_KindleRoad_GlassWorkshop_EventScript_Sign::
 	end
 
 OneIsland_KindleRoad_GlassWorkshop_Text_GoCollectAshWithThis:
-	.string "Cet endroit est recouvert de cendres,\n"
+	.string "Cet endroit est recouvert de cendres\n"
 	.string "volcaniques, huff-puff!\p"
-	.string "Je suis spécialement doué, huff-puff.\p"
+	.string "Je suis spécialement doué,\n"
+	.string "huff-puff.\p"
 	.string "Je fabrique des objets à partir\n"
 	.string "des cendres, huff-puff.\p"
 	.string "Va ramasser des cendres avec ça,\nhuff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_ExplainSootSack:
-	.string "Il suffit de prendre ce SAC A SUIE et\n"
-	.string "de marcher dans les cendres, huff-puff.\p"
-	.string "Et il se remplira de cendres volcaniques,"
-	.string " huff-puff.\p"
-	.string "Une fois que tu penses en avoir collecté\nbeaucoup"
-	.string ", reviens me voir, huff-puff.$"
+	.string "Il suffit de prendre ce SAC A SUIE\n"
+	.string "et de marcher dans les cendres,\l"
+	.string "huff-puff.\p"
+	.string "Et il se remplira de cendres\n"
+	.string "volcaniques, huff-puff.\p"
+	.string "Une fois que tu penses en avoir\n"
+	.string "collecté beaucoup, reviens\l"
+	.string "me voir, huff-puff.$"
 
 OneIsland_KindleRoad_GlassWorkshop_Text_LetsSeeCollectedAshes:
 	.string "Tu as ramassé des cendres, huff-puff?\n"

@@ -73,10 +73,11 @@ PalletTown_Text_MasterYoungsterIntroduce:
 	.string "aventures.\p"
 	.string "Maintenant que tu es devenu CHAMPION\n"
 	.string "J'ai une information pour toi!\p"
-	.string "Les MAITRES DRESSEURS, des DRESSEURS\n"
-	.string "qui ont passés toute leur carrière\l"
-	.string "à entraîner une espèce spécifique\l"
-	.string "sont de passage à KANTO.\p"
+	.string "Les MAITRES DRESSEURS, des\n"
+	.string "DRESSEURS qui ont passés toute\p"
+	.string "leur carrière à entraîner\n"
+	.string "une espèce spécifique sont\l"
+	.string "de passage à KANTO.\p"
 	.string "Si tu veux plus de détails viens\n"
 	.string "me voir!$"
 
@@ -537,8 +538,9 @@ PalletTown_Text_AskAboutMasterTrainers::
 	.string "sur les MAITRES DRESSEURS?$"
 
 PalletTown_Text_WhoAreThey::
-	.string "Chaque MAITRE DRESSEUR se concentre sur\n"
-	.string "l'entraînement d'une espèce de POKéMON.\p"
+	.string "Chaque MAITRE DRESSEUR se concentre\n"
+	.string "sur l'entraînement d'une espèce\l"
+	.string "de POKéMON.\p"
 	.string "Il font toujours signe aux DRESSEURS\n"
 	.string "pour combattre, tu devrais les\l"
 	.string "trouver très facilement.$"
@@ -551,14 +553,15 @@ PalletTown_Text_HowDoIBattleThem::
 	.string "donc ça sera des combats très\l"
 	.string "difficiles!\p"
 	.string "Tu gagneras un titre si tu gagnes\n"
-	.string "et tu pourras par l'utiliser par\l"
+	.string "et tu pourras l'utiliser par\l"
 	.string "la suite.$"
 
 PalletTown_Text_AboutTitles::
 	.string "Tu peux changer ton titre en\n"
 	.string "allant au studio de jeu\l"
 	.string "à CELADOPOLE.\p"
-	.string "Frimes avec pendant tes combats LINK!$"
+	.string "Frimes avec pendant tes\n"
+	.string "combats LINK!$"
 
 PalletTown_Text_Nothing::
 	.string "Bonne chance!$"

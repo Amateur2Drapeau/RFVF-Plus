@@ -129,7 +129,7 @@ SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_1:
 	.string "Je peux recharger tes pas\npour ¥750.\pTu veux une recharge?$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_2:
-	.string "Ok, je te souhaite bonne chance\nopour ton SAFARI!$"
+	.string "Ok, je te souhaite bonne chance\npour ton SAFARI!$"
 
 SafariZone_NorthWest_RestHouse_EventScript_Stepmonger_Text_3:
 	.string "Le compteur de pas de {PLAYER} a\n"

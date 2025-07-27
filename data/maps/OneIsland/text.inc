@@ -1,6 +1,6 @@
 OneIsland_Text_BillLetsGoSeeCelio::
     .string "LEO: On y est!\n"
-    .string "Voilç l'ILE 1.\p"
+    .string "Voilà l'ILE 1.\p"
     .string "Il y a plusieurs îles dans le coin,\n"
     .string "nous sommes sur l'une d'elles.\p"
     .string "Mon ami CILEO a mis ce bateau\n"

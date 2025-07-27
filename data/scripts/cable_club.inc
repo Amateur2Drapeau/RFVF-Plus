@@ -1402,13 +1402,13 @@ Text_TrainerTooBusyToNotice::
 	.string "Ce DRESSEUR est occupé…$"
 
 Text_LookedAtPlayersTrainerCard::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!$"
+	.string "Vous regardez la CARTE DRESSEUR\n"
+	.string "de {STR_VAR_1}!$"
 
 Text_LookedAtPlayersTrainerCardColored::
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!\p"
-	.string "It's a {STR_VAR_2} card!$"
+	.string "Vous regardez la CARTE DRESSEUR\n"
+	.string "de {STR_VAR_1}!$"
+	.string "C'est une carte {STR_VAR_2}!$"
 
 Text_TakeSeatStartBattle::
 	.string "Veuillez prendre place et\n"

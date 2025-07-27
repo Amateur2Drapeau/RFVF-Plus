@@ -161,7 +161,7 @@ FourIsland_EventScript_StarterEggDaycareMan_5:
 	end
 
 FourIsland_EventScript_StarterEggDaycareMan_Text_0:
-	.string "Ah, bonjour!\nJe suis l'HOTE DE LA PENSION.\pJe m'occupe des précieux POKéMON\ndes DRESSEURS.\pNous nous occupions des POKéMON d'un\nDRESSEUR et nous avons trouvé un OEUF!\pIl ne le voulait pas mais tu\nressemble à un DRESSEUR.\pVeux tu récupérer cet\nOEUF à sa place?$"
+	.string "Ah, bonjour!\nJe suis l'HOTE DE LA PENSION.\pJe m'occupe des précieux POKéMON\ndes DRESSEURS.\pNous nous occupions des POKéMON d'un\nDRESSEUR et nous avons trouvé un \lOEUF!\pIl ne le voulait pas mais tu\nressemble à un DRESSEUR.\pVeux tu récupérer cet\nOEUF à sa place?$"
 
 FourIsland_EventScript_StarterEggDaycareMan_Text_1:
 	.string "Je pense que je vais garder l'OEUF\nen attendant de trouver un DRESSEUR\pqui le veut.$"

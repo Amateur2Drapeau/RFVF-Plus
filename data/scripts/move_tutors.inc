@@ -1790,7 +1790,7 @@ MoveTutor_Text_SkyAttackTeach:
 	.string "Comment ça ? Tu ne sais pas ?\n"
 	.string "Tu ignores ce qu’ils peuvent faire ?\p"
 	.string "Ils peuvent apprendre une attaque\n"
-	.string "qui fait tomber le ciel sur l’ennemi !\p"
+	.string "qui fait tomber le ciel sur l’ennemi!\p"
 	.string "Tu veux que j’apprenne\n"
 	.string "PIQUE à ton POKéMON ?$"
 

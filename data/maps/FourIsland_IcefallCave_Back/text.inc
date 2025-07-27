@@ -13,7 +13,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
     .string "OLGA: {PLAYER}?!\n"
     .string "Qu'est-ce que tu fais là?\p"
     .string "Non, on verra ça plus tard.\n"
-    .string "J'ai bezoin de toi maintenant.\p"
+    .string "J'ai besoin de toi maintenant.\p"
     .string "Aide-moi à me débarasser de\n"
     .string "ces voleurs.\p"
     .string "Ils attrapent les POKéMON\n"

@@ -1403,7 +1403,7 @@ void DrawSeagallopDestinationMenu(void)
     }
     cursorWidth = GetMenuCursorDimensionByFont(FONT_NORMAL, 0);
     fontHeight = GetFontAttribute(FONT_NORMAL, FONTATTR_MAX_LETTER_HEIGHT);
-    windowId = CreateWindowFromRect(17, top, 11, numItems * 2);
+    windowId = CreateWindowFromRect(16, top, 12, numItems * 2);
     SetStdWindowBorderStyle(windowId, FALSE);
     
     // -2 excludes "Other" and "Exit", appended after the loop

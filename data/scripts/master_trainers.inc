@@ -2274,293 +2274,296 @@ MasterTrainer_EventScript_ReleaseEndClearFlag:
 
 
 Text_Scientist_SeePowerfulMon:
-    .string "It would be wonderful to see a truly\n"
-    .string "powerful {STR_VAR_1}, even just once.$"
+    .string "Ce serait merveilleux de voir un\n"
+    .string "{STR_VAR_1} vraiment puissant, ne\n"
+    .string "serait-ce qu’une seule fois.$"
 
 Text_Scientist_ShowPowerfulMon:
-    .string "What do we have here?\p"
-    .string "That {STR_VAR_1}!\n"
-    .string "It's got a special vibe to it!\p"
-    .string "The way it holds itself, it just\n"
-    .string "radiates strength…\l"
-    .string "Wonderful!\p"
-    .string "I thank you… You showed me a\n"
-    .string "a truly amazing POKéMON.\p"
-    .string "I think you deserve the title of\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "Voyons voir ce qu’on a là…\p"
+    .string "Ce {STR_VAR_1}!\n"
+    .string "Il dégage une aura particulière!\p"
+    .string "Sa prestance… On sent qu’il\n"
+    .string "rayonne de puissance…\l"
+    .string "Merveilleux!\p"
+    .string "Merci à toi… Tu m’as montré un\n"
+    .string "POKÉMON vraiment exceptionnel.\p"
+    .string "Je pense que tu mérites le titre de\n"
+    .string "MAÎTRE {STR_VAR_1}!$"
 
 Text_BeautyLass_Intro:
-    .string "I'm the {STR_VAR_1} MASTER!\p"
-    .string "My goal is to find the ultimate\n"
-    .string "{STR_VAR_1}!$"
+    .string "Je suis la MAÎTRESSE des {STR_VAR_1}!\p"
+    .string "Mon but est de trouver le {STR_VAR_1}\n"
+    .string "ultime!$"
 
 Text_BirdKeeperCooltrainer_Intro:
-    .string "I'm the {STR_VAR_1} MASTER!\p"
-    .string "I aim to find the ultimate\n"
-    .string "{STR_VAR_1}!$"
+    .string "Je suis le MAÎTRE des {STR_VAR_1}!\p"
+    .string "Je cherche le {STR_VAR_1} ultime\n"
+    .string "à trouver…$"
 
 Text_BugCatcherYoungster_Intro:
-    .string "I'm the {STR_VAR_1} MASTER!\n"
-    .string "I seek the ultimate {STR_VAR_1}!$"
+    .string "Je suis le MAÎTRE des {STR_VAR_1}!\n"
+    .string "Je cherche le {STR_VAR_1} ultime!$"
 
 Text_PsychicScientist_Intro:
-    .string "I am the {STR_VAR_1} MASTER!\n"
-    .string "I seek the ultimate {STR_VAR_1}.$"
+    .string "Je suis le MAÎTRE des {STR_VAR_1}!\n"
+    .string "Je cherche le {STR_VAR_1} ultime.$"
 
 Text_BlackBeltHiker_Intro:
-    .string "I am the {STR_VAR_1} MASTER!\p"
-    .string "My only desire is to find the\n"
-    .string "ultimate {STR_VAR_1}!$"
+    .string "Je suis le MAÎTRE des {STR_VAR_1}!\p"
+    .string "Je veux seulement trouver\n"
+    .string "le {STR_VAR_1} ultime!$"
 
 Text_BeautyLass_NoMon:
-    .string "Don't forget to put your {STR_VAR_1}\n"
-    .string "in the top-left position of your\l"
-    .string "party if you want to battle me!$"
+    .string "N’oublie pas de placer ton {STR_VAR_1}\n"
+    .string "en haut à gauche de ton équipe\l"
+    .string "si tu veux m’affronter!$"
 
 Text_BirdKeeperCooltrainer_NoMon:
-    .string "If you want to battle me, you've\n"
-    .string "got to put your {STR_VAR_1} in the\l"
-    .string "top-left position of your party!$"
+    .string "Si tu veux m’affronter, place ton\n"
+    .string "{STR_VAR_1} en haut à gauche\l"
+    .string "de ton équipe!$"
 
 Text_BugCatcherYoungster_NoMon:
-    .string "If you're interested in battling me,\n"
-    .string "you gotta put your {STR_VAR_1} in\l"
-    .string "the top-left position of your party!$"
+    .string "Si tu veux m’affronter,\n"
+    .string "mets ton {STR_VAR_1} en\l"
+    .string "haut à gauche de ton équipe!$"
 
 Text_PsychicScientist_NoMon:
-    .string "If you wish to battle me, you\n"
-    .string "must put your {STR_VAR_1} in the\l"
-    .string "top-left position of your party!$"
+    .string "Si tu veux m’affronter, tu dois\n"
+    .string "placer ton {STR_VAR_1} en haut\l"
+    .string "à gauche de ton équipe!$"
 
 Text_BlackBeltHiker_NoMon:
-    .string "Set your {STR_VAR_1} in the top\n"
-    .string "left of your party if you wish\l"
-    .string "to face me in battle!$"
+    .string "Place ton {STR_VAR_1} en haut à\n"
+    .string "gauche de ton équipe si tu veux\l"
+    .string "m’affronter en combat!$"
 
 Text_BeautyLass_AskBattle:
-    .string "Hey, your {STR_VAR_1} looks pretty\n"
-    .string "strong!\p"
-    .string "Can I battle it with my {STR_VAR_1}?\n"
-    .string "Pleeeease?$"
+    .string "Hé, ton {STR_VAR_1} a l’air plutôt\n"
+    .string "fort!\p"
+    .string "Je peux l’affronter avec mon\n"
+    .string "{STR_VAR_1}…? S’il te plaaît?$"
 
 Text_BirdKeeperCooltrainer_AskBattle:
-    .string "What's this? I see you have a\n"
-    .string "strong-looking {STR_VAR_1}!\p"
-    .string "Why don't you have it battle my\n"
-    .string "{STR_VAR_1}?$"
+    .string "Tiens donc… Tu as un\n"
+    .string "{STR_VAR_1} qui a l’air costaud!\p"
+    .string "Pourquoi ne pas le faire lutter\n"
+    .string "contre mon {STR_VAR_1}?$"
 
 Text_BugCatcherYoungster_AskBattle:
-    .string "Heeey, you have a powerful\n"
-    .string "{STR_VAR_1}, don't you?\p"
-    .string "C'mon, you should have it battle\n"
-    .string "my own {STR_VAR_1}!$"
+    .string "Hééé, ton {STR_VAR_1} a l’air\n"
+    .string "puissant, pas vrai?\p"
+    .string "Allez, tu devrais le faire\n"
+    .string "combattre le mien!$"
 
 Text_PsychicScientist_AskBattle:
-    .string "Oh? I see you have a very\n"
-    .string "potent-looking {STR_VAR_1}…\p"
-    .string "Would you be interested in battling\n"
-    .string "my {STR_VAR_1}?$"
-
-Text_BlackBeltHiker_AskBattle:
-    .string "Hmm? Your {STR_VAR_1} seems very\n"
-    .string "strong!\p"
-    .string "Why not have it face off against\n"
-    .string "my {STR_VAR_1}?$"
-
-Text_BeautyLass_HaveTitleAskBattle:
-    .string "Hey there! Has your {STR_VAR_1}\n"
-    .string "gotten any stronger?\p"
-    .string "Can I battle it with my {STR_VAR_1}?\n"
-    .string "Pleeeease?$"
-
-Text_BirdKeeperCooltrainer_HaveTitleAskBattle:
-    .string "Oh, hey there! Has your\n"
-    .string "{STR_VAR_1} gotten any stronger?\p"
-    .string "Why don't you have it battle my\n"
+    .string "Oh? Ton {STR_VAR_1} a l’air\n"
+    .string "vraiment puissant…\p"
+    .string "Voudrais-tu affronter mon\n"
     .string "{STR_VAR_1}?$"
 
+Text_BlackBeltHiker_AskBattle:
+    .string "Hmm? Ton {STR_VAR_1} a l’air très\n"
+    .string "fort!\p"
+    .string "Pourquoi ne pas l’opposer à\n"
+    .string "mon {STR_VAR_1}?$"
+
+Text_BeautyLass_HaveTitleAskBattle:
+    .string "Coucou! Ton {STR_VAR_1} est-il\n"
+    .string "devenu plus fort?\p"
+    .string "Je peux l’affronter avec mon\n"
+    .string "{STR_VAR_1}…? S’il te plaaît?$"
+
+Text_BirdKeeperCooltrainer_HaveTitleAskBattle:
+    .string "Oh, salut! Ton {STR_VAR_1} est-il\n"
+    .string "devenu plus fort?\p"
+    .string "Pourquoi ne pas le faire lutter\n"
+    .string "contre mon {STR_VAR_1}?$"
+
 Text_BugCatcherYoungster_HaveTitleAskBattle:
-    .string "Hey, how's it going? Still training\n"
-    .string "your {STR_VAR_1}, I bet!\p"
-    .string "C'mon, you should have it battle\n"
-    .string "my own {STR_VAR_1}!$"
+    .string "Hé, ça va? Tu entraînes encore\n"
+    .string "ton {STR_VAR_1}, pas vrai!\p"
+    .string "Allez, tu devrais le faire\n"
+    .string "combattre le mien!$"
 
 Text_PsychicScientist_HaveTitleAskBattle:
-    .string "Oh, good to see you again.\n"
-    .string "How's your {STR_VAR_1} doing?\p"
-    .string "Would you be interested in battling\n"
-    .string "my {STR_VAR_1}?$"
+    .string "Oh, content de te revoir.\n"
+    .string "Comment va ton {STR_VAR_1}?\p"
+    .string "Voudrais-tu l’opposer à mon\n"
+    .string "{STR_VAR_1}?$"
 
 Text_BlackBeltHiker_HaveTitleAskBattle:
-    .string "Ahoy, you there! How is your\n"
-    .string "{STR_VAR_1} doing these days?\p"
-    .string "Why not have it face off against\n"
-    .string "my {STR_VAR_1}?$"
+    .string "Hé, toi! Comment va ton\n"
+    .string "{STR_VAR_1} ces derniers temps?\p"
+    .string "Pourquoi ne pas l’opposer à\n"
+    .string "mon {STR_VAR_1}?$"
 
 Text_BeautyLass_DeclinedBattle:
-    .string "Boo!\n"
-    .string "I wanted to show off my {STR_VAR_1}!$"
+    .string "Bouh!\n"
+    .string "Je voulais montrer mon {STR_VAR_1}!$"
 
 Text_BirdKeeperCooltrainer_DeclinedBattle:
-    .string "Too bad! That means I can't show\n"
-    .string "you how amazing my {STR_VAR_1} is!$"
+    .string "Dommage! Je ne peux donc pas te\n"
+    .string "montrer comme mon {STR_VAR_1}\l"
+    .string "est génial!$"
 
 Text_BugCatcherYoungster_DeclinedBattle:
-    .string "Tsk! I really would have liked to\n"
-    .string "see your {STR_VAR_1} in action…$"
+    .string "Tsk! J’aurais vraiment aimé voir\n"
+    .string "ton {STR_VAR_1} en action…$"
 
 Text_PsychicScientist_DeclinedBattle:
-    .string "It is unfortunate I can't show you\n"
-    .string "the power of my {STR_VAR_1}.$"
+    .string "Quel dommage de ne pouvoir te\n"
+    .string "montrer la force de mon {STR_VAR_1}.$"
 
 Text_BlackBeltHiker_DeclinedBattle:
-    .string "Hmm, perhaps my {STR_VAR_1} is\n"
-    .string "frightening you?$"
+    .string "Hmm, mon {STR_VAR_1} te ferait-il\n"
+    .string "peur?$"
 
 Text_BeautyLass_AcceptedBattle:
-    .string "Let's see which is the stronger\n"
-    .string "{STR_VAR_1}!$"
+    .string "Voyons lequel est le {STR_VAR_1}\n"
+    .string "le plus fort!$"
 
-Text_BirdKeeperCooltrainer_AcceptedBattle: // a/an
-    .string "All right!\n"
-    .string "It's time for {STR_VAR_3} {STR_VAR_1} battle!$"
+Text_BirdKeeperCooltrainer_AcceptedBattle:
+    .string "Très bien!\n"
+    .string "Il est temps pour {STR_VAR_3} combat\n"
+    .string "de {STR_VAR_1}!$"
 
 Text_BugCatcherYoungster_AcceptedBattle:
-    .string "Let's find out whose {STR_VAR_1}\n"
-    .string "is the most powerful!$"
+    .string "Voyons quel {STR_VAR_1} est le\n"
+    .string "plus puissant!$"
 
 Text_PsychicScientist_AcceptedBattle:
-    .string "Well then, I hope you're ready!\n"
-    .string "Come on, {STR_VAR_1}!$"
+    .string "Très bien, j’espère que tu es prêt!\n"
+    .string "En avant, {STR_VAR_1}!$"
 
 Text_BlackBeltHiker_AcceptedBattle:
-    .string "Let's do this, {STR_VAR_1}!\n"
-    .string "Let's have an honorable battle!$"
+    .string "Allons-y, {STR_VAR_1}!\n"
+    .string "Menons un combat honorable!$"
 
 Text_BeautyLass_LostBattle:
-    .string "Hee hee! I knew my {STR_VAR_1}\n"
-    .string "was the best of the best!$"
+    .string "Héhé! Je savais que mon {STR_VAR_1}\n"
+    .string "était le meilleur du meilleur!$"
 
 Text_BirdKeeperCooltrainer_LostBattle:
-    .string "Hahaha! I knew my {STR_VAR_1}\n"
-    .string "was the best of them all!$"
+    .string "Hahaha! Je savais que mon {STR_VAR_1}\n"
+    .string "était le meilleur de tous!$"
 
 Text_BugCatcherYoungster_LostBattle:
-    .string "We did it! I knew my\n"
-    .string "{STR_VAR_1} was the best there is!$"
+    .string "On a réussi! Je savais que mon\n"
+    .string "{STR_VAR_1} était le meilleur!$"
 
 Text_PsychicScientist_LostBattle:
-    .string "Heh heh heh… I knew my {STR_VAR_1}\n"
-    .string "was the best, most powerful\l"
-    .string "of them all.$"
+    .string "Héhéhé… Je savais que mon {STR_VAR_1}\n"
+    .string "était le plus puissant\l"
+    .string "de tous.$"
 
 Text_BlackBeltHiker_LostBattle:
-    .string "Bahaha! Of course my {STR_VAR_1}\n"
-    .string "is the best of them all!$"
+    .string "Bahaha! Évidemment que mon\n"
+    .string "{STR_VAR_1} est le meilleur!$"
 
 Text_BeautyLass_BattleLoss:
-    .string "That strength is the real deal!$"
+    .string "Cette force, c’est du sérieux!$"
 
 Text_BirdKeeperCooltrainer_BattleLoss:
-    .string "That strength is the real thing.$"
+    .string "Cette force est authentique.$"
 
 Text_BugCatcherYoungster_BattleLoss:
-    .string "That strength is no joke!$"
+    .string "Cette force, c’est pas pour rire!$"
 
 Text_PsychicScientist_BattleLoss:
-    .string "That seems like true strength.$"
+    .string "Cela ressemble à la vraie force.$"
 
 Text_BlackBeltHiker_BattleLoss:
-    .string "That's some real strength!$"
+    .string "Ça, c’est de la vraie force!$"
 
-Text_BeautyLass_AfterBattleWon: //already have title
-    .string "Oh wow… Your {STR_VAR_1} is way\n"
-    .string "stronger than I thought!\p"
-    .string "We should have another battle\n"
-    .string "sometime, since we both love\l"
-    .string "{STR_VAR_1} so much!$"
+Text_BeautyLass_AfterBattleWon:
+    .string "Oh, waouh… Ton {STR_VAR_1} est bien\n"
+    .string "plus fort que je ne pensais!\p"
+    .string "On devrait refaire un combat\n"
+    .string "un jour, puisque nous aimons\l"
+    .string "tant les {STR_VAR_1}!$"
 
-Text_BirdKeeperCooltrainer_AfterBattleWon: //already have title
-    .string "I can't believe it… Your\n"
-    .string "{STR_VAR_1}… It's too powerful!\p"
-    .string "We both seem to love {STR_VAR_1},\n"
-    .string "so let's battle again sometime!$"
+Text_BirdKeeperCooltrainer_AfterBattleWon:
+    .string "J’y crois pas… Ton {STR_VAR_1}…\n"
+    .string "Il est trop puissant!\p"
+    .string "On dirait qu’on aime tous les deux\n"
+    .string "les {STR_VAR_1}, alors remettons ça!$"
 
-Text_BugCatcherYoungster_AfterBattleWon: //already have title
-    .string "Aw, c'mon! Your {STR_VAR_1}\n"
-    .string "is way too strong!\p"
-    .string "I'd love to battle again sometime,\n"
-    .string "as a fellow {STR_VAR_1} fan!$"
+Text_BugCatcherYoungster_AfterBattleWon:
+    .string "Oh, allez! Ton {STR_VAR_1} est bien\n"
+    .string "trop fort!\p"
+    .string "J’aimerais trop qu’on refasse un\n"
+    .string "combat, entre fans de {STR_VAR_1}!$"
 
-Text_PsychicScientist_AfterBattleWon: //already have title
-    .string "I can't believe this… Your\n"
-    .string "{STR_VAR_1} is too strong!\p"
-    .string "As two {STR_VAR_1} fanatics,\n"
-    .string "we should definitely battle again\l"
-    .string "sometime!$"
+Text_PsychicScientist_AfterBattleWon:
+    .string "Je n’arrive pas à y croire… Ton\n"
+    .string "{STR_VAR_1} est trop puissant!\p"
+    .string "En tant que passionnés de\n"
+    .string "{STR_VAR_1}, nous devrions\l"
+    .string "clairement nous revoir!$"
 
-Text_BlackBeltHiker_AfterBattleWon: //already have title
-    .string "B-but how…? Your {STR_VAR_1} is\n"
-    .string "more powerful than any I've seen\l"
-    .string "before!\p"
-    .string "As two {STR_VAR_1} fanatics,\n"
-    .string "we are almost family!\l"
-    .string "We must battle again sometime!$"
+Text_BlackBeltHiker_AfterBattleWon:
+    .string "M-mais comment…? Ton {STR_VAR_1} est\n"
+    .string "plus puissant que tout ce que\l"
+    .string "j’ai vu jusqu’ici!\p"
+    .string "En tant que passionnés de\n"
+    .string "{STR_VAR_1}, on est presque famille!\l"
+    .string "Il faut qu’on se batte à nouveau!$"
 
-Text_BeautyLass_GiveTitle: // a/an
-    .string "Oh wow… Your {STR_VAR_1} is way\n"
-    .string "stronger than I thought!\p"
-    .string "I think you deserve to be called\n"
-    .string "{STR_VAR_3} {STR_VAR_1} MASTER!$"
+Text_BeautyLass_GiveTitle:
+    .string "Oh, waouh… Ton {STR_VAR_1} est bien\n"
+    .string "plus fort que je ne pensais!\p"
+    .string "Je pense que tu mérites d’être\n"
+    .string "appelé {STR_VAR_3} MAÎTRE {STR_VAR_1}!$"
 
 Text_BirdKeeperCooltrainer_GiveTitle:
-    .string "I can't believe it… Your\n"
-    .string "{STR_VAR_1}… It's too powerful!\p"
-    .string "You are the one who deserves the\n"
-    .string "title of {STR_VAR_1} MASTER!$"
+    .string "J’y crois pas… Ton {STR_VAR_1}…\n"
+    .string "Il est trop puissant!\p"
+    .string "C’est toi qui mérites le titre\n"
+    .string "de MAÎTRE {STR_VAR_1}!$"
 
 Text_BugCatcherYoungster_GiveTitle:
-    .string "Aw, c'mon! Your {STR_VAR_1}\n"
-    .string "is way too strong!\p"
-    .string "You definitely deserve the title\n"
-    .string "of {STR_VAR_1} MASTER!$"
+    .string "Oh, allez! Ton {STR_VAR_1} est bien\n"
+    .string "trop fort!\p"
+    .string "Tu mérites clairement le titre\n"
+    .string "de MAÎTRE {STR_VAR_1}!$"
 
 Text_PsychicScientist_GiveTitle:
-    .string "I can't believe this… Your\n"
-    .string "{STR_VAR_1} is too strong!\p"
-    .string "I think you deserve the title of\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "Je n’arrive pas à y croire… Ton\n"
+    .string "{STR_VAR_1} est trop puissant!\p"
+    .string "Je pense que tu mérites le titre\n"
+    .string "de MAÎTRE {STR_VAR_1}!$"
 
 Text_BlackBeltHiker_GiveTitle:
-    .string "B-but how…? Your {STR_VAR_1} is\n"
-    .string "more powerful than any I've seen\l"
-    .string "before!\p"
-    .string "You are truly worthy of the title\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "M-mais comment…? Ton {STR_VAR_1} est\n"
+    .string "plus puissant que tout ce que\l"
+    .string "j’ai vu jusqu’ici!\p"
+    .string "Tu mérites vraiment le titre de\n"
+    .string "MAÎTRE {STR_VAR_1}!$"
 
 Text_MasterTrainer_EarnTitle:
-    .string "{COLOR DARK_GRAY}You have earned the title of\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "{COLOR DARK_GRAY}Tu as gagné le titre de\n"
+    .string "MAÎTRE {STR_VAR_1}!$"
 
 Text_BeautyLass_AnotherBattleSometime:
-    .string "We should have another battle\n"
-    .string "sometime, since we both love\l"
-    .string "{STR_VAR_1} so much!$"
+    .string "On devrait refaire un combat\n"
+    .string "un jour, puisque nous aimons\l"
+    .string "tant les {STR_VAR_1}!$"
 
 Text_BirdKeeperCooltrainer_AnotherBattleSometime:
-    .string "We both seem to love {STR_VAR_1},\n"
-    .string "so let's battle again sometime!$"
+    .string "On dirait qu’on aime tous les deux\n"
+    .string "les {STR_VAR_1}, alors remettons ça!$"
 
 Text_BugCatcherYoungster_AnotherBattleSometime:
-    .string "I'd love to battle again sometime,\n"
-    .string "as a fellow {STR_VAR_1} fan!$"
+    .string "J’aimerais trop qu’on refasse un\n"
+    .string "combat, entre fans de {STR_VAR_1}!$"
 
 Text_PsychicScientist_AnotherBattleSometime:
-    .string "As two {STR_VAR_1} fanatics,\n"
-    .string "we should definitely battle again\l"
-    .string "sometime!$"
+    .string "En tant que passionnés de\n"
+    .string "{STR_VAR_1}, nous devrions\l"
+    .string "clairement nous revoir!$"
 
 Text_BlackBeltHiker_AnotherBattleSometime:
-    .string "As two {STR_VAR_1} fanatics,\n"
-    .string "we are almost family!\l"
-    .string "We must battle again sometime!$"
+    .string "En tant que passionnés de\n"
+    .string "{STR_VAR_1}, on est presque une famille!\l"
+    .string "On doit se battre à nouveau!$"

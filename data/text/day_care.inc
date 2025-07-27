@@ -2,7 +2,7 @@
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
 	.string "Je suis l'HOTE DE LA PENSION.\p"
-	.string "Je peux m'occuper des précieuxs\n"
+	.string "Je peux m'occuper des précieux\n"
 	.string "POKéMON des dresseurs.\p"
 	.string "Si tu veux que j'élève ton\n"
 	.string "POKéMON, va parler à ma femme.$"

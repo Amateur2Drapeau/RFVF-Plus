@@ -139,8 +139,9 @@ BattleTower_Lobby_Text_19A8AE::
 
 BattleTower_Lobby_Text_19A946::
     .string "Une fois dans la TOUR DE COMBAT,\n"
-    .string "tu ne peux pas sortir avant de perdre\l"
-    .string "ou de battre sept DRESSEURS à la suite.\p"
+    .string "tu ne peux pas sortir avant de\p"
+    .string "perdre ou de battre sept\n"
+    .string "DRESSEURS à la suite.\p"
     .string "T'as intérêt à te motiver sérieusement\n"
     .string "avant de décider de relever le défi.$"
 
