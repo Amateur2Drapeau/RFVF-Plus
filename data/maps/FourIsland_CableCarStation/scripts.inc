@@ -93,7 +93,7 @@ FourIsland_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 FourIsland_CableCarStation_Text_CableCarReadyGetOn:
-	.string "Le TELEPHERIQUE est prêt à descendre.\n"
+	.string "Le TELEPHERIQUE est prêt à partir.\n"
 	.string "Tu veux y entrer?$"
 
 FourIsland_CableCarStation_Text_StepThisWay:
