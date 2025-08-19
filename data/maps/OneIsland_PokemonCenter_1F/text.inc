@@ -298,7 +298,7 @@ OneIsland_PokemonCenter_1F_Text_ExplainDive::
     .string "au fond de la mer.\n"
     .string "Utilise PLONGEE pour t'y rendre.\p"
     .string "Quand tu voudras remonter utilise\n"
-    .string "PLONGEE une nouvelle fois.\l"
+    .string "PLONGEE une nouvelle fois.\p"
     .string "Vérifie qu'il n'y a pas d'obstacle\n"
     .string "avant de remonter!$"
 
