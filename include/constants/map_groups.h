@@ -139,10 +139,6 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM (123 | (1 << 8))
 #define MAP_SIX_ISLAND_PATTERN_BUSH              (124 | (1 << 8))
 #define MAP_SIX_ISLAND_ALTERING_CAVE             (125 | (1 << 8))
-#define MAP_SAFARI_ZONE_NORTH_HOENN              (126 | (1 << 8))
-#define MAP_SAFARI_ZONE_HOENN_CAVE               (127 | (1 << 8))
-#define MAP_SAFARI_ZONE_HOENN_CAVE_SAND          (128 | (1 << 8))
-#define MAP_SAFARI_ZONE_HOENN_CAVE_GHOST         (129 | (1 << 8))
 
 // gMapGroup_SpecialArea
 #define MAP_NAVEL_ROCK_EXTERIOR                       (0 | (2 << 8))
@@ -217,6 +213,10 @@
 #define MAP_CERULEAN_CAVE_1F_YELLOW                   (69 | (2 << 8))
 #define MAP_CERULEAN_CAVE_2F_YELLOW                   (70 | (2 << 8))
 #define MAP_CERULEAN_CAVE_B1F_YELLOW                  (71 | (2 << 8))
+#define MAP_SAFARI_ZONE_NORTH_HOENN                   (72 | (2 << 8))
+#define MAP_SAFARI_ZONE_HOENN_CAVE                    (73 | (2 << 8))
+#define MAP_SAFARI_ZONE_HOENN_CAVE_SAND               (74 | (2 << 8))
+#define MAP_SAFARI_ZONE_HOENN_CAVE_GHOST              (75 | (2 << 8))
 
 // gMapGroup_TownsAndRoutes
 #define MAP_PALLET_TOWN                          (0 | (3 << 8))

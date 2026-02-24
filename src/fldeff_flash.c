@@ -151,6 +151,13 @@ static const struct FlashStruct sTransitionTypes[] = {
         .isExit = TRUE,
         .func1 = FlashTransition_Exit,
         .func2 = RunMapPreviewScreen
+    }, {
+        .fromType = MAP_TYPE_UNDERGROUND,
+        .toType = MAP_TYPE_UNDERGROUND,
+        .isEnter = TRUE,
+        .isExit = TRUE,
+        .func1 = FlashTransition_Enter,
+        .func2 = RunMapPreviewScreen
     }, {0}
 };
 

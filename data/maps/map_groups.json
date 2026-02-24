@@ -178,11 +178,7 @@
     "SixIsland_DottedHole_B4F",
     "SixIsland_DottedHole_SapphireRoom",
     "SixIsland_PatternBush",
-    "SixIsland_AlteringCave",
-    "SafariZone_NorthHoenn",
-    "SafariZone_HoennCave",
-    "SafariZone_HoennCaveSand",
-    "SafariZone_HoennCaveGhost"
+    "SixIsland_AlteringCave"
   ],
   "gMapGroup_SpecialArea": [
     "NavelRock_Exterior",
@@ -256,7 +252,11 @@
     "CeruleanCave_B1F_Blue",
     "CeruleanCave_1F_Yellow",
     "CeruleanCave_2F_Yellow",
-    "CeruleanCave_B1F_Yellow"
+    "CeruleanCave_B1F_Yellow",
+    "SafariZone_NorthHoenn",
+    "SafariZone_HoennCave",
+    "SafariZone_HoennCaveSand",
+    "SafariZone_HoennCaveGhost"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PalletTown",

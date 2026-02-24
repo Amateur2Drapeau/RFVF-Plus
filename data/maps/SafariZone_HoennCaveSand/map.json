@@ -13,6 +13,7 @@
   "show_map_name": true,
   "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "level_scaling": "0",
   "connections": 0,
   "object_events": [
 
@@ -23,7 +24,7 @@
       "y": 12,
       "elevation": 0,
       "dest_map": "MAP_SAFARI_ZONE_NORTH_HOENN",
-      "dest_warp_id": "0"
+      "dest_warp_id": "3"
     }
   ],
   "coord_events": [

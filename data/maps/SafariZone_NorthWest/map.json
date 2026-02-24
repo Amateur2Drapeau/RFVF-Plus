@@ -218,13 +218,6 @@
       "dest_warp_id": "0"
     },
     {
-      "x": 26,
-      "y": 18,
-      "elevation": 0,
-      "dest_map": "MAP_SAFARI_ZONE_NORTH_WEST",
-      "dest_warp_id": "0"
-    },
-    {
       "x": 21,
       "y": 5,
       "elevation": 0,
@@ -235,8 +228,8 @@
       "x": 22,
       "y": 5,
       "elevation": 0,
-      "dest_map": "MAP_SAFARI_ZONE_NORTH_EAST",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_SAFARI_ZONE_NORTH_HOENN",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [
