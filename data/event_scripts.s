@@ -1328,3 +1328,15 @@ EventScript_NoMoreRoomForPokemon::
 
 	.include "data/maps/BattleFrontier_RankingHall/scripts.inc"
 	.include "data/maps/BattleFrontier_RankingHall/text.inc"
+
+	.include "data/maps/SafariZone_NorthHoenn/scripts.inc"
+	.include "data/maps/SafariZone_NorthHoenn/text.inc"
+
+	.include "data/maps/SafariZone_HoennCave/scripts.inc"
+	.include "data/maps/SafariZone_HoennCave/text.inc"
+
+	.include "data/maps/SafariZone_HoennCaveSand/scripts.inc"
+	.include "data/maps/SafariZone_HoennCaveSand/text.inc"
+
+	.include "data/maps/SafariZone_HoennCaveGhost/scripts.inc"
+	.include "data/maps/SafariZone_HoennCaveGhost/text.inc"

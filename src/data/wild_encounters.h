@@ -7255,6 +7255,111 @@ const struct WildPokemon sSafariZone_NorthEast_LandMons[] =
 
 const struct WildPokemonInfo sSafariZone_NorthEast_LandMonsInfo = { 25, sSafariZone_NorthEast_LandMons };
 
+// ==================== SAFARI ZONE HOENN ====================
+
+// --- NorthHoenn ---
+const struct WildPokemon sSafariZone_NorthHoenn_LandMons[] =
+{
+    { 20, 30, SPECIES_ZIGZAGOON },  // slot 0 - 20%
+    { 20, 30, SPECIES_TAILLOW },    // slot 1 - 20%
+    { 20, 30, SPECIES_ROSELIA },    // slot 2 - 10%
+    { 20, 30, SPECIES_ELECTRIKE },  // slot 3 - 10%
+    { 20, 30, SPECIES_GULPIN },     // slot 4 - 10%
+    { 20, 30, SPECIES_SLAKOTH },    // slot 5 - 10%
+    { 20, 30, SPECIES_LOTAD },      // slot 6 - 5%
+    { 20, 30, SPECIES_SEEDOT },     // slot 7 - 5%
+    { 20, 30, SPECIES_PLUSLE },     // slot 8 - 4%
+    { 20, 30, SPECIES_MINUN },      // slot 9 - 4%
+    { 20, 30, SPECIES_SKITTY },     // slot 10 - 1%
+    { 30, 40, SPECIES_KECLEON },    // slot 11 - 1%
+};
+
+const struct WildPokemonInfo sSafariZone_NorthHoenn_LandMonsInfo = { 25, sSafariZone_NorthHoenn_LandMons };
+
+const struct WildPokemon sSafariZone_NorthHoenn_WaterMons[] =
+{
+    { 20, 30, SPECIES_WINGULL },   // slot 0 - 60%
+    { 20, 30, SPECIES_WAILMER },   // slot 1 - 30%
+    { 20, 30, SPECIES_SURSKIT },   // slot 2 - 5%
+    { 30, 35, SPECIES_PELIPPER },  // slot 3 - 4%
+    { 50, 60, SPECIES_WAILORD },   // slot 4 - 1%
+};
+
+const struct WildPokemonInfo sSafariZone_NorthHoenn_WaterMonsInfo = { 9, sSafariZone_NorthHoenn_WaterMons };
+
+const struct WildPokemon sSafariZone_NorthHoenn_FishingMons[] =
+{
+    { 20, 30, SPECIES_CORPHISH },   // slot 0 - Vieille Canne 70%
+    { 20, 30, SPECIES_CLAMPERL },   // slot 1 - Vieille Canne 30%
+    { 20, 30, SPECIES_CORPHISH },   // slot 2 - Bonne Canne 60%
+    { 20, 30, SPECIES_CLAMPERL },   // slot 3 - Bonne Canne 20%
+    { 20, 30, SPECIES_BARBOACH },   // slot 4 - Bonne Canne 20%
+    { 20, 30, SPECIES_CARVANHA },   // slot 5 - Super Canne 40%
+    { 20, 30, SPECIES_LUVDISC },    // slot 6 - Super Canne 40%
+    { 20, 30, SPECIES_CORSOLA },    // slot 7 - Super Canne 15%
+    { 20, 30, SPECIES_RELICANTH },  // slot 8 - Super Canne 4%
+    { 20, 30, SPECIES_FEEBAS },     // slot 9 - Super Canne 1%
+};
+
+const struct WildPokemonInfo sSafariZone_NorthHoenn_FishingMonsInfo = { 35, sSafariZone_NorthHoenn_FishingMons };
+
+// --- HoennCave ---
+const struct WildPokemon sSafariZone_HoennCave_LandMons[] =
+{
+    { 20, 30, SPECIES_WHISMUR },   // slot 0 - 20%
+    { 20, 30, SPECIES_ARON },      // slot 1 - 20%
+    { 20, 30, SPECIES_MAKUHITA },  // slot 2 - 10%
+    { 20, 30, SPECIES_MEDITITE },  // slot 3 - 10%
+    { 20, 30, SPECIES_NINCADA },   // slot 4 - 10%
+    { 20, 30, SPECIES_NINCADA },   // slot 5 - 10%
+    { 20, 30, SPECIES_LILEEP },    // slot 6 - 5%
+    { 20, 30, SPECIES_ANORITH },   // slot 7 - 5%
+    { 20, 30, SPECIES_MAWILE },    // slot 8 - 4%
+    { 20, 34, SPECIES_NOSEPASS },  // slot 9 - 4%
+    { 30, 35, SPECIES_BAGON },     // slot 10 - 1%
+    { 30, 35, SPECIES_BELDUM },    // slot 11 - 1%
+};
+
+const struct WildPokemonInfo sSafariZone_HoennCave_LandMonsInfo = { 10, sSafariZone_HoennCave_LandMons };
+
+// --- HoennCaveSand ---
+const struct WildPokemon sSafariZone_HoennCaveSand_LandMons[] =
+{
+    { 20, 30, SPECIES_TRAPINCH },  // slot 0 - 20%
+    { 20, 30, SPECIES_BALTOY },    // slot 1 - 20%
+    { 20, 30, SPECIES_NUMEL },     // slot 2 - 10%
+    { 20, 30, SPECIES_CACNEA },    // slot 3 - 10%
+    { 20, 30, SPECIES_SPINDA },    // slot 4 - 10%
+    { 20, 30, SPECIES_TORKOAL },   // slot 5 - 10%
+    { 20, 30, SPECIES_LUNATONE },  // slot 6 - 5%
+    { 20, 30, SPECIES_SOLROCK },   // slot 7 - 5%
+    { 20, 30, SPECIES_SWABLU },    // slot 8 - 4%
+    { 20, 30, SPECIES_SWABLU },    // slot 9 - 4%
+    { 35, 40, SPECIES_SKARMORY },  // slot 10 - 1%
+    { 35, 40, SPECIES_SKARMORY },  // slot 11 - 1%
+};
+
+const struct WildPokemonInfo sSafariZone_HoennCaveSand_LandMonsInfo = { 10, sSafariZone_HoennCaveSand_LandMons };
+
+// --- HoennCaveGhost ---
+const struct WildPokemon sSafariZone_HoennCaveGhost_LandMons[] =
+{
+    { 20, 30, SPECIES_SHUPPET },   // slot 0 - 20%
+    { 20, 30, SPECIES_DUSKULL },   // slot 1 - 20%
+    { 20, 30, SPECIES_POOCHYENA }, // slot 2 - 10%
+    { 20, 30, SPECIES_SPOINK },    // slot 3 - 10%
+    { 20, 30, SPECIES_CASTFORM },  // slot 4 - 10%
+    { 20, 30, SPECIES_SABLEYE },   // slot 5 - 10%
+    { 20, 30, SPECIES_SEVIPER },   // slot 6 - 5%
+    { 20, 30, SPECIES_ZANGOOSE },  // slot 7 - 5%
+    { 20, 35, SPECIES_ABSOL },     // slot 8 - 4%
+    { 20, 35, SPECIES_CHIMECHO },  // slot 9 - 4%
+    { 20, 30, SPECIES_RALTS },     // slot 10 - 1%
+    { 20, 30, SPECIES_RALTS },     // slot 11 - 1%
+};
+
+const struct WildPokemonInfo sSafariZone_HoennCaveGhost_LandMonsInfo = { 10, sSafariZone_HoennCaveGhost_LandMons };
+
 const struct WildPokemon sThreeIslandBondBridge_Underwater_LandMons[] =
 {
     { 20, 20, SPECIES_CHINCHOU },
@@ -9020,5 +9125,53 @@ const struct WildPokemonHeader gWildMonHeaders[] =
         .rockSmashMonsInfo_LG = &sCeruleanCaveB1F_LeafGreen_RockSmashMonsInfo,
         .fishingMonsInfo_FR = &sCeruleanCaveB1F_FireRed_FishingMonsInfo,
         .fishingMonsInfo_LG = &sCeruleanCaveB1F_LeafGreen_FishingMonsInfo,
+    },
+    {
+        .mapGroup = MAP_GROUP(SAFARI_ZONE_NORTH_HOENN),
+        .mapNum = MAP_NUM(SAFARI_ZONE_NORTH_HOENN),
+        .landMonsInfo_FR = &sSafariZone_NorthHoenn_LandMonsInfo,
+        .landMonsInfo_LG = &sSafariZone_NorthHoenn_LandMonsInfo,
+        .waterMonsInfo_FR = &sSafariZone_NorthHoenn_WaterMonsInfo,
+        .waterMonsInfo_LG = &sSafariZone_NorthHoenn_WaterMonsInfo,
+        .rockSmashMonsInfo_FR = NULL,
+        .rockSmashMonsInfo_LG = NULL,
+        .fishingMonsInfo_FR = &sSafariZone_NorthHoenn_FishingMonsInfo,
+        .fishingMonsInfo_LG = &sSafariZone_NorthHoenn_FishingMonsInfo,
+    },
+    {
+        .mapGroup = MAP_GROUP(SAFARI_ZONE_HOENN_CAVE),
+        .mapNum = MAP_NUM(SAFARI_ZONE_HOENN_CAVE),
+        .landMonsInfo_FR = &sSafariZone_HoennCave_LandMonsInfo,
+        .landMonsInfo_LG = &sSafariZone_HoennCave_LandMonsInfo,
+        .waterMonsInfo_FR = NULL,
+        .waterMonsInfo_LG = NULL,
+        .rockSmashMonsInfo_FR = NULL,
+        .rockSmashMonsInfo_LG = NULL,
+        .fishingMonsInfo_FR = NULL,
+        .fishingMonsInfo_LG = NULL,
+    },
+    {
+        .mapGroup = MAP_GROUP(SAFARI_ZONE_HOENN_CAVE_SAND),
+        .mapNum = MAP_NUM(SAFARI_ZONE_HOENN_CAVE_SAND),
+        .landMonsInfo_FR = &sSafariZone_HoennCaveSand_LandMonsInfo,
+        .landMonsInfo_LG = &sSafariZone_HoennCaveSand_LandMonsInfo,
+        .waterMonsInfo_FR = NULL,
+        .waterMonsInfo_LG = NULL,
+        .rockSmashMonsInfo_FR = NULL,
+        .rockSmashMonsInfo_LG = NULL,
+        .fishingMonsInfo_FR = NULL,
+        .fishingMonsInfo_LG = NULL,
+    },
+    {
+        .mapGroup = MAP_GROUP(SAFARI_ZONE_HOENN_CAVE_GHOST),
+        .mapNum = MAP_NUM(SAFARI_ZONE_HOENN_CAVE_GHOST),
+        .landMonsInfo_FR = &sSafariZone_HoennCaveGhost_LandMonsInfo,
+        .landMonsInfo_LG = &sSafariZone_HoennCaveGhost_LandMonsInfo,
+        .waterMonsInfo_FR = NULL,
+        .waterMonsInfo_LG = NULL,
+        .rockSmashMonsInfo_FR = NULL,
+        .rockSmashMonsInfo_LG = NULL,
+        .fishingMonsInfo_FR = NULL,
+        .fishingMonsInfo_LG = NULL,
     },
 };

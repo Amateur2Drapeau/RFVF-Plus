@@ -139,6 +139,10 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM (123 | (1 << 8))
 #define MAP_SIX_ISLAND_PATTERN_BUSH              (124 | (1 << 8))
 #define MAP_SIX_ISLAND_ALTERING_CAVE             (125 | (1 << 8))
+#define MAP_SAFARI_ZONE_NORTH_HOENN              (126 | (1 << 8))
+#define MAP_SAFARI_ZONE_HOENN_CAVE               (127 | (1 << 8))
+#define MAP_SAFARI_ZONE_HOENN_CAVE_SAND          (128 | (1 << 8))
+#define MAP_SAFARI_ZONE_HOENN_CAVE_GHOST         (129 | (1 << 8))
 
 // gMapGroup_SpecialArea
 #define MAP_NAVEL_ROCK_EXTERIOR                       (0 | (2 << 8))

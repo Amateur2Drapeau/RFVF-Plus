@@ -178,7 +178,11 @@
     "SixIsland_DottedHole_B4F",
     "SixIsland_DottedHole_SapphireRoom",
     "SixIsland_PatternBush",
-    "SixIsland_AlteringCave"
+    "SixIsland_AlteringCave",
+    "SafariZone_NorthHoenn",
+    "SafariZone_HoennCave",
+    "SafariZone_HoennCaveSand",
+    "SafariZone_HoennCaveGhost"
   ],
   "gMapGroup_SpecialArea": [
     "NavelRock_Exterior",
