@@ -1347,16 +1347,16 @@ const struct WildPokemonInfo sThreeIslandBerryForest_FireRed_FishingMonsInfo = {
 const struct WildPokemon sFourIslandIcefallCaveEntrance_FireRed_LandMons[] =
 {
     { 43, 43, SPECIES_SEEL },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 47, 47, SPECIES_SEEL },
     { 40, 40, SPECIES_ZUBAT },
     { 49, 49, SPECIES_DEWGONG },
     { 51, 51, SPECIES_DEWGONG },
     { 41, 41, SPECIES_PSYDUCK },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
 };
 
@@ -1392,16 +1392,16 @@ const struct WildPokemonInfo sFourIslandIcefallCaveEntrance_FireRed_FishingMonsI
 const struct WildPokemon sFourIslandIcefallCave1F_FireRed_LandMons[] =
 {
     { 25, 25, SPECIES_SWINUB },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 27, 27, SPECIES_SWINUB },
     { 40, 40, SPECIES_ZUBAT },
     { 29, 29, SPECIES_SWINUB },
     { 30, 30, SPECIES_DELIBIRD },
     { 31, 31, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
 };
 
@@ -1410,16 +1410,16 @@ const struct WildPokemonInfo sFourIslandIcefallCave1F_FireRed_LandMonsInfo = { 7
 const struct WildPokemon sFourIslandIcefallCaveB1F_FireRed_LandMons[] =
 {
     { 25, 25, SPECIES_SWINUB },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 27, 27, SPECIES_SWINUB },
     { 40, 40, SPECIES_ZUBAT },
     { 29, 29, SPECIES_SWINUB },
     { 30, 30, SPECIES_DELIBIRD },
     { 31, 31, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
 };
 
@@ -1428,16 +1428,16 @@ const struct WildPokemonInfo sFourIslandIcefallCaveB1F_FireRed_LandMonsInfo = { 
 const struct WildPokemon sFourIslandIcefallCaveBack_FireRed_LandMons[] =
 {
     { 43, 43, SPECIES_SEEL },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 47, 47, SPECIES_SEEL },
     { 40, 40, SPECIES_ZUBAT },
     { 49, 49, SPECIES_DEWGONG },
     { 51, 51, SPECIES_DEWGONG },
     { 41, 41, SPECIES_PSYDUCK },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
 };
 
@@ -1473,17 +1473,17 @@ const struct WildPokemonInfo sFourIslandIcefallCaveBack_FireRed_FishingMonsInfo 
 const struct WildPokemon sSixIslandPatternBush_FireRed_LandMons[] =
 {
     { 9, 9, SPECIES_SPINARAK },
-    { 9, 9, SPECIES_KAKUNA },
-    { 14, 14, SPECIES_SPINARAK },
-    { 6, 6, SPECIES_CATERPIE },
-    { 6, 6, SPECIES_WEEDLE },
-    { 15, 15, SPECIES_HERACROSS },
-    { 9, 9, SPECIES_METAPOD },
-    { 20, 20, SPECIES_HERACROSS },
     { 9, 9, SPECIES_LEDYBA },
+    { 14, 14, SPECIES_SPINARAK },
+    { 15, 15, SPECIES_VOLBEAT },
+    { 8, 8, SPECIES_WURMPLE },
+    { 15, 15, SPECIES_ILLUMISE },
+    { 18, 18, SPECIES_SHROOMISH },
+    { 30, 30, SPECIES_TROPIUS },
     { 25, 25, SPECIES_HERACROSS },
-    { 14, 14, SPECIES_LEDYBA },
-    { 30, 30, SPECIES_HERACROSS },
+    { 25, 25, SPECIES_HERACROSS },
+    { 5, 5, SPECIES_TREECKO },
+    { 5, 5, SPECIES_CHIKORITA },
 };
 
 const struct WildPokemonInfo sSixIslandPatternBush_FireRed_LandMonsInfo = { 21, sSixIslandPatternBush_FireRed_LandMons };
@@ -2159,8 +2159,8 @@ const struct WildPokemon sSixIslandWaterPath_FireRed_LandMons[] =
     { 41, 41, SPECIES_PSYDUCK },
     { 50, 50, SPECIES_FEAROW },
     { 47, 47, SPECIES_PERSIAN },
-    { 50, 50, SPECIES_FEAROW },
-    { 50, 50, SPECIES_PERSIAN },
+    { 5, 5, SPECIES_MUDKIP },
+    { 5, 5, SPECIES_TOTODILE },
 };
 
 const struct WildPokemonInfo sSixIslandWaterPath_FireRed_LandMonsInfo = { 21, sSixIslandWaterPath_FireRed_LandMons };
@@ -2204,8 +2204,8 @@ const struct WildPokemon sSixIslandRuinValley_FireRed_LandMons[] =
     { 41, 41, SPECIES_PSYDUCK },
     { 20, 20, SPECIES_NATU },
     { 49, 49, SPECIES_PERSIAN },
-    { 20, 20, SPECIES_NATU },
-    { 52, 52, SPECIES_PERSIAN },
+    { 5, 5, SPECIES_TORCHIC },
+    { 5, 5, SPECIES_CYNDAQUIL },
 };
 
 const struct WildPokemonInfo sSixIslandRuinValley_FireRed_LandMonsInfo = { 21, sSixIslandRuinValley_FireRed_LandMons };
@@ -4885,16 +4885,16 @@ const struct WildPokemonInfo sThreeIslandBerryForest_LeafGreen_FishingMonsInfo =
 const struct WildPokemon sFourIslandIcefallCaveEntrance_LeafGreen_LandMons[] =
 {
     { 43, 43, SPECIES_SEEL },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 47, 47, SPECIES_SEEL },
     { 40, 40, SPECIES_ZUBAT },
     { 49, 49, SPECIES_DEWGONG },
     { 51, 51, SPECIES_DEWGONG },
     { 41, 41, SPECIES_SLOWPOKE },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
 };
 
@@ -4930,16 +4930,16 @@ const struct WildPokemonInfo sFourIslandIcefallCaveEntrance_LeafGreen_FishingMon
 const struct WildPokemon sFourIslandIcefallCave1F_LeafGreen_LandMons[] =
 {
     { 25, 25, SPECIES_SWINUB },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 27, 27, SPECIES_SWINUB },
     { 40, 40, SPECIES_ZUBAT },
     { 29, 29, SPECIES_SWINUB },
     { 30, 30, SPECIES_SNEASEL },
     { 31, 31, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
 };
 
@@ -4948,16 +4948,16 @@ const struct WildPokemonInfo sFourIslandIcefallCave1F_LeafGreen_LandMonsInfo = {
 const struct WildPokemon sFourIslandIcefallCaveB1F_LeafGreen_LandMons[] =
 {
     { 25, 25, SPECIES_SWINUB },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 27, 27, SPECIES_SWINUB },
     { 40, 40, SPECIES_ZUBAT },
     { 29, 29, SPECIES_SWINUB },
     { 30, 30, SPECIES_SNEASEL },
     { 31, 31, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 23, 23, SPECIES_SWINUB },
 };
 
@@ -4966,16 +4966,16 @@ const struct WildPokemonInfo sFourIslandIcefallCaveB1F_LeafGreen_LandMonsInfo = 
 const struct WildPokemon sFourIslandIcefallCaveBack_LeafGreen_LandMons[] =
 {
     { 43, 43, SPECIES_SEEL },
-    { 45, 45, SPECIES_GOLBAT },
+    { 45, 45, SPECIES_SPHEAL },
     { 45, 45, SPECIES_SEEL },
     { 47, 47, SPECIES_SEEL },
     { 40, 40, SPECIES_ZUBAT },
     { 49, 49, SPECIES_DEWGONG },
     { 51, 51, SPECIES_DEWGONG },
     { 41, 41, SPECIES_SLOWPOKE },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
-    { 48, 48, SPECIES_GOLBAT },
+    { 48, 48, SPECIES_SNORUNT },
     { 53, 53, SPECIES_DEWGONG },
 };
 
@@ -5010,18 +5010,18 @@ const struct WildPokemonInfo sFourIslandIcefallCaveBack_LeafGreen_FishingMonsInf
 
 const struct WildPokemon sSixIslandPatternBush_LeafGreen_LandMons[] =
 {
-    { 9, 9, SPECIES_LEDYBA },
-    { 9, 9, SPECIES_KAKUNA },
-    { 14, 14, SPECIES_LEDYBA },
-    { 6, 6, SPECIES_CATERPIE },
-    { 6, 6, SPECIES_WEEDLE },
-    { 15, 15, SPECIES_HERACROSS },
-    { 9, 9, SPECIES_METAPOD },
-    { 20, 20, SPECIES_HERACROSS },
     { 9, 9, SPECIES_SPINARAK },
-    { 25, 25, SPECIES_HERACROSS },
+    { 9, 9, SPECIES_LEDYBA },
     { 14, 14, SPECIES_SPINARAK },
-    { 30, 30, SPECIES_HERACROSS },
+    { 15, 15, SPECIES_VOLBEAT },
+    { 8, 8, SPECIES_WURMPLE },
+    { 15, 15, SPECIES_ILLUMISE },
+    { 18, 18, SPECIES_SHROOMISH },
+    { 30, 30, SPECIES_TROPIUS },
+    { 25, 25, SPECIES_HERACROSS },
+    { 25, 25, SPECIES_HERACROSS },
+    { 5, 5, SPECIES_TREECKO },
+    { 5, 5, SPECIES_CHIKORITA },
 };
 
 const struct WildPokemonInfo sSixIslandPatternBush_LeafGreen_LandMonsInfo = { 21, sSixIslandPatternBush_LeafGreen_LandMons };
@@ -5697,8 +5697,8 @@ const struct WildPokemon sSixIslandWaterPath_LeafGreen_LandMons[] =
     { 41, 41, SPECIES_SLOWPOKE },
     { 50, 50, SPECIES_FEAROW },
     { 47, 47, SPECIES_PERSIAN },
-    { 50, 50, SPECIES_FEAROW },
-    { 50, 50, SPECIES_PERSIAN },
+    { 5, 5, SPECIES_MUDKIP },
+    { 5, 5, SPECIES_TOTODILE },
 };
 
 const struct WildPokemonInfo sSixIslandWaterPath_LeafGreen_LandMonsInfo = { 21, sSixIslandWaterPath_LeafGreen_LandMons };
@@ -5742,8 +5742,8 @@ const struct WildPokemon sSixIslandRuinValley_LeafGreen_LandMons[] =
     { 41, 41, SPECIES_SLOWPOKE },
     { 20, 20, SPECIES_NATU },
     { 49, 49, SPECIES_PERSIAN },
-    { 20, 20, SPECIES_NATU },
-    { 52, 52, SPECIES_PERSIAN },
+    { 5, 5, SPECIES_TORCHIC },
+    { 5, 5, SPECIES_CYNDAQUIL },
 };
 
 const struct WildPokemonInfo sSixIslandRuinValley_LeafGreen_LandMonsInfo = { 21, sSixIslandRuinValley_LeafGreen_LandMons };

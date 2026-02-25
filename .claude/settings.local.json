@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for:*)",
+      "Bash(do echo -n \"center$i.gbapal: \")",
+      "Bash(xxd:*)",
+      "Bash(done)",
+      "Bash(tools/gbagfx/gbagfx:*)",
+      "Bash(ldd:*)"
+    ]
+  }
+}
