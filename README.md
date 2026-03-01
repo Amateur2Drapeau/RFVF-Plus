@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Cette Rom a été développée dans le but de maintenir au maximul l'expérience de base de Pokémon Rouge Feu et Vert Feuille de l'époque. Il n'y a presque aucun changement de scénario. Cépendant un très grand nombre de changements liés au QOL (Quality of life) a été apporté que vous pourrez lire dans la section en question. J'ai rajouté également un moyen d'avoir tous les Pokémon de la 1ere à la 3e génération sauf exceptions qui seront rajoutés dans les prochaines mises à jour. 
+Cette Rom a été développée dans le but de maintenir au maximum l'expérience de base de Pokémon Rouge Feu et Vert Feuille de l'époque. Il n'y a presque aucun changement de scénario. Cependant un très grand nombre de changements liés au QOL (Quality of life) a été apporté que vous pourrez lire dans la section en question. J'ai rajouté également un moyen d'avoir tous les Pokémon de la 1ere à la 3e génération sauf exceptions qui seront rajoutés dans les prochaines mises à jour. 
 
 Si vous souhaitez me faire un don pour mon travail vous pouvez le faire sur [cette page](https://ko-fi.com/materia1005#)
 
