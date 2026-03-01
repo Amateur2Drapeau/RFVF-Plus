@@ -63,3 +63,26 @@ prefabs.json
 my_script.js
 *.js
 *.sym
+
+# Fichiers émulateur et de travail à la racine
+*.cheats
+*.sav
+*.sa2
+*.sgm
+*.ss1
+*.ss2
+*.spr
+output.txt
+info:palette.txt
+healthbox_elements_strip.png
+pokefirered.gba.*
+pokeleafgreen*.gba
+pokeleafgreen*.sav
+pokeleafgreen*.bak
+pokeleafgreen*.elf
+pokeleafgreen*.map
+pokeleafgreen*.sa*
+"Pokemon - Version*.gba"
+"Pokemon - Version*.bak"
+"Pokemon - Version*.sav"
+NENUCRIQUE*.map
