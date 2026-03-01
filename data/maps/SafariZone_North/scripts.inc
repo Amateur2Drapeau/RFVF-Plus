@@ -55,9 +55,11 @@ SafariZone_North_EventScript_Worker1::
 	end
 
 SafariZone_North_Text_Worker1::
-	.string "Tu apprécies ton excursion dans le PARC?\p"
-	.string "Nous travaillons donc continuez votre\n"
-	.string "excursion dans les autres ZONES du PARC.$"
+	.string "Tu apprécies ton excursion dans\n"
+	.string "le PARC?\p"
+	.string "Nous travaillons donc continuez\n"
+	.string "votre excursion dans les autres\l"
+	.string "ZONES du PARC.$"
 
 SafariZone_North_EventScript_Worker2::
 	msgbox SafariZone_North_Text_Worker2, MSGBOX_DEFAULT

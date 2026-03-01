@@ -899,7 +899,7 @@ Ce document liste tous les Pokémon sauvages disponibles dans RFVF+, organisés 
 | Mystherbe | 14 | 14 | 5% |
 | Coconfort | 8 | 8 | 4% |
 | Abra | 8 | 8 | 4% |
-| Chrysacier | 8 | 8 | 1% |
+| Carapuce | 8 | 8 | 1% |
 | Abra | 12 | 12 | 1% |
 
 **Version Vert Feuille :**
@@ -916,7 +916,7 @@ Ce document liste tous les Pokémon sauvages disponibles dans RFVF+, organisés 
 | Chétiflor | 14 | 14 | 5% |
 | Chrysacier | 8 | 8 | 4% |
 | Abra | 8 | 8 | 4% |
-| Coconfort | 8 | 8 | 1% |
+| Carapuce | 8 | 8 | 1% |
 | Abra | 12 | 12 | 1% |
 
 ### Surf
@@ -2839,8 +2839,9 @@ Ce document liste tous les Pokémon sauvages disponibles dans RFVF+, organisés 
 | Machoc | 16 | 16 | 10% |
 | Férosinge | 17 | 17 | 5% |
 | Machoc | 17 | 17 | 5% |
-| Racaillou | 15 | 15 | 5% |
+| Racaillou | 15 | 15 | 4% |
 | Onix | 13 | 13 | 4% |
+| Salamèche | 15 | 15 | 1% |
 | Onix | 15 | 15 | 1% |
 
 ---
@@ -2859,8 +2860,9 @@ Ce document liste tous les Pokémon sauvages disponibles dans RFVF+, organisés 
 | Machoc | 17 | 17 | 10% |
 | Férosinge | 16 | 16 | 5% |
 | Onix | 13 | 13 | 5% |
-| Racaillou | 15 | 15 | 5% |
+| Racaillou | 15 | 15 | 4% |
 | Onix | 15 | 15 | 4% |
+| Salamèche | 15 | 15 | 1% |
 | Onix | 17 | 17 | 1% |
 
 ### Brise-Roc
@@ -4272,7 +4274,7 @@ Ce document liste tous les Pokémon sauvages disponibles dans RFVF+, organisés 
 | Coconfort | 5 | 5 | 5% |
 | Coconfort | 4 | 4 | 4% |
 | Pikachu | 3 | 3 | 4% |
-| Coconfort | 6 | 6 | 1% |
+| Bulbizarre | 5 | 5 | 1% |
 | Pikachu | 5 | 5 | 1% |
 
 **Version Vert Feuille :**
@@ -4289,7 +4291,7 @@ Ce document liste tous les Pokémon sauvages disponibles dans RFVF+, organisés 
 | Chrysacier | 5 | 5 | 5% |
 | Chrysacier | 4 | 4 | 4% |
 | Pikachu | 3 | 3 | 4% |
-| Chrysacier | 6 | 6 | 1% |
+| Bulbizarre | 5 | 5 | 1% |
 | Pikachu | 5 | 5 | 1% |
 
 ---

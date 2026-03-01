@@ -180,7 +180,7 @@ const struct WildPokemon sViridianForest_FireRed_LandMons[] =
     { 5, 5, SPECIES_KAKUNA },
     { 4, 4, SPECIES_KAKUNA },
     { 3, 3, SPECIES_PIKACHU },
-    { 6, 6, SPECIES_KAKUNA },
+    { 5, 5, SPECIES_BULBASAUR },
     { 5, 5, SPECIES_PIKACHU },
 };
 
@@ -744,7 +744,7 @@ const struct WildPokemon sRockTunnel1F_FireRed_LandMons[] =
     { 17, 17, SPECIES_MACHOP },
     { 15, 15, SPECIES_GEODUDE },
     { 13, 13, SPECIES_ONIX },
-    { 15, 15, SPECIES_GEODUDE },
+    { 15, 15, SPECIES_CHARMANDER },
     { 15, 15, SPECIES_ONIX },
 };
 
@@ -762,7 +762,7 @@ const struct WildPokemon sRockTunnelB1F_FireRed_LandMons[] =
     { 13, 13, SPECIES_ONIX },
     { 15, 15, SPECIES_GEODUDE },
     { 15, 15, SPECIES_ONIX },
-    { 15, 15, SPECIES_GEODUDE },
+    { 15, 15, SPECIES_CHARMANDER },
     { 17, 17, SPECIES_ONIX },
 };
 
@@ -3070,7 +3070,7 @@ const struct WildPokemon sRoute24_FireRed_LandMons[] =
     { 14, 14, SPECIES_ODDISH },
     { 8, 8, SPECIES_KAKUNA },
     { 8, 8, SPECIES_ABRA },
-    { 8, 8, SPECIES_METAPOD },
+    { 8, 8, SPECIES_SQUIRTLE },
     { 12, 12, SPECIES_ABRA },
 };
 
@@ -3718,7 +3718,7 @@ const struct WildPokemon sViridianForest_LeafGreen_LandMons[] =
     { 5, 5, SPECIES_METAPOD },
     { 4, 4, SPECIES_METAPOD },
     { 3, 3, SPECIES_PIKACHU },
-    { 6, 6, SPECIES_METAPOD },
+    { 5, 5, SPECIES_BULBASAUR },
     { 5, 5, SPECIES_PIKACHU },
 };
 
@@ -4282,7 +4282,7 @@ const struct WildPokemon sRockTunnel1F_LeafGreen_LandMons[] =
     { 17, 17, SPECIES_MACHOP },
     { 15, 15, SPECIES_GEODUDE },
     { 13, 13, SPECIES_ONIX },
-    { 15, 15, SPECIES_GEODUDE },
+    { 15, 15, SPECIES_CHARMANDER },
     { 15, 15, SPECIES_ONIX },
 };
 
@@ -4300,7 +4300,7 @@ const struct WildPokemon sRockTunnelB1F_LeafGreen_LandMons[] =
     { 13, 13, SPECIES_ONIX },
     { 15, 15, SPECIES_GEODUDE },
     { 15, 15, SPECIES_ONIX },
-    { 15, 15, SPECIES_GEODUDE },
+    { 15, 15, SPECIES_CHARMANDER },
     { 17, 17, SPECIES_ONIX },
 };
 
@@ -6608,7 +6608,7 @@ const struct WildPokemon sRoute24_LeafGreen_LandMons[] =
     { 14, 14, SPECIES_BELLSPROUT },
     { 8, 8, SPECIES_METAPOD },
     { 8, 8, SPECIES_ABRA },
-    { 8, 8, SPECIES_KAKUNA },
+    { 8, 8, SPECIES_SQUIRTLE },
     { 12, 12, SPECIES_ABRA },
 };
 

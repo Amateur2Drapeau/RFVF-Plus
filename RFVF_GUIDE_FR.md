@@ -2,6 +2,18 @@
 
 ---
 
+## Introduction
+
+Cette Rom a été développée dans le but de maintenir au maximul l'expérience de base de Pokémon Rouge Feu et Vert Feuille de l'époque. Il n'y a presque aucun changement de scénario. Cépendant un très grand nombre de changements liés au QOL (Quality of life) a été apporté que vous pourrez lire dans la section en question. J'ai rajouté également un moyen d'avoir tous les Pokémon de la 1ere à la 3e génération sauf exceptions qui seront rajoutés dans les prochaines mises à jour. 
+
+Si vous souhaitez me faire un don pour mon travail vous pouvez le faire sur [cette page](https://ko-fi.com/materia1005#)
+
+Je me suis basé sur le repo de Deokishisu [FRLG-Plus](https://github.com/Deokishisu/FRLG-Plus?tab=readme-ov-file). N'hésitez pas aller consulter son travail. 
+
+
+
+---
+
 ## Table des matières
 
 - [Fonctionnalités](#fonctionnalités)
@@ -192,10 +204,11 @@ Non. J'ai toujours trouvé que ce genre de fonctionnalités cassaient l'immersio
 99% des 386 Pokémon de la Gen 1 à 3. Les manquants seront ajoutés dans des mises à jour futures. 
 
 **Peut-on obtenir les autres starters de Kanto ? Et le fossile non choisi ?**
-Oui, tous deux dans le post-game.
+Oui, ils sont tous a la fois dispo dans le jeu de base et dans le post game.
+- Bulbizarre dans la forêt de Jade, Carapuce dans la route au Nord de Azuria et Salamèche dans la grotte sombre au nord de la Centrale.
 - Le starter du Rival peut être obtenu sous forme d'Œuf chez le Gardien de la Pension sur l'Île 4.
-- Le starter non choisi est donné par Flora après réparation de la Machine Réseau sur l'Île 1.
-- Le fossile non choisi s'obtient dans le Passage des Trois Îles, auprès du PNJ dans la grotte, après être devenu Champion.
+- Le starter non choisi est donné par Nina après réparation de la Machine Réseau sur l'Île 1.
+- Le fossile non choisi s'obtient dans le Passage de l'Ile 3, auprès du PNJ dans la grotte, après être devenu Champion.
 
 **Peut-on faire évoluer les Pokémon de Kanto en leurs évolutions Johto sans le Pokédex National ?**
 Oui. Le jeu ne bloque plus les évolutions vers des Pokémon absents du Pokédex de Kanto.
