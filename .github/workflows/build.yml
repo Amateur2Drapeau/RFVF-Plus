@@ -1,40 +1,32 @@
-name: CI
+name: Build ROM
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GAME_VERSION: FIRERED
-      GAME_LANGUAGE: ENGLISH
-      GAME_REVISION: 0
-      MODERN: 0
-      COMPARE: 1
     steps:
-      - name: Checkout
-        uses: actions/checkout@master
+      - uses: actions/checkout@v3
 
-      - name: Checkout agbcc
-        uses: actions/checkout@master
+      - name: Install dependencies
+        run: sudo apt-get install -y build-essential binutils-arm-none-eabi git libpng-dev
+
+      - name: Build agbcc
+        run: |
+          git clone https://github.com/pret/agbcc
+          cd agbcc
+          ./build.sh
+          ./install.sh ../
+
+      - name: Build ROM
+        run: make
+
+      - name: Upload ROM
+        uses: actions/upload-artifact@v4
         with:
-          path: 'agbcc'
-          repository: 'pret/agbcc'
-
-      - name: Checkout symbols
-        if: ${{ github.event_name == 'push' }}
-        uses: actions/checkout@master
-        with:
-          path: 'symbols'
-          ref: 'symbols'
-
-      - name: Install binutils
-        run: sudo apt install gcc-arm-none-eabi binutils-arm-none-eabi
-        # build-essential, git, and libpng-dev are already installed
-        # gcc-arm-none-eabi is only needed for the modern build
+          name: RFVF-Plus
+          path: pokefirered.gba        # gcc-arm-none-eabi is only needed for the modern build
         # as an alternative to dkP
 
       - name: Install agbcc
